@@ -71,6 +71,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [MXNet Face](https://github.com/tornadomeet/mxnet-face)
 >> - [Tiny Face](https://github.com/chinakook/hr101_mxnet)
 >> - [VanillaCNN](https://github.com/flyingzhao/mxnet_VanillaCNN)
+>> - [DeepID v1](https://github.com/AihahaFox/deepid-mxnet)
 >> - [Head Pose](https://github.com/LaoDar/cnn_head_pose_estimator)
 >> - [Triple Loss](https://github.com/xlvector/learning-dl/tree/master/mxnet/triple-loss)
 >> - [Center Loss](https://github.com/pangyupo/mxnet_center_loss)
@@ -82,6 +83,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Face68Pts](https://github.com/LaoDar/mxnet_cnn_face68pts)
 >> - [Dynamic pose estimation](https://github.com/gengshan-y/dyn_pose)
 >> - [LSTM for HAR](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/HumanActivityRecognition)
+>> - [C3D](https://github.com/JaggerYoung/C3D-mxnet)
 
 >> ### 2.6 Image Super-resolution
 >> - [SRCNN](https://github.com/Codersadis/SRCNN-MXNET)
@@ -89,8 +91,14 @@ If you want to contribute to this list and the examples, please open a new pull 
 
 >> ### 2.7 OCR
 >> - [STN OCR](https://github.com/Bartzi/stn-ocr)
->> - [Plate Recognition (Chinese)](https://github.com/huxiaoman7/mxnet-cnn-plate-recognition)
+>> - [Plate Recognition (Chinese)](https://github.com/szad670401/end-to-end-for-chinese-plate-recognition)
+>> - [crnn](https://github.com/xinghedyc/mxnet-cnn-lstm-ctc-ocr)
+>> - [crnn (with Chinese Support)](https://github.com/novioleo/crnn.mxnet)
+>> - [CNN-LSTM-CTC](https://github.com/oyxhust/CNN-LSTM-CTC-text-recognition)
+>> - [SSD Text Detection](https://github.com/oyxhust/ssd-text_detection)
 
 >> ### 2.8 Images Generation
 >> - [pix2pix](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/Pix2Pix)
 >> - [Neural-Style-MMD](https://github.com/lyttonhao/Neural-Style-MMD):star:
+
+>> ### 2.9 GAN
