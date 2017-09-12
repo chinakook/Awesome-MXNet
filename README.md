@@ -70,6 +70,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [MTCNN (original detector)](https://github.com/pangyupo/mxnet_mtcnn_face_detection)
 >> - [MXNet Face](https://github.com/tornadomeet/mxnet-face)
 >> - [Tiny Face](https://github.com/chinakook/hr101_mxnet)
+>> - [FaceDetection-ConvNet-3D](https://github.com/tfwu/FaceDetection-ConvNet-3D)
 >> - [VanillaCNN](https://github.com/flyingzhao/mxnet_VanillaCNN)
 >> - [DeepID v1](https://github.com/AihahaFox/deepid-mxnet)
 >> - [Head Pose](https://github.com/LaoDar/cnn_head_pose_estimator)
