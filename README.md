@@ -43,3 +43,29 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [SSD+Focal Loss](https://github.com/eldercrow/focal_loss_mxnet_ssd)
 >> - [Faster RCNN+Focal Loss](https://github.com/unsky/focal-loss)
 >> - [RetinaNet](https://github.com/unsky/RetinaNet)
+
+>> ### 2.3 Image Segmentation
+>> - [FCIS](https://github.com/msracver/FCIS)
+>> - [ResNet-38](https://github.com/itijyou/ademxapp)
+>> - [Deeplab v2](https://github.com/buptweixin/mxnet-deeplab)
+>> - [U-Net](https://github.com/chinakook/U-Net)
+
+>> ### 2.4 Video Recognition and Object Detection
+>> - [Deep Feature Flow](https://github.com/msracver/Deep-Feature-Flow):star:
+>> - [Flow-Guided Feature Aggregation](https://github.com/msracver/Flow-Guided-Feature-Aggregation):star:
+
+>> ### 2.5 Face Detection / Recognition / Verification
+>> - [MTCNN](https://github.com/Seanlinx/mtcnn)
+>> - [MTCNN (original detector)](https://github.com/pangyupo/mxnet_mtcnn_face_detection)
+>> - [MXNet Face](https://github.com/tornadomeet/mxnet-face)
+>> - [Tiny Face](https://github.com/chinakook/hr101_mxnet)
+>> - [VanillaCNN](https://github.com/flyingzhao/mxnet_VanillaCNN)
+>> - [Triple Loss](https://github.com/xlvector/learning-dl/tree/master/mxnet/triple-loss)
+>> - [Center Loss](https://github.com/pangyupo/mxnet_center_loss)
+>> - [Large-Margin Softmax Loss](https://github.com/luoyetx/mx-lsoftmax)
+>> - [Range Loss](https://github.com/ShownX/mxnet-rangeloss)
+
+>> ### 2.8 Image Super-resolution
+>> - [SRCNN](https://github.com/Codersadis/SRCNN-MXNET)
+>> - [SuperResolutionCNN](https://github.com/galad-loth/SuperResolutionCNN)
+
