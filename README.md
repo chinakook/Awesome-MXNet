@@ -76,7 +76,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Center Loss](https://github.com/pangyupo/mxnet_center_loss)
 >> - [Large-Margin Softmax Loss](https://github.com/luoyetx/mx-lsoftmax)
 >> - [Range Loss](https://github.com/ShownX/mxnet-rangeloss)
->> - [Convolutional Sketch Inversion]https://github.com/VinniaKemala/sketch-inversion)
+>> - [Convolutional Sketch Inversion](https://github.com/VinniaKemala/sketch-inversion)
 >> - [Convolutional Pose Machines](https://github.com/li-haoran/mxnet-convolutional_pose_machines_Testing)
 >> - [OpenPose](https://github.com/dragonfly90/mxnet_Realtime_Multi-Person_Pose_Estimation)
 >> - [Face68Pts](https://github.com/LaoDar/mxnet_cnn_face68pts)
