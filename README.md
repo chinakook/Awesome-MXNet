@@ -64,6 +64,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> ### 2.4 Video Recognition and Object Detection
 >> - [Deep Feature Flow](https://github.com/msracver/Deep-Feature-Flow):star:
 >> - [Flow-Guided Feature Aggregation](https://github.com/msracver/Flow-Guided-Feature-Aggregation):star:
+>> - [st-resnet](https://github.com/jay1204/st-resnet)
 
 >> ### 2.5 Face and Human releated
 >> - [MTCNN](https://github.com/Seanlinx/mtcnn)
