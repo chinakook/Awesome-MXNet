@@ -55,8 +55,9 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [IOULoss](https://github.com/wcj-Ford/IOULoss)
 
 >> ### 2.3 Image Segmentation
+>> - [Mask R-CNN](https://github.com/TuSimple/mx-maskrcnn)
+>> - [Mask R-CNN](https://github.com/xilaili/maskrcnn.mxnet)
 >> - [FCIS](https://github.com/msracver/FCIS)
->> - [MaskRCNN](https://github.com/xilaili/maskrcnn.mxnet)
 >> - [ResNet-38](https://github.com/itijyou/ademxapp)
 >> - [Deeplab v2](https://github.com/buptweixin/mxnet-deeplab)
 >> - [U-Net](https://github.com/chinakook/U-Net)
