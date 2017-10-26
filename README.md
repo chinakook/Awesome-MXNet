@@ -157,3 +157,4 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [MXNet Model Serving ](https://github.com/yuruofeifei/mms)
 >> - [Early-Stopping](https://github.com/kperkins411/MXNet_Demo_Early-Stopping)
 >> - [CaffeTranslator](https://github.com/indhub/CaffeTranslator)
+>> - [MXNetOnACL](https://github.com/OAID/MXNetOnACL)
