@@ -124,6 +124,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [VisualBackProp](https://github.com/Bartzi/visual-backprop-mxnet)
 >> - [VQA](https://github.com/shiyangdaisy23/mxnet-vqa)
 >> - [VQA(Gluon)](https://github.com/shiyangdaisy23/vqa-mxnet-gluon)
+>> - [text2image](https://github.com/dbsheta/text2image)
 >> - [Traffic sign classification](https://github.com/sookinoby/mxnet-ccn-samples)
 >> - [cicada classification](https://github.com/dokechin/cicada_shell)
 >> - [Loss Surfaces](https://github.com/nicklhy/cnn_loss_surface)
@@ -158,3 +159,4 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Early-Stopping](https://github.com/kperkins411/MXNet_Demo_Early-Stopping)
 >> - [CaffeTranslator](https://github.com/indhub/CaffeTranslator)
 >> - [MXNetOnACL](https://github.com/OAID/MXNetOnACL)
+>> - [mxbox](https://github.com/Lyken17/mxbox)
