@@ -11,7 +11,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [2. Vision](#Vision)
 - [3. NLP](#NLP)
 - [4. Speech](#Speech)
-- [5. Building Blocks](#Building)
+- [5. CTR](#CTR)
 - [6. Tools](#Tools)
 
 ============================================================================================================
@@ -106,5 +106,25 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> ### 2.8 Images Generation
 >> - [pix2pix](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/Pix2Pix)
 >> - [Neural-Style-MMD](https://github.com/lyttonhao/Neural-Style-MMD):star:
+>> - [MSG-Net(Gluon)](https://github.com/zhanghang1989/MXNet-Gluon-Style-Transfer)
 
 >> ### 2.9 GAN
+
+>> ### 3.0 Misc
+>> - [Traffic sign classification](https://github.com/sookinoby/mxnet-ccn-samples)
+
+## <a name="NLP"></a>3. NLP
+>> - [sockeye](https://github.com/awslabs/sockeye)
+>> - [MXNMT](https://github.com/magic282/MXNMT)
+>> - [Char-RNN(Gluon)](https://github.com/SherlockLiao/Char-RNN-Gluon)
+>> - [AC-BLSTM](https://github.com/Ldpe2G/AC-BLSTM)
+
+## <a name="Speech"></a>4. Speech
+>> - [deepspeech](https://github.com/samsungsds-rnd/deepspeech.mxnet)
+
+## <a name="Speech"></a>5. CTR
+>> - [MXNet for CTR ](https://github.com/CNevd/DeepLearning-MXNet)
+
+## <a name="Speech"></a>6. Tools
+>> - [YellowFin](https://github.com/StargazerZhu/YellowFin_MXNet)
+>> - [MXNet Model Serving ](https://github.com/yuruofeifei/mms)
