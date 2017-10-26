@@ -21,6 +21,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [Gluon Tutorial Documentation (Simplified Chinese)](https://zh.gluon.ai/)
 - [CheatSheet](https://github.com/chinakook/Awesome-MXNet/blob/master/apache-mxnet-cheat.pdf)
 - [Using MXNet](https://github.com/JONGGON/Mxnet_Tutorial)
+- [Linalg examples](https://github.com/ARCambridge/MXNet_linalg_examples)
 
 ## <a name="Vision"></a>2. Vision
 >> ### 2.1 Image Classification
@@ -62,6 +63,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Deeplab v2](https://github.com/buptweixin/mxnet-deeplab)
 >> - [U-Net](https://github.com/chinakook/U-Net)
 >> - [U-Net (kaggle dstl)](https://github.com/u1234x1234/kaggle-dstl-satellite-imagery-feature-detection)
+>> - [Segnet](https://github.com/solin319/incubator-mxnet/tree/solin-patch-segnet)
 
 >> ### 2.4 Video Recognition and Object Detection
 >> - [Deep Feature Flow](https://github.com/msracver/Deep-Feature-Flow):star:
