@@ -28,6 +28,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [ResNet](https://github.com/tornadomeet/ResNet)
 >> - [DenseNet](https://github.com/bruinxiong/densenet.mxnet)
 >> - [DPN](https://github.com/cypw/DPNs):star:
+>> - [SENet](https://github.com/bruinxiong/SENet.mxnet):star:
 >> - [CRU-Net](https://github.com/cypw/CRU-Net)
 >> - [MobileNet](https://github.com/KeyKy/mobilenet-mxnet)
 >> - [ShuffleNet](https://github.com/ZiyueHuang/MXShuffleNet)
@@ -46,6 +47,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [YOLO](https://github.com/zhreshold/mxnet-yolo)
 >> - [YOLO/dark2mxnet](https://github.com/bowenc0221/MXNet-YOLO)
 >> - [Faster RCNN](https://github.com/precedenceguo/mx-rcnn)
+>> - [Faster RCNN(Gluon)](https://github.com/linmx0130/ya_mxdet)
 >> - [R-FCN](https://github.com/msracver/Deformable-ConvNets)
 >> - [Deformable-ConvNets](https://github.com/msracver/Deformable-ConvNets)
 >> - [Deformable-ConvNets+SoftNMS](https://github.com/bharatsingh430/Deformable-ConvNets):star:
@@ -133,6 +135,8 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Neural Image Caption](https://github.com/saicoco/mxnet_image_caption)
 >> - [mmd/jmmd/adaBN](https://github.com/deepinsight/transfer-mxnet)
 >> - [NetVlad](https://github.com/likelyzhao/NetVlad-MxNet)
+>> - [multilabel](https://github.com/miraclewkf/multilabel-MXNet)
+>> - [multi-task](https://github.com/miraclewkf/multi-task-MXNet)
 
 ## <a name="NLP"></a>3. NLP
 >> - [sockeye](https://github.com/awslabs/sockeye)
@@ -143,6 +147,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [MemN2N](https://github.com/nicklhy/MemN2N)
 >> - [Neural Programmer-Interpreters](https://github.com/Cloudyrie/npi)
 >> - [sequence-sampling](https://github.com/doetsch/sequence-sampling-mxnet)
+>> - [retrieval chatbot](https://github.com/NonvolatileMemory/baseline_for_chatbot-mxnet)
 
 ## <a name="Speech"></a>4. Speech
 >> - [deepspeech](https://github.com/samsungsds-rnd/deepspeech.mxnet)
@@ -152,6 +157,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [MXNet for CTR ](https://github.com/CNevd/DeepLearning-MXNet)
 >> - [CDL](https://github.com/js05212/MXNet-for-CDL)
 >> - [SpectralLDA](https://github.com/Mega-DatA-Lab/SpectralLDA-MXNet)
+>> - [DEF(Gluon)](https://github.com/altosaar/deep-exponential-families-gluon)
 
 ## <a name="Speech"></a>6. Tools
 >> - [YellowFin](https://github.com/StargazerZhu/YellowFin_MXNet)
@@ -160,3 +166,5 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [CaffeTranslator](https://github.com/indhub/CaffeTranslator)
 >> - [MXNetOnACL](https://github.com/OAID/MXNetOnACL)
 >> - [mxbox](https://github.com/Lyken17/mxbox)
+>> - [Email Monitor MxnetTrain](https://github.com/fierceX/Email_Monitor_MxnetTrain)
+>> - [mxflows](https://github.com/aidan-plenert-macdonald/mxflows)
