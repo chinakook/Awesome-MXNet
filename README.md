@@ -58,7 +58,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [IOULoss](https://github.com/wcj-Ford/IOULoss)
 
 >> ### 2.3 Image Segmentation
->> - [Mask R-CNN+FPN](https://github.com/TuSimple/mx-maskrcnn)
+>> - [Mask R-CNN+FPN](https://github.com/TuSimple/mx-maskrcnn):star:
 >> - [Mask R-CNN](https://github.com/xilaili/maskrcnn.mxnet)
 >> - [FCIS](https://github.com/msracver/FCIS)
 >> - [ResNet-38](https://github.com/itijyou/ademxapp)
@@ -94,7 +94,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [LSTM for HAR](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/HumanActivityRecognition)
 >> - [C3D](https://github.com/JaggerYoung/C3D-mxnet)
 >> - [DeepHumanPrediction](https://github.com/JONGGON/DeepHumanPrediction)
->> - [SphereFace/FocalLoss/CenterLoss/KNNLoss(CUDA)](https://github.com/deepearthgo/Cuda-Mxnet)
+>> - [SphereFace/FocalLoss/CenterLoss/KNNLoss(CUDA)](https://github.com/deepearthgo/Cuda-Mxnet):star:
 >> - [SphereFace/KNNLoss(Python)](https://github.com/deepearthgo/Python-Mxnet)
 
 >> ### 2.6 Image Super-resolution
