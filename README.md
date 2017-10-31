@@ -1,4 +1,4 @@
-# Awesome MXNet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
+# Awesome MXNet(Beta) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
 
 A curated list of MXNet examples, tutorials and blogs. It is inspired by awesome-caffe.
 
@@ -59,6 +59,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [RetinaNet](https://github.com/unsky/RetinaNet)
 >> - [SqueezeDet](https://github.com/alvinwan/squeezeDetMX)
 >> - [IOULoss](https://github.com/wcj-Ford/IOULoss)
+>> - [FocalLoss(CUDA)](https://github.com/yuantangliang/softmaxfocalloss)
 
 >> ### 2.3 Image Segmentation
 >> - [Mask R-CNN+FPN](https://github.com/TuSimple/mx-maskrcnn):star:
@@ -123,6 +124,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [fast-style-transfer](https://github.com/SineYuan/mxnet-fast-neural-style)
 
 >> ### 2.9 GAN
+>> - [DCGAN(Gluon)](https://github.com/kazizzad/DCGAN-Gluon-MxNet)
 
 >> ### 2.10 MRI&DTI
 >> - [Chest-XRay](https://github.com/kperkins411/MXNet-Chest-XRay-Evaluation)
@@ -153,6 +155,8 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Neural Programmer-Interpreters](https://github.com/Cloudyrie/npi)
 >> - [sequence-sampling](https://github.com/doetsch/sequence-sampling-mxnet)
 >> - [retrieval chatbot](https://github.com/NonvolatileMemory/baseline_for_chatbot-mxnet)
+>> - [multi-attention(Gluon)](https://github.com/danache/multi-attention-in-mxnet)
+>> - [cnn+Highway Net](https://github.com/wut0n9/cnn_chinese_text_classification)
 
 ## <a name="Speech"></a>4. Speech
 >> - [deepspeech](https://github.com/samsungsds-rnd/deepspeech.mxnet)
@@ -166,15 +170,30 @@ If you want to contribute to this list and the examples, please open a new pull 
 
 ## <a name="Speech"></a>6. DRL
 >> - [DRL](https://github.com/qyxqyx/DRL)
+>> - [DQN(Gluon)](https://github.com/kazizzad/DQN-MxNet-Gluon)
+>> - [Double DQN(Gluon)](https://github.com/kazizzad/Double-DQN-MxNet-Gluon)
 
 ## <a name="Speech"></a>7. Tools
 >> - [YellowFin](https://github.com/StargazerZhu/YellowFin_MXNet)
 >> - [MXNet Model Serving ](https://github.com/yuruofeifei/mms)
 >> - [Early-Stopping](https://github.com/kperkins411/MXNet_Demo_Early-Stopping)
 >> - [CaffeTranslator](https://github.com/indhub/CaffeTranslator)
+>> - [mxnet2tf](https://github.com/vuvko/mxnet2tf)
 >> - [MXNetOnACL](https://github.com/OAID/MXNetOnACL)
 >> - [mxbox](https://github.com/Lyken17/mxbox)
+>> - [mxnet-rdma](https://github.com/liuchang1437/mxnet-rdma)
+>> - [MPIZ-MXNet](https://github.com/Shenggan/MPIZ-MXNet)
 >> - [Email Monitor MxnetTrain](https://github.com/fierceX/Email_Monitor_MxnetTrain)
 >> - [mxflows](https://github.com/aidan-plenert-macdonald/mxflows)
 >> - [Collective Knowledge](https://github.com/ctuning/ck-mxnet)
 >> - [dmxnet](https://github.com/sociomantic-tsunami/dmxnet)
+>> - [mxnet-finetuner](https://github.com/knjcode/mxnet-finetuner)
+>> - [qt-mxnet](https://github.com/mjamroz/qt-mxnet)
+>> - [mxnet-oneclick](https://github.com/imistyrain/mxnet-oneclick)
+>> - [mxnet_predict_ros](https://github.com/Paspartout/mxnet_predict_ros)
+>> - [mxnet.rb](https://github.com/mrkn/mxnet.rb)
+>> - [mxnet.csharp](https://github.com/yajiedesign/mxnet.csharp)
+>> - [mxnet-lambda](https://github.com/awslabs/mxnet-lambda)
+>> - [mxnet-operator](https://github.com/deepinsight/mxnet-operator)
+>> - [mxnet_on_kubernetes](https://github.com/WorldAITime/mxnet_on_kubernetes)
+>> - [openHabAI](https://github.com/JeyRunner/openHabAI)
