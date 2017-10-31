@@ -31,7 +31,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [DenseNet](https://github.com/bruinxiong/densenet.mxnet)
 >> - [DPN](https://github.com/cypw/DPNs):star:
 >> - [SENet](https://github.com/bruinxiong/SENet.mxnet):star:
->> - [CapsNet](https://github.com/AaronLeong/CapsNet_Mxnet):star:
+>> - [CapsNet(Gluon)](https://github.com/AaronLeong/CapsNet_Mxnet):star:
 >> - [CRU-Net](https://github.com/cypw/CRU-Net)
 >> - [MobileNet](https://github.com/KeyKy/mobilenet-mxnet)
 >> - [ShuffleNet](https://github.com/ZiyueHuang/MXShuffleNet)
