@@ -12,7 +12,8 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [3. NLP](#NLP)
 - [4. Speech](#Speech)
 - [5. CTR](#CTR)
-- [6. Tools](#Tools)
+- [6. DRL](#DRL)
+- [7. Tools](#Tools)
 
 ============================================================================================================
 ## <a name="Tutorials"></a>1. Tutorials
@@ -30,6 +31,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [DenseNet](https://github.com/bruinxiong/densenet.mxnet)
 >> - [DPN](https://github.com/cypw/DPNs):star:
 >> - [SENet](https://github.com/bruinxiong/SENet.mxnet):star:
+>> - [CapsNet](https://github.com/AaronLeong/CapsNet_Mxnet):star:
 >> - [CRU-Net](https://github.com/cypw/CRU-Net)
 >> - [MobileNet](https://github.com/KeyKy/mobilenet-mxnet)
 >> - [ShuffleNet](https://github.com/ZiyueHuang/MXShuffleNet)
@@ -97,6 +99,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [DeepHumanPrediction](https://github.com/JONGGON/DeepHumanPrediction)
 >> - [SphereFace/FocalLoss/CenterLoss/KNNLoss(CUDA)](https://github.com/deepearthgo/Cuda-Mxnet):star:
 >> - [SphereFace/KNNLoss(Python)](https://github.com/deepearthgo/Python-Mxnet)
+>> - [DCGAN face generation](https://github.com/dbsheta/dcgan_face_generation)
 
 >> ### 2.6 Image Super-resolution
 >> - [SRCNN](https://github.com/Codersadis/SRCNN-MXNET)
@@ -114,6 +117,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 
 >> ### 2.8 Images Generation
 >> - [pix2pix](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/Pix2Pix)
+>> - [Image colorization](https://github.com/skirdey/mxnet-pix2pix)
 >> - [Neural-Style-MMD](https://github.com/lyttonhao/Neural-Style-MMD):star:
 >> - [MSG-Net(Gluon)](https://github.com/zhanghang1989/MXNet-Gluon-Style-Transfer)
 >> - [fast-style-transfer](https://github.com/SineYuan/mxnet-fast-neural-style)
@@ -160,7 +164,10 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [SpectralLDA](https://github.com/Mega-DatA-Lab/SpectralLDA-MXNet)
 >> - [DEF(Gluon)](https://github.com/altosaar/deep-exponential-families-gluon)
 
-## <a name="Speech"></a>6. Tools
+## <a name="Speech"></a>6. DRL
+>> - [DRL](https://github.com/qyxqyx/DRL)
+
+## <a name="Speech"></a>7. Tools
 >> - [YellowFin](https://github.com/StargazerZhu/YellowFin_MXNet)
 >> - [MXNet Model Serving ](https://github.com/yuruofeifei/mms)
 >> - [Early-Stopping](https://github.com/kperkins411/MXNet_Demo_Early-Stopping)
@@ -169,3 +176,5 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [mxbox](https://github.com/Lyken17/mxbox)
 >> - [Email Monitor MxnetTrain](https://github.com/fierceX/Email_Monitor_MxnetTrain)
 >> - [mxflows](https://github.com/aidan-plenert-macdonald/mxflows)
+>> - [Collective Knowledge](https://github.com/ctuning/ck-mxnet)
+>> - [dmxnet](https://github.com/sociomantic-tsunami/dmxnet)
