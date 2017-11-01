@@ -72,6 +72,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [U-Net (kaggle dstl)](https://github.com/u1234x1234/kaggle-dstl-satellite-imagery-feature-detection)
 >> - [Segnet](https://github.com/solin319/incubator-mxnet/tree/solin-patch-segnet)
 >> - [FCN-ASPP](https://github.com/ComeOnGetMe/FCN-ASPP-with-uncertainty)
+>> - [GluonSeg(Gluon)](https://github.com/aurora95/GluonSeg)
 
 >> ### 2.4 Video Recognition and Object Detection
 >> - [Deep Feature Flow](https://github.com/msracver/Deep-Feature-Flow):star:
@@ -138,6 +139,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [text2image](https://github.com/dbsheta/text2image)
 >> - [Traffic sign classification](https://github.com/sookinoby/mxnet-ccn-samples)
 >> - [cicada classification](https://github.com/dokechin/cicada_shell)
+>> - [geometric-matching](https://github.com/x007dwd/geometric-matching-mxnet)
 >> - [Loss Surfaces](https://github.com/nicklhy/cnn_loss_surface)
 >> - [CAM](https://github.com/nicklhy/CAM)
 >> - [AdversarialAutoEncoder](https://github.com/nicklhy/AdversarialAutoEncoder)
@@ -188,6 +190,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [mxnet2tf](https://github.com/vuvko/mxnet2tf)
 >> - [MXNetOnACL](https://github.com/OAID/MXNetOnACL)
 >> - [mxbox](https://github.com/Lyken17/mxbox)
+>> - [mixboard](https://github.com/DrSensor/mixboard)
 >> - [mxnet-rdma](https://github.com/liuchang1437/mxnet-rdma)
 >> - [MPIZ-MXNet](https://github.com/Shenggan/MPIZ-MXNet)
 >> - [Email Monitor MxnetTrain](https://github.com/fierceX/Email_Monitor_MxnetTrain)
@@ -209,3 +212,4 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [ImageRecognizer-iOS](https://github.com/dneprDroid/ImageRecognizer-iOS)
 >> - [ImageRecognizer-Android](https://github.com/dneprDroid/ImageRecognizer-Android)
 >> - [flask-app-for-mxnet-img-classifier](https://github.com/XD-DENG/flask-app-for-mxnet-img-classifier)
+>> - [MXNet to MiniFi](https://github.com/tspannhw/nvidiajetsontx1-mxnet)
