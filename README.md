@@ -36,13 +36,14 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [MobileNet](https://github.com/KeyKy/mobilenet-mxnet)
 >> - [ShuffleNet](https://github.com/ZiyueHuang/MXShuffleNet)
 >> - [Xception](https://github.com/bruinxiong/xception.mxnet)
+>> - [Xception+Keras2MXNet](https://github.com/u1234x1234/mxnet-xception)
 >> - [SqeezeNet](https://github.com/miaow1988/SqueezeNet_v1.2)
 >> - [FractalNet](https://github.com/newuser-16824/mxnet-fractalnet)
 >> - [BMXNet](https://github.com/hpi-xnor/BMXNet)
+>> - [fusenet](https://github.com/zlmzju/fusenet)
 >> - [Self-Norm Nets](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/SelfNormNets)
 >> - [Factorized-Bilinear-Network](https://github.com/lyttonhao/Factorized-Bilinear-Network):star:
 >> - [DPSH](https://github.com/akturtle/DPSH)
->> - [Yelp Restaurant Photo Classifacation](https://github.com/u1234x1234/kaggle-yelp-restaurant-photo-classification):star:
 
 >> ### 2.2 Object Detection
 >> - [PVANet](https://github.com/apache/incubator-mxnet/pull/7786)
@@ -122,6 +123,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Neural-Style-MMD](https://github.com/lyttonhao/Neural-Style-MMD):star:
 >> - [MSG-Net(Gluon)](https://github.com/zhanghang1989/MXNet-Gluon-Style-Transfer)
 >> - [fast-style-transfer](https://github.com/SineYuan/mxnet-fast-neural-style)
+>> - [neural-art-mini](https://github.com/pavelgonchar/neural-art-mini)
 
 >> ### 2.9 GAN
 >> - [DCGAN(Gluon)](https://github.com/kazizzad/DCGAN-Gluon-MxNet)
@@ -144,12 +146,16 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [NetVlad](https://github.com/likelyzhao/NetVlad-MxNet)
 >> - [multilabel](https://github.com/miraclewkf/multilabel-MXNet)
 >> - [multi-task](https://github.com/miraclewkf/multi-task-MXNet)
+>> - [siamese](https://github.com/saicoco/mxnet-siamese)
+>> - [matchnet](https://github.com/zhengxiawu/mxnet-matchnet)
+>> - [Yelp Restaurant Photo Classifacation](https://github.com/u1234x1234/kaggle-yelp-restaurant-photo-classification):star:
 
 ## <a name="NLP"></a>3. NLP
 >> - [sockeye](https://github.com/awslabs/sockeye)
 >> - [MXNMT](https://github.com/magic282/MXNMT)
 >> - [Char-RNN(Gluon)](https://github.com/SherlockLiao/Char-RNN-Gluon)
 >> - [AC-BLSTM](https://github.com/Ldpe2G/AC-BLSTM)
+>> - [mxnet-seq2seq](https://github.com/yoosan/mxnet-seq2seq)
 >> - [MXSeq2Seq(Gluon)](https://github.com/ZiyueHuang/MXSeq2Seq)
 >> - [MemN2N](https://github.com/nicklhy/MemN2N)
 >> - [Neural Programmer-Interpreters](https://github.com/Cloudyrie/npi)
@@ -172,6 +178,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [DRL](https://github.com/qyxqyx/DRL)
 >> - [DQN(Gluon)](https://github.com/kazizzad/DQN-MxNet-Gluon)
 >> - [Double DQN(Gluon)](https://github.com/kazizzad/Double-DQN-MxNet-Gluon)
+>> - [openai-mxnet](https://github.com/boddmg/openai-mxnet)
 
 ## <a name="Speech"></a>7. Tools
 >> - [YellowFin](https://github.com/StargazerZhu/YellowFin_MXNet)
@@ -193,7 +200,12 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [mxnet_predict_ros](https://github.com/Paspartout/mxnet_predict_ros)
 >> - [mxnet.rb](https://github.com/mrkn/mxnet.rb)
 >> - [mxnet.csharp](https://github.com/yajiedesign/mxnet.csharp)
+>> - [go-mxnet-predictor](https://github.com/songtianyi/go-mxnet-predictor)
 >> - [mxnet-lambda](https://github.com/awslabs/mxnet-lambda)
 >> - [mxnet-operator](https://github.com/deepinsight/mxnet-operator)
 >> - [mxnet_on_kubernetes](https://github.com/WorldAITime/mxnet_on_kubernetes)
+>> - [MXNetOnYARN](https://github.com/Intel-bigdata/MXNetOnYARN)
 >> - [openHabAI](https://github.com/JeyRunner/openHabAI)
+>> - [ImageRecognizer-iOS](https://github.com/dneprDroid/ImageRecognizer-iOS)
+>> - [ImageRecognizer-Android](https://github.com/dneprDroid/ImageRecognizer-Android)
+>> - [flask-app-for-mxnet-img-classifier](https://github.com/XD-DENG/flask-app-for-mxnet-img-classifier)
