@@ -34,6 +34,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [DPN](https://github.com/cypw/DPNs):star:
 >> - [SENet](https://github.com/bruinxiong/SENet.mxnet):star:
 >> - [CapsNet(Gluon)](https://github.com/AaronLeong/CapsNet_Mxnet):star:
+>> - [capsules(Gluon)](https://github.com/mssmkmr/capsules)
 >> - [CRU-Net](https://github.com/cypw/CRU-Net)
 >> - [MobileNet](https://github.com/KeyKy/mobilenet-mxnet)
 >> - [ShuffleNet](https://github.com/ZiyueHuang/MXShuffleNet)
@@ -45,7 +46,6 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [fusenet](https://github.com/zlmzju/fusenet)
 >> - [Self-Norm Nets](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/SelfNormNets)
 >> - [Factorized-Bilinear-Network](https://github.com/lyttonhao/Factorized-Bilinear-Network):star:
->> - [DPSH](https://github.com/akturtle/DPSH)
 
 >> ### 2.2 Object Detection
 >> - [PVANet](https://github.com/apache/incubator-mxnet/pull/7786)
@@ -152,6 +152,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [multi-task](https://github.com/miraclewkf/multi-task-MXNet)
 >> - [siamese](https://github.com/saicoco/mxnet-siamese)
 >> - [matchnet](https://github.com/zhengxiawu/mxnet-matchnet)
+>> - [DPSH](https://github.com/akturtle/DPSH)
 >> - [Yelp Restaurant Photo Classifacation](https://github.com/u1234x1234/kaggle-yelp-restaurant-photo-classification):star:
 
 ## <a name="NLP"></a>3. NLP
