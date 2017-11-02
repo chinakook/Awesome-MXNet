@@ -23,6 +23,8 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [Gluon Api](https://github.com/gluon-api/gluon-api)
 - [CheatSheet](https://github.com/chinakook/Awesome-MXNet/blob/master/apache-mxnet-cheat.pdf)
 - [Using MXNet](https://github.com/JONGGON/Mxnet_Tutorial)
+- [TVM Documentation](http://docs.tvmlang.org/)
+- [NNVM Documentation](http://nnvm.tvmlang.org/)
 - [Linalg examples](https://github.com/ARCambridge/MXNet_linalg_examples)
 
 ## <a name="Vision"></a>2. Vision
