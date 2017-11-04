@@ -70,6 +70,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [FCIS](https://github.com/msracver/FCIS)
 >> - [ResNet-38](https://github.com/itijyou/ademxapp)
 >> - [Deeplab v2](https://github.com/buptweixin/mxnet-deeplab)
+>> - [Deeplab(Gluon)](https://github.com/zehaochen19/segmentation_gluon)
 >> - [U-Net](https://github.com/chinakook/U-Net)
 >> - [U-Net (kaggle dstl)](https://github.com/u1234x1234/kaggle-dstl-satellite-imagery-feature-detection)
 >> - [Segnet](https://github.com/solin319/incubator-mxnet/tree/solin-patch-segnet)
