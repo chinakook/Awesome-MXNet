@@ -174,46 +174,59 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [deepspeech](https://github.com/samsungsds-rnd/deepspeech.mxnet)
 >> - [wavenet](https://github.com/shuokay/mxnet-wavenet)
 
-## <a name="Speech"></a>5. CTR
+## <a name="CTR"></a>5. CTR
 >> - [MXNet for CTR ](https://github.com/CNevd/DeepLearning-MXNet)
 >> - [CDL](https://github.com/js05212/MXNet-for-CDL)
 >> - [SpectralLDA](https://github.com/Mega-DatA-Lab/SpectralLDA-MXNet)
 >> - [DEF(Gluon)](https://github.com/altosaar/deep-exponential-families-gluon)
 
-## <a name="Speech"></a>6. DRL
+## <a name="DRL"></a>6. DRL
 >> - [DRL](https://github.com/qyxqyx/DRL)
 >> - [DQN(Gluon)](https://github.com/kazizzad/DQN-MxNet-Gluon)
 >> - [Double DQN(Gluon)](https://github.com/kazizzad/Double-DQN-MxNet-Gluon)
 >> - [openai-mxnet](https://github.com/boddmg/openai-mxnet)
 
-## <a name="Speech"></a>7. Tools
->> - [YellowFin](https://github.com/StargazerZhu/YellowFin_MXNet)
->> - [MXNet Model Serving ](https://github.com/yuruofeifei/mms)
->> - [Early-Stopping](https://github.com/kperkins411/MXNet_Demo_Early-Stopping)
+## <a name="Tools"></a>7. Tools
+>> ### 7.1 Converter
 >> - [CaffeTranslator](https://github.com/indhub/CaffeTranslator)
 >> - [mxnet2tf](https://github.com/vuvko/mxnet2tf)
->> - [MXNetOnACL](https://github.com/OAID/MXNetOnACL)
->> - [mxbox](https://github.com/Lyken17/mxbox)
->> - [mixboard](https://github.com/DrSensor/mixboard)
->> - [mxnet-rdma](https://github.com/liuchang1437/mxnet-rdma)
->> - [MPIZ-MXNet](https://github.com/Shenggan/MPIZ-MXNet)
->> - [Email Monitor MxnetTrain](https://github.com/fierceX/Email_Monitor_MxnetTrain)
->> - [mxflows](https://github.com/aidan-plenert-macdonald/mxflows)
->> - [Collective Knowledge](https://github.com/ctuning/ck-mxnet)
->> - [dmxnet](https://github.com/sociomantic-tsunami/dmxnet)
->> - [mxnet-finetuner](https://github.com/knjcode/mxnet-finetuner)
->> - [qt-mxnet](https://github.com/mjamroz/qt-mxnet)
->> - [mxnet-oneclick](https://github.com/imistyrain/mxnet-oneclick)
->> - [mxnet_predict_ros](https://github.com/Paspartout/mxnet_predict_ros)
+
+>> ### 7.2 Language Bindings
 >> - [mxnet.rb](https://github.com/mrkn/mxnet.rb)
 >> - [mxnet.csharp](https://github.com/yajiedesign/mxnet.csharp)
 >> - [go-mxnet-predictor](https://github.com/songtianyi/go-mxnet-predictor)
->> - [mxnet-lambda](https://github.com/awslabs/mxnet-lambda)
+>> - [dmxnet](https://github.com/sociomantic-tsunami/dmxnet)
+
+>> ### 7.3 Visualization
+>> - [mxbox](https://github.com/Lyken17/mxbox)
+>> - [mixboard](https://github.com/DrSensor/mixboard)
+>> - [mxflows](https://github.com/aidan-plenert-macdonald/mxflows)
+
+>> ### 7.4 Parallel and Distributed computing
+>> - [mxnet-rdma](https://github.com/liuchang1437/mxnet-rdma)
+>> - [MPIZ-MXNet](https://github.com/Shenggan/MPIZ-MXNet)
+>> - [MXNetOnYARN](https://github.com/Intel-bigdata/MXNetOnYARN)
 >> - [mxnet-operator](https://github.com/deepinsight/mxnet-operator)
 >> - [mxnet_on_kubernetes](https://github.com/WorldAITime/mxnet_on_kubernetes)
->> - [MXNetOnYARN](https://github.com/Intel-bigdata/MXNetOnYARN)
+
+>> ### 7.5 Productivity
+>> - [MXNet Model Serving ](https://github.com/yuruofeifei/mms)
+>> - [Email Monitor MxnetTrain](https://github.com/fierceX/Email_Monitor_MxnetTrain)
+>> - [mxnet-oneclick](https://github.com/imistyrain/mxnet-oneclick)
+>> - [mxnet-finetuner](https://github.com/knjcode/mxnet-finetuner)
+>> - [flask-app-for-mxnet-img-classifier](https://github.com/XD-DENG/flask-app-for-mxnet-img-classifier)
+>> - [Early-Stopping](https://github.com/kperkins411/MXNet_Demo_Early-Stopping)
+
+>> ### 7.6 Parameter optimizer
+>> - [YellowFin](https://github.com/StargazerZhu/YellowFin_MXNet)
+
+>> ### 7.7 Deployment
+>> - [MXNetOnACL](https://github.com/OAID/MXNetOnACL)
+>> - [Collective Knowledge](https://github.com/ctuning/ck-mxnet)
+>> - [qt-mxnet](https://github.com/mjamroz/qt-mxnet)
+>> - [mxnet_predict_ros](https://github.com/Paspartout/mxnet_predict_ros)
+>> - [mxnet-lambda](https://github.com/awslabs/mxnet-lambda)
 >> - [openHabAI](https://github.com/JeyRunner/openHabAI)
 >> - [ImageRecognizer-iOS](https://github.com/dneprDroid/ImageRecognizer-iOS)
 >> - [ImageRecognizer-Android](https://github.com/dneprDroid/ImageRecognizer-Android)
->> - [flask-app-for-mxnet-img-classifier](https://github.com/XD-DENG/flask-app-for-mxnet-img-classifier)
 >> - [MXNet to MiniFi](https://github.com/tspannhw/nvidiajetsontx1-mxnet)
