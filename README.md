@@ -214,7 +214,6 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Email Monitor MxnetTrain](https://github.com/fierceX/Email_Monitor_MxnetTrain)
 >> - [mxnet-oneclick](https://github.com/imistyrain/mxnet-oneclick)
 >> - [mxnet-finetuner](https://github.com/knjcode/mxnet-finetuner)
->> - [flask-app-for-mxnet-img-classifier](https://github.com/XD-DENG/flask-app-for-mxnet-img-classifier)
 >> - [Early-Stopping](https://github.com/kperkins411/MXNet_Demo_Early-Stopping)
 
 >> ### 7.6 Parameter optimizer
@@ -223,6 +222,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> ### 7.7 Deployment
 >> - [MXNetOnACL](https://github.com/OAID/MXNetOnACL)
 >> - [Collective Knowledge](https://github.com/ctuning/ck-mxnet)
+>> - [flask-app-for-mxnet-img-classifier](https://github.com/XD-DENG/flask-app-for-mxnet-img-classifier)
 >> - [qt-mxnet](https://github.com/mjamroz/qt-mxnet)
 >> - [mxnet_predict_ros](https://github.com/Paspartout/mxnet_predict_ros)
 >> - [mxnet-lambda](https://github.com/awslabs/mxnet-lambda)
