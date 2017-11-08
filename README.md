@@ -32,10 +32,10 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> ### 2.1 Image Classification
 >> - [ResNet](https://github.com/tornadomeet/ResNet)
 >> - [DenseNet](https://github.com/bruinxiong/densenet.mxnet)
->> - [DPN](https://github.com/cypw/DPNs):star:
->> - [SENet](https://github.com/bruinxiong/SENet.mxnet):star:
->> - [CapsNet(Gluon)](https://github.com/AaronLeong/CapsNet_Mxnet):star:
->> - [capsules(Gluon)](https://github.com/mssmkmr/capsules)
+>> - [DPN](https://github.com/cypw/DPNs)
+>> - [SENet](https://github.com/bruinxiong/SENet.mxnet)
+>> - [CapsNet(Gluon:star:)](https://github.com/AaronLeong/CapsNet_Mxnet)
+>> - [capsules(Gluon:star:)](https://github.com/mssmkmr/capsules)
 >> - [CRU-Net](https://github.com/cypw/CRU-Net)
 >> - [MobileNet](https://github.com/KeyKy/mobilenet-mxnet)
 >> - [ShuffleNet](https://github.com/ZiyueHuang/MXShuffleNet)
@@ -46,7 +46,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [BMXNet](https://github.com/hpi-xnor/BMXNet)
 >> - [fusenet](https://github.com/zlmzju/fusenet)
 >> - [Self-Norm Nets](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/SelfNormNets)
->> - [Factorized-Bilinear-Network](https://github.com/lyttonhao/Factorized-Bilinear-Network):star:
+>> - [Factorized-Bilinear-Network](https://github.com/lyttonhao/Factorized-Bilinear-Network)
 
 >> ### 2.2 Object Detection
 >> - [PVANet](https://github.com/apache/incubator-mxnet/pull/7786)
@@ -54,10 +54,10 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [YOLO](https://github.com/zhreshold/mxnet-yolo)
 >> - [YOLO/dark2mxnet](https://github.com/bowenc0221/MXNet-YOLO)
 >> - [Faster RCNN](https://github.com/precedenceguo/mx-rcnn)
->> - [Faster RCNN(Gluon)](https://github.com/linmx0130/ya_mxdet)
+>> - [Faster RCNN(Gluon:star:)](https://github.com/linmx0130/ya_mxdet)
 >> - [R-FCN](https://github.com/msracver/Deformable-ConvNets)
 >> - [Deformable-ConvNets](https://github.com/msracver/Deformable-ConvNets)
->> - [Deformable-ConvNets+SoftNMS](https://github.com/bharatsingh430/Deformable-ConvNets):star:
+>> - [Deformable-ConvNets+SoftNMS](https://github.com/bharatsingh430/Deformable-ConvNets)
 >> - [SSD+Focal Loss](https://github.com/eldercrow/focal_loss_mxnet_ssd)
 >> - [Faster RCNN+Focal Loss](https://github.com/unsky/focal-loss)
 >> - [RetinaNet](https://github.com/unsky/RetinaNet)
@@ -66,21 +66,21 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [FocalLoss(CUDA)](https://github.com/yuantangliang/softmaxfocalloss)
 
 >> ### 2.3 Image Segmentation
->> - [Mask R-CNN+FPN](https://github.com/TuSimple/mx-maskrcnn):star:
+>> - [Mask R-CNN+FPN](https://github.com/TuSimple/mx-maskrcnn)
 >> - [Mask R-CNN](https://github.com/xilaili/maskrcnn.mxnet)
 >> - [FCIS](https://github.com/msracver/FCIS)
 >> - [ResNet-38](https://github.com/itijyou/ademxapp)
 >> - [Deeplab v2](https://github.com/buptweixin/mxnet-deeplab)
->> - [Deeplab(Gluon)](https://github.com/zehaochen19/segmentation_gluon)
+>> - [Deeplab(Gluon:star:)](https://github.com/zehaochen19/segmentation_gluon)
 >> - [U-Net](https://github.com/chinakook/U-Net)
 >> - [U-Net (kaggle dstl)](https://github.com/u1234x1234/kaggle-dstl-satellite-imagery-feature-detection)
 >> - [Segnet](https://github.com/solin319/incubator-mxnet/tree/solin-patch-segnet)
 >> - [FCN-ASPP](https://github.com/ComeOnGetMe/FCN-ASPP-with-uncertainty)
->> - [GluonSeg(Gluon)](https://github.com/aurora95/GluonSeg)
+>> - [GluonSeg(Gluon:star:)](https://github.com/aurora95/GluonSeg)
 
 >> ### 2.4 Video Recognition and Object Detection
->> - [Deep Feature Flow](https://github.com/msracver/Deep-Feature-Flow):star:
->> - [Flow-Guided Feature Aggregation](https://github.com/msracver/Flow-Guided-Feature-Aggregation):star:
+>> - [Deep Feature Flow](https://github.com/msracver/Deep-Feature-Flow)
+>> - [Flow-Guided Feature Aggregation](https://github.com/msracver/Flow-Guided-Feature-Aggregation)
 >> - [st-resnet](https://github.com/jay1204/st-resnet)
 
 >> ### 2.5 Face and Human releated
@@ -94,7 +94,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Head Pose](https://github.com/LaoDar/cnn_head_pose_estimator)
 >> - [Triple Loss](https://github.com/xlvector/learning-dl/tree/master/mxnet/triple-loss)
 >> - [Center Loss](https://github.com/pangyupo/mxnet_center_loss)
->> - [Center Loss(Gluon)](https://github.com/ShownX/mxnet-center-loss)
+>> - [Center Loss(Gluon:star:)](https://github.com/ShownX/mxnet-center-loss)
 >> - [Large-Margin Softmax Loss](https://github.com/luoyetx/mx-lsoftmax)
 >> - [Range Loss](https://github.com/ShownX/mxnet-rangeloss)
 >> - [Convolutional Sketch Inversion](https://github.com/VinniaKemala/sketch-inversion)
@@ -105,7 +105,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [LSTM for HAR](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/HumanActivityRecognition)
 >> - [C3D](https://github.com/JaggerYoung/C3D-mxnet)
 >> - [DeepHumanPrediction](https://github.com/JONGGON/DeepHumanPrediction)
->> - [SphereFace/FocalLoss/CenterLoss/KNNLoss(CUDA)](https://github.com/deepearthgo/Cuda-Mxnet):star:
+>> - [SphereFace/FocalLoss/CenterLoss/KNNLoss(CUDA)](https://github.com/deepearthgo/Cuda-Mxnet)
 >> - [SphereFace/KNNLoss(Python)](https://github.com/deepearthgo/Python-Mxnet)
 >> - [DCGAN face generation](https://github.com/dbsheta/dcgan_face_generation)
 
@@ -126,13 +126,13 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> ### 2.8 Images Generation
 >> - [pix2pix](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/Pix2Pix)
 >> - [Image colorization](https://github.com/skirdey/mxnet-pix2pix)
->> - [Neural-Style-MMD](https://github.com/lyttonhao/Neural-Style-MMD):star:
->> - [MSG-Net(Gluon)](https://github.com/zhanghang1989/MXNet-Gluon-Style-Transfer)
+>> - [Neural-Style-MMD](https://github.com/lyttonhao/Neural-Style-MMD)
+>> - [MSG-Net(Gluon:star:)](https://github.com/zhanghang1989/MXNet-Gluon-Style-Transfer)
 >> - [fast-style-transfer](https://github.com/SineYuan/mxnet-fast-neural-style)
 >> - [neural-art-mini](https://github.com/pavelgonchar/neural-art-mini)
 
 >> ### 2.9 GAN
->> - [DCGAN(Gluon)](https://github.com/kazizzad/DCGAN-Gluon-MxNet)
+>> - [DCGAN(Gluon:star:)](https://github.com/kazizzad/DCGAN-Gluon-MxNet)
 
 >> ### 2.10 MRI&DTI
 >> - [Chest-XRay](https://github.com/kperkins411/MXNet-Chest-XRay-Evaluation)
@@ -140,7 +140,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> ### 2.11 Misc
 >> - [VisualBackProp](https://github.com/Bartzi/visual-backprop-mxnet)
 >> - [VQA](https://github.com/shiyangdaisy23/mxnet-vqa)
->> - [VQA(Gluon)](https://github.com/shiyangdaisy23/vqa-mxnet-gluon)
+>> - [VQA(Gluon:star:)](https://github.com/shiyangdaisy23/vqa-mxnet-gluon)
 >> - [text2image](https://github.com/dbsheta/text2image)
 >> - [Traffic sign classification](https://github.com/sookinoby/mxnet-ccn-samples)
 >> - [cicada classification](https://github.com/dokechin/cicada_shell)
@@ -156,20 +156,20 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [siamese](https://github.com/saicoco/mxnet-siamese)
 >> - [matchnet](https://github.com/zhengxiawu/mxnet-matchnet)
 >> - [DPSH](https://github.com/akturtle/DPSH)
->> - [Yelp Restaurant Photo Classifacation](https://github.com/u1234x1234/kaggle-yelp-restaurant-photo-classification):star:
+>> - [Yelp Restaurant Photo Classifacation](https://github.com/u1234x1234/kaggle-yelp-restaurant-photo-classification)
 
 ## <a name="NLP"></a>3. NLP
 >> - [sockeye](https://github.com/awslabs/sockeye)
 >> - [MXNMT](https://github.com/magic282/MXNMT)
->> - [Char-RNN(Gluon)](https://github.com/SherlockLiao/Char-RNN-Gluon)
+>> - [Char-RNN(Gluon:star:)](https://github.com/SherlockLiao/Char-RNN-Gluon)
 >> - [AC-BLSTM](https://github.com/Ldpe2G/AC-BLSTM)
 >> - [mxnet-seq2seq](https://github.com/yoosan/mxnet-seq2seq)
->> - [MXSeq2Seq(Gluon)](https://github.com/ZiyueHuang/MXSeq2Seq)
+>> - [MXSeq2Seq(Gluon:star:)](https://github.com/ZiyueHuang/MXSeq2Seq)
 >> - [MemN2N](https://github.com/nicklhy/MemN2N)
 >> - [Neural Programmer-Interpreters](https://github.com/Cloudyrie/npi)
 >> - [sequence-sampling](https://github.com/doetsch/sequence-sampling-mxnet)
 >> - [retrieval chatbot](https://github.com/NonvolatileMemory/baseline_for_chatbot-mxnet)
->> - [multi-attention(Gluon)](https://github.com/danache/multi-attention-in-mxnet)
+>> - [multi-attention(Gluon:star:)](https://github.com/danache/multi-attention-in-mxnet)
 >> - [cnn+Highway Net](https://github.com/wut0n9/cnn_chinese_text_classification)
 
 ## <a name="Speech"></a>4. Speech
@@ -180,12 +180,12 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [MXNet for CTR ](https://github.com/CNevd/DeepLearning-MXNet)
 >> - [CDL](https://github.com/js05212/MXNet-for-CDL)
 >> - [SpectralLDA](https://github.com/Mega-DatA-Lab/SpectralLDA-MXNet)
->> - [DEF(Gluon)](https://github.com/altosaar/deep-exponential-families-gluon)
+>> - [DEF(Gluon:star:)](https://github.com/altosaar/deep-exponential-families-gluon)
 
 ## <a name="DRL"></a>6. DRL
 >> - [DRL](https://github.com/qyxqyx/DRL)
->> - [DQN(Gluon)](https://github.com/kazizzad/DQN-MxNet-Gluon)
->> - [Double DQN(Gluon)](https://github.com/kazizzad/Double-DQN-MxNet-Gluon)
+>> - [DQN(Gluon:star:)](https://github.com/kazizzad/DQN-MxNet-Gluon)
+>> - [Double DQN(Gluon:star:)](https://github.com/kazizzad/Double-DQN-MxNet-Gluon)
 >> - [openai-mxnet](https://github.com/boddmg/openai-mxnet)
 
 ## <a name="Tools"></a>7. Tools
