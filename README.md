@@ -107,7 +107,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [DeepHumanPrediction](https://github.com/JONGGON/DeepHumanPrediction)
 >> - [SphereFace/FocalLoss/CenterLoss/KNNLoss(CUDA)](https://github.com/deepearthgo/Cuda-Mxnet)
 >> - [SphereFace/KNNLoss(Python)](https://github.com/deepearthgo/Python-Mxnet)
->> - [DCGAN face generation](https://github.com/dbsheta/dcgan_face_generation)
+>> - [DCGAN face generation(Gluon:star:)](https://github.com/dbsheta/dcgan_face_generation)
 
 >> ### 2.6 Image Super-resolution
 >> - [SRCNN](https://github.com/Codersadis/SRCNN-MXNET)
@@ -141,7 +141,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [VisualBackProp](https://github.com/Bartzi/visual-backprop-mxnet)
 >> - [VQA](https://github.com/shiyangdaisy23/mxnet-vqa)
 >> - [VQA(Gluon:star:)](https://github.com/shiyangdaisy23/vqa-mxnet-gluon)
->> - [text2image](https://github.com/dbsheta/text2image)
+>> - [text2image(Gluon:star:)](https://github.com/dbsheta/text2image)
 >> - [Traffic sign classification](https://github.com/sookinoby/mxnet-ccn-samples)
 >> - [cicada classification](https://github.com/dokechin/cicada_shell)
 >> - [geometric-matching](https://github.com/x007dwd/geometric-matching-mxnet)
