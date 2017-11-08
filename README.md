@@ -94,6 +94,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Head Pose](https://github.com/LaoDar/cnn_head_pose_estimator)
 >> - [Triple Loss](https://github.com/xlvector/learning-dl/tree/master/mxnet/triple-loss)
 >> - [Center Loss](https://github.com/pangyupo/mxnet_center_loss)
+>> - [Center Loss(Gluon)](https://github.com/ShownX/mxnet-center-loss)
 >> - [Large-Margin Softmax Loss](https://github.com/luoyetx/mx-lsoftmax)
 >> - [Range Loss](https://github.com/ShownX/mxnet-rangeloss)
 >> - [Convolutional Sketch Inversion](https://github.com/VinniaKemala/sketch-inversion)
@@ -216,11 +217,13 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [mxnet-oneclick](https://github.com/imistyrain/mxnet-oneclick)
 >> - [mxnet-finetuner](https://github.com/knjcode/mxnet-finetuner)
 >> - [Early-Stopping](https://github.com/kperkins411/MXNet_Demo_Early-Stopping)
+>> - [MXNet_Video_Trainer](https://github.com/likelyzhao/MXNet_Video_Trainer)
 
 >> ### 7.6 Parameter optimizer
 >> - [YellowFin](https://github.com/StargazerZhu/YellowFin_MXNet)
 
 >> ### 7.7 Deployment
+>> - [onnx-mxnet](https://github.com/onnx/onnx-mxnet)
 >> - [MXNetOnACL](https://github.com/OAID/MXNetOnACL)
 >> - [Collective Knowledge](https://github.com/ctuning/ck-mxnet)
 >> - [flask-app-for-mxnet-img-classifier](https://github.com/XD-DENG/flask-app-for-mxnet-img-classifier)
