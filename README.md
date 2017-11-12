@@ -207,6 +207,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 
 >> ### 7.4 Parallel and Distributed computing
 >> - [mxnet-rdma](https://github.com/liuchang1437/mxnet-rdma)
+>> - [RDMA-MXNet-ps-lite](https://github.com/ralzq01/RDMA-MXNet-ps-lite)
 >> - [MPIZ-MXNet](https://github.com/Shenggan/MPIZ-MXNet)
 >> - [MXNetOnYARN](https://github.com/Intel-bigdata/MXNetOnYARN)
 >> - [mxnet-operator](https://github.com/deepinsight/mxnet-operator)
