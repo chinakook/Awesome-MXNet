@@ -193,6 +193,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> ### 7.1 Converter
 >> - [CaffeTranslator](https://github.com/indhub/CaffeTranslator)
 >> - [mxnet2tf](https://github.com/vuvko/mxnet2tf)
+>> - [MXNetToMXNet](https://github.com/IIMarch/MXNetToMXNet)
 
 >> ### 7.2 Language Bindings
 >> - [mxnet.rb](https://github.com/mrkn/mxnet.rb)
@@ -220,6 +221,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [mxnet-finetuner](https://github.com/knjcode/mxnet-finetuner)
 >> - [Early-Stopping](https://github.com/kperkins411/MXNet_Demo_Early-Stopping)
 >> - [MXNet_Video_Trainer](https://github.com/likelyzhao/MXNet_Video_Trainer)
+>> - [rs_mxnet_reader](https://github.com/ChenKQ/rs_mxnet_reader)
 
 >> ### 7.6 Parameter optimizer
 >> - [YellowFin](https://github.com/StargazerZhu/YellowFin_MXNet)
