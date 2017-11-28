@@ -27,6 +27,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [TVM Documentation](http://docs.tvmlang.org/)
 - [NNVM Documentation](http://nnvm.tvmlang.org/)
 - [Linalg examples](https://github.com/ARCambridge/MXNet_linalg_examples)
+- [NNVM Vison Demo](https://github.com/masahi/nnvm-vision-demo)
 
 ## <a name="Vision"></a>2. Vision
 >> ### 2.1 Image Classification
@@ -64,6 +65,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [SqueezeDet](https://github.com/alvinwan/squeezeDetMX)
 >> - [IOULoss](https://github.com/wcj-Ford/IOULoss)
 >> - [FocalLoss(CUDA)](https://github.com/yuantangliang/softmaxfocalloss)
+>> - [Light-Head R-CNN](https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784)
 
 >> ### 2.3 Image Segmentation
 >> - [Mask R-CNN+FPN](https://github.com/TuSimple/mx-maskrcnn)
@@ -110,6 +112,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [SphereFace/FocalLoss/CenterLoss/KNNLoss(CUDA)](https://github.com/deepearthgo/Cuda-Mxnet)
 >> - [SphereFace/KNNLoss(Python)](https://github.com/deepearthgo/Python-Mxnet)
 >> - [DCGAN face generation(Gluon:star:)](https://github.com/dbsheta/dcgan_face_generation)
+>> - [P3D](https://github.com/IIMarch/pseudo-3d-residual-networks-mxnet)
 
 >> ### 2.6 Image Super-resolution
 >> - [SRCNN](https://github.com/Codersadis/SRCNN-MXNET)
@@ -173,6 +176,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [retrieval chatbot](https://github.com/NonvolatileMemory/baseline_for_chatbot-mxnet)
 >> - [multi-attention(Gluon:star:)](https://github.com/danache/multi-attention-in-mxnet)
 >> - [cnn+Highway Net](https://github.com/wut0n9/cnn_chinese_text_classification)
+>> - [sentiment-analysis(Gluon:star:)](https://github.com/aws-samples/aws-sentiment-analysis-mxnet-gluon)
 
 ## <a name="Speech"></a>4. Speech
 >> - [deepspeech](https://github.com/samsungsds-rnd/deepspeech.mxnet)
@@ -189,12 +193,15 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [DQN(Gluon:star:)](https://github.com/kazizzad/DQN-MxNet-Gluon)
 >> - [Double DQN(Gluon:star:)](https://github.com/kazizzad/Double-DQN-MxNet-Gluon)
 >> - [openai-mxnet](https://github.com/boddmg/openai-mxnet)
+>> - [PPO(Gluon:star:)](https://github.com/dai-dao/PPO-Gluon)
 
 ## <a name="Tools"></a>7. Tools
 >> ### 7.1 Converter
 >> - [CaffeTranslator](https://github.com/indhub/CaffeTranslator)
 >> - [mxnet2tf](https://github.com/vuvko/mxnet2tf)
 >> - [MXNetToMXNet](https://github.com/IIMarch/MXNetToMXNet)
+>> - [MMdnn](https://github.com/Microsoft/MMdnn)
+>> - [onnx-mxnet](https://github.com/onnx/onnx-mxnet)
 
 >> ### 7.2 Language Bindings
 >> - [mxnet.rb](https://github.com/mrkn/mxnet.rb)
@@ -228,7 +235,6 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [YellowFin](https://github.com/StargazerZhu/YellowFin_MXNet)
 
 >> ### 7.7 Deployment
->> - [onnx-mxnet](https://github.com/onnx/onnx-mxnet)
 >> - [MXNetOnACL](https://github.com/OAID/MXNetOnACL)
 >> - [Collective Knowledge](https://github.com/ctuning/ck-mxnet)
 >> - [flask-app-for-mxnet-img-classifier](https://github.com/XD-DENG/flask-app-for-mxnet-img-classifier)
