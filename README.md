@@ -162,6 +162,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [matchnet](https://github.com/zhengxiawu/mxnet-matchnet)
 >> - [DPSH](https://github.com/akturtle/DPSH)
 >> - [Yelp Restaurant Photo Classifacation](https://github.com/u1234x1234/kaggle-yelp-restaurant-photo-classification)
+>> - [siamese_network_on_omniglot(Gluon:star:)](https://github.com/muchuanyun/siamese_network_on_omniglot)
 
 ## <a name="NLP"></a>3. NLP
 >> - [sockeye](https://github.com/awslabs/sockeye)
@@ -177,6 +178,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [multi-attention(Gluon:star:)](https://github.com/danache/multi-attention-in-mxnet)
 >> - [cnn+Highway Net](https://github.com/wut0n9/cnn_chinese_text_classification)
 >> - [sentiment-analysis(Gluon:star:)](https://github.com/aws-samples/aws-sentiment-analysis-mxnet-gluon)
+>> - [parserChiang(Gluon:star:)](https://github.com/linmx0130/parserChiang)
 
 ## <a name="Speech"></a>4. Speech
 >> - [deepspeech](https://github.com/samsungsds-rnd/deepspeech.mxnet)
