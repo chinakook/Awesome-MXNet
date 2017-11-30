@@ -48,6 +48,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [fusenet](https://github.com/zlmzju/fusenet)
 >> - [Self-Norm Nets](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/SelfNormNets)
 >> - [Factorized-Bilinear-Network](https://github.com/lyttonhao/Factorized-Bilinear-Network)
+>> - [mixup](https://github.com/unsky/mixup)
 
 >> ### 2.2 Object Detection
 >> - [PVANet](https://github.com/apache/incubator-mxnet/pull/7786)
