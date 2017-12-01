@@ -184,6 +184,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 ## <a name="Speech"></a>4. Speech
 >> - [deepspeech](https://github.com/samsungsds-rnd/deepspeech.mxnet)
 >> - [wavenet](https://github.com/shuokay/mxnet-wavenet)
+>> - [openspeech(Gluon:star:)](https://github.com/awslabs/openspeech)
 
 ## <a name="CTR"></a>5. CTR
 >> - [MXNet for CTR ](https://github.com/CNevd/DeepLearning-MXNet)
