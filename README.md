@@ -228,7 +228,6 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [mxnet_on_kubernetes](https://github.com/WorldAITime/mxnet_on_kubernetes)
 
 >> ### 7.5 Productivity
->> - [MXNet Model Serving ](https://github.com/yuruofeifei/mms)
 >> - [Email Monitor MxnetTrain](https://github.com/fierceX/Email_Monitor_MxnetTrain)
 >> - [mxnet-oneclick](https://github.com/imistyrain/mxnet-oneclick)
 >> - [mxnet-finetuner](https://github.com/knjcode/mxnet-finetuner)
@@ -250,3 +249,5 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [ImageRecognizer-iOS](https://github.com/dneprDroid/ImageRecognizer-iOS)
 >> - [ImageRecognizer-Android](https://github.com/dneprDroid/ImageRecognizer-Android)
 >> - [MXNet to MiniFi](https://github.com/tspannhw/nvidiajetsontx1-mxnet)
+>> - [MXNet Model Serving ](https://github.com/yuruofeifei/mms)
+>> - [mxnet-model-server](https://github.com/awslabs/mxnet-model-server)
