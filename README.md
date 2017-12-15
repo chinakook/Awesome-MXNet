@@ -37,6 +37,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [SENet](https://github.com/bruinxiong/SENet.mxnet)
 >> - [CapsNet(Gluon:star:)](https://github.com/AaronLeong/CapsNet_Mxnet)
 >> - [capsules(Gluon:star:)](https://github.com/mssmkmr/capsules)
+>> - [NASNet-A(Gluon:star:)](https://github.com/qingzhouzhen/incubator-mxnet/blob/nasnet/python/mxnet/gluon/model_zoo/vision/nasnet.py)
 >> - [CRU-Net](https://github.com/cypw/CRU-Net)
 >> - [MobileNet](https://github.com/KeyKy/mobilenet-mxnet)
 >> - [ShuffleNet](https://github.com/ZiyueHuang/MXShuffleNet)
