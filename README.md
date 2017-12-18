@@ -166,6 +166,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [DPSH](https://github.com/akturtle/DPSH)
 >> - [Yelp Restaurant Photo Classifacation](https://github.com/u1234x1234/kaggle-yelp-restaurant-photo-classification)
 >> - [siamese_network_on_omniglot(Gluon:star:)](https://github.com/muchuanyun/siamese_network_on_omniglot)
+>> - [StrassenNets](https://github.com/mitscha/strassennets)
 
 ## <a name="NLP"></a>3. NLP
 >> - [sockeye](https://github.com/awslabs/sockeye)
