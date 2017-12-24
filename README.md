@@ -35,6 +35,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [DenseNet](https://github.com/bruinxiong/densenet.mxnet)
 >> - [DPN](https://github.com/cypw/DPNs)
 >> - [SENet](https://github.com/bruinxiong/SENet.mxnet)
+>> - [SENet(from Caffe)](https://github.com/IIMarch/SENet-mxnet)
 >> - [CapsNet(Gluon:star:)](https://github.com/AaronLeong/CapsNet_Mxnet)
 >> - [capsules(Gluon:star:)](https://github.com/mssmkmr/capsules)
 >> - [NASNet-A(Gluon:star:)](https://github.com/qingzhouzhen/incubator-mxnet/blob/nasnet/python/mxnet/gluon/model_zoo/vision/nasnet.py)
