@@ -186,6 +186,8 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [sentiment-analysis(Gluon:star:)](https://github.com/aws-samples/aws-sentiment-analysis-mxnet-gluon)
 >> - [parserChiang(Gluon:star:)](https://github.com/linmx0130/parserChiang)
 >> - [Neural Variational Document Model(Gluon:star:)](https://github.com/dingran/nvdm-mxnet)
+>> - [NER with  Bidirectional LSTM-CNNs](https://github.com/opringle/named_entity_recognition)
+>> - [Sequential Matching Network(Gluon:star:)](https://github.com/NonvolatileMemory/MXNET-SMN)
 
 ## <a name="Speech"></a>4. Speech
 >> - [deepspeech](https://github.com/samsungsds-rnd/deepspeech.mxnet)
@@ -193,39 +195,42 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [openspeech(Gluon:star:)](https://github.com/awslabs/openspeech)
 >> - [Tacotron](https://github.com/PiSchool/mxnet-tacotron)
 
-## <a name="CTR"></a>5. CTR
+## <a name="Time series forecasting"></a>5. Time series forecasting
+>> - [LSTNet](https://github.com/opringle/multivariate_time_series_forecasting)
+
+## <a name="CTR"></a>6. CTR
 >> - [MXNet for CTR ](https://github.com/CNevd/DeepLearning-MXNet)
 >> - [CDL](https://github.com/js05212/MXNet-for-CDL)
 >> - [SpectralLDA](https://github.com/Mega-DatA-Lab/SpectralLDA-MXNet)
 >> - [DEF(Gluon:star:)](https://github.com/altosaar/deep-exponential-families-gluon)
 
-## <a name="DRL"></a>6. DRL
+## <a name="DRL"></a>7. DRL
 >> - [DRL](https://github.com/qyxqyx/DRL)
 >> - [DQN(Gluon:star:)](https://github.com/kazizzad/DQN-MxNet-Gluon)
 >> - [Double DQN(Gluon:star:)](https://github.com/kazizzad/Double-DQN-MxNet-Gluon)
 >> - [openai-mxnet](https://github.com/boddmg/openai-mxnet)
 >> - [PPO(Gluon:star:)](https://github.com/dai-dao/PPO-Gluon)
 
-## <a name="Tools"></a>7. Tools
->> ### 7.1 Converter
+## <a name="Tools"></a>8. Tools
+>> ### 8.1 Converter
 >> - [CaffeTranslator](https://github.com/indhub/CaffeTranslator)
 >> - [mxnet2tf](https://github.com/vuvko/mxnet2tf)
 >> - [MXNetToMXNet](https://github.com/IIMarch/MXNetToMXNet)
 >> - [MMdnn](https://github.com/Microsoft/MMdnn)
 >> - [onnx-mxnet](https://github.com/onnx/onnx-mxnet)
 
->> ### 7.2 Language Bindings
+>> ### 8.2 Language Bindings
 >> - [mxnet.rb](https://github.com/mrkn/mxnet.rb)
 >> - [mxnet.csharp](https://github.com/yajiedesign/mxnet.csharp)
 >> - [go-mxnet-predictor](https://github.com/songtianyi/go-mxnet-predictor)
 >> - [dmxnet](https://github.com/sociomantic-tsunami/dmxnet)
 
->> ### 7.3 Visualization
+>> ### 8.3 Visualization
 >> - [mxbox](https://github.com/Lyken17/mxbox)
 >> - [mixboard](https://github.com/DrSensor/mixboard)
 >> - [mxflows](https://github.com/aidan-plenert-macdonald/mxflows)
 
->> ### 7.4 Parallel and Distributed computing
+>> ### 8.4 Parallel and Distributed computing
 >> - [mxnet-rdma](https://github.com/liuchang1437/mxnet-rdma)
 >> - [RDMA-MXNet-ps-lite](https://github.com/ralzq01/RDMA-MXNet-ps-lite)
 >> - [MPIZ-MXNet](https://github.com/Shenggan/MPIZ-MXNet)
@@ -233,7 +238,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [mxnet-operator](https://github.com/deepinsight/mxnet-operator)
 >> - [mxnet_on_kubernetes](https://github.com/WorldAITime/mxnet_on_kubernetes)
 
->> ### 7.5 Productivity
+>> ### 8.5 Productivity
 >> - [Email Monitor MxnetTrain](https://github.com/fierceX/Email_Monitor_MxnetTrain)
 >> - [mxnet-oneclick](https://github.com/imistyrain/mxnet-oneclick)
 >> - [mxnet-finetuner](https://github.com/knjcode/mxnet-finetuner)
@@ -241,10 +246,10 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [MXNet_Video_Trainer](https://github.com/likelyzhao/MXNet_Video_Trainer)
 >> - [rs_mxnet_reader](https://github.com/ChenKQ/rs_mxnet_reader)
 
->> ### 7.6 Parameter optimizer
+>> ### 8.6 Parameter optimizer
 >> - [YellowFin](https://github.com/StargazerZhu/YellowFin_MXNet)
 
->> ### 7.7 Deployment
+>> ### 8.7 Deployment
 >> - [Turi Create](https://github.com/apple/turicreate)
 >> - [MXNetOnACL](https://github.com/OAID/MXNetOnACL)
 >> - [Collective Knowledge](https://github.com/ctuning/ck-mxnet)
