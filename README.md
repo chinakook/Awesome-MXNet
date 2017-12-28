@@ -11,9 +11,10 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [2. Vision](#Vision)
 - [3. NLP](#NLP)
 - [4. Speech](#Speech)
-- [5. CTR](#CTR)
-- [6. DRL](#DRL)
-- [7. Tools](#Tools)
+- [5. Time series forecasting](#Time series forecasting)
+- [6. CTR](#CTR)
+- [7. DRL](#DRL)
+- [8. Tools](#Tools)
 
 ============================================================================================================
 ## <a name="Tutorials"></a>1. Tutorials
@@ -156,7 +157,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [cicada classification](https://github.com/dokechin/cicada_shell)
 >> - [geometric-matching](https://github.com/x007dwd/geometric-matching-mxnet)
 >> - [Loss Surfaces](https://github.com/nicklhy/cnn_loss_surface)
->> - [CAM](https://github.com/nicklhy/CAM)
+>> - [Class Activation Mapping](https://github.com/nicklhy/CAM)
 >> - [AdversarialAutoEncoder](https://github.com/nicklhy/AdversarialAutoEncoder)
 >> - [Neural Image Caption](https://github.com/saicoco/mxnet_image_caption)
 >> - [mmd/jmmd/adaBN](https://github.com/deepinsight/transfer-mxnet)
@@ -229,6 +230,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [mxbox](https://github.com/Lyken17/mxbox)
 >> - [mixboard](https://github.com/DrSensor/mixboard)
 >> - [mxflows](https://github.com/aidan-plenert-macdonald/mxflows)
+>> - [mxboard](https://github.com/Harmonicahappy/mxboard)
 
 >> ### 8.4 Parallel and Distributed computing
 >> - [mxnet-rdma](https://github.com/liuchang1437/mxnet-rdma)
