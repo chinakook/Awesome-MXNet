@@ -11,7 +11,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [2. Vision](#Vision)
 - [3. NLP](#NLP)
 - [4. Speech](#Speech)
-- [5. Time series forecasting](#Time series forecasting)
+- [5. Time series forecasting](#Time_series_forecasting)
 - [6. CTR](#CTR)
 - [7. DRL](#DRL)
 - [8. Tools](#Tools)
@@ -196,7 +196,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [openspeech(Gluon:star:)](https://github.com/awslabs/openspeech)
 >> - [Tacotron](https://github.com/PiSchool/mxnet-tacotron)
 
-## <a name="Time series forecasting"></a>5. Time series forecasting
+## <a name="Time_series_forecasting"></a>5. Time series forecasting
 >> - [LSTNet](https://github.com/opringle/multivariate_time_series_forecasting)
 
 ## <a name="CTR"></a>6. CTR
