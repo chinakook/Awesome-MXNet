@@ -185,6 +185,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [cnn+Highway Net](https://github.com/wut0n9/cnn_chinese_text_classification)
 >> - [sentiment-analysis(Gluon:star:)](https://github.com/aws-samples/aws-sentiment-analysis-mxnet-gluon)
 >> - [parserChiang(Gluon:star:)](https://github.com/linmx0130/parserChiang)
+>> - [Neural Variational Document Model(Gluon:star:)](https://github.com/dingran/nvdm-mxnet)
 
 ## <a name="Speech"></a>4. Speech
 >> - [deepspeech](https://github.com/samsungsds-rnd/deepspeech.mxnet)
