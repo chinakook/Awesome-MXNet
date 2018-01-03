@@ -62,7 +62,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Faster RCNN](https://github.com/precedenceguo/mx-rcnn)
 >> - [Faster RCNN(Gluon:star:)](https://github.com/linmx0130/ya_mxdet)
 >> - [R-FCN](https://github.com/msracver/Deformable-ConvNets)
->> - [Deformable-ConvNets](https://github.com/msracver/Deformable-ConvNets)
+>> - [Deformable-ConvNets+FPN](https://github.com/msracver/Deformable-ConvNets)
 >> - [Deformable-ConvNets+SoftNMS](https://github.com/bharatsingh430/Deformable-ConvNets)
 >> - [SSD+Focal Loss](https://github.com/eldercrow/focal_loss_mxnet_ssd)
 >> - [Faster RCNN+Focal Loss](https://github.com/unsky/focal-loss)
