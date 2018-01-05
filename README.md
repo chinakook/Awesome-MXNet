@@ -61,9 +61,9 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [YOLO/dark2mxnet](https://github.com/bowenc0221/MXNet-YOLO)
 >> - [Faster RCNN](https://github.com/precedenceguo/mx-rcnn)
 >> - [Faster RCNN(Gluon:star:)](https://github.com/linmx0130/ya_mxdet)
->> - [R-FCN](https://github.com/msracver/Deformable-ConvNets)
->> - [Deformable-ConvNets+FPN](https://github.com/msracver/Deformable-ConvNets)
->> - [Deformable-ConvNets+SoftNMS](https://github.com/bharatsingh430/Deformable-ConvNets)
+>> - [Faster RCNN+Deeplab+R-FCN+Deformable-ConvNets+FPN+SoftNMS](https://github.com/msracver/Deformable-ConvNets)
+>> - [FCIS](https://github.com/msracver/FCIS)
+>> - [Mask R-CNN](https://github.com/TuSimple/mx-maskrcnn)
 >> - [SSD+Focal Loss](https://github.com/eldercrow/focal_loss_mxnet_ssd)
 >> - [Faster RCNN+Focal Loss](https://github.com/unsky/focal-loss)
 >> - [RetinaNet](https://github.com/unsky/RetinaNet)
@@ -73,10 +73,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Light-Head R-CNN](https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784)
 
 >> ### 2.3 Image Segmentation
->> - [Mask R-CNN+FPN](https://github.com/TuSimple/mx-maskrcnn)
->> - [Mask R-CNN](https://github.com/xilaili/maskrcnn.mxnet)
 >> - [DUC](https://github.com/TuSimple/TuSimple-DUC)
->> - [FCIS](https://github.com/msracver/FCIS)
 >> - [ResNet-38](https://github.com/itijyou/ademxapp)
 >> - [Deeplab v2](https://github.com/buptweixin/mxnet-deeplab)
 >> - [Deeplab(Gluon:star:)](https://github.com/zehaochen19/segmentation_gluon)
