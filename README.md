@@ -58,6 +58,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [PVANet](https://github.com/apache/incubator-mxnet/pull/7786)
 >> - [SSD](https://github.com/zhreshold/mxnet-ssd)
 >> - [YOLO](https://github.com/zhreshold/mxnet-yolo)
+>> - [YOLO(Gluon:star:)](https://github.com/MashiMaroLjc/YOLO)
 >> - [YOLO/dark2mxnet](https://github.com/bowenc0221/MXNet-YOLO)
 >> - [Faster RCNN](https://github.com/precedenceguo/mx-rcnn)
 >> - [Faster RCNN(Gluon:star:)](https://github.com/linmx0130/ya_mxdet)
