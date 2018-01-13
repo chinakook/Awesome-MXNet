@@ -132,7 +132,10 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [SSD Text Detection](https://github.com/oyxhust/ssd-text_detection)
 >> - [cnnbilstm](https://github.com/deepinsight/cnnbilstm-mxnet)
 
->> ### 2.8 Images Generation
+>> ### 2.8 Point cloud & 3D
+>> - [mx-pointnet](https://github.com/Zehaos/mx-pointnet)
+
+>> ### 2.9 Images Generation
 >> - [pix2pix](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/Pix2Pix)
 >> - [Image colorization](https://github.com/skirdey/mxnet-pix2pix)
 >> - [Neural-Style-MMD](https://github.com/lyttonhao/Neural-Style-MMD)
@@ -140,13 +143,13 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [fast-style-transfer](https://github.com/SineYuan/mxnet-fast-neural-style)
 >> - [neural-art-mini](https://github.com/pavelgonchar/neural-art-mini)
 
->> ### 2.9 GAN
+>> ### 2.10 GAN
 >> - [DCGAN(Gluon:star:)](https://github.com/kazizzad/DCGAN-Gluon-MxNet)
 
->> ### 2.10 MRI&DTI
+>> ### 2.11 MRI & DTI
 >> - [Chest-XRay](https://github.com/kperkins411/MXNet-Chest-XRay-Evaluation)
 
->> ### 2.11 Misc
+>> ### 2.12 Misc
 >> - [VisualBackProp](https://github.com/Bartzi/visual-backprop-mxnet)
 >> - [VQA](https://github.com/shiyangdaisy23/mxnet-vqa)
 >> - [VQA(Gluon:star:)](https://github.com/shiyangdaisy23/vqa-mxnet-gluon)
@@ -217,6 +220,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [MXNetToMXNet](https://github.com/IIMarch/MXNetToMXNet)
 >> - [MMdnn](https://github.com/Microsoft/MMdnn)
 >> - [onnx-mxnet](https://github.com/onnx/onnx-mxnet)
+>> - [mxnet_to_onnx](https://github.com/NVIDIA/mxnet_to_onnx)
 
 >> ### 8.2 Language Bindings
 >> - [mxnet.rb](https://github.com/mrkn/mxnet.rb)
