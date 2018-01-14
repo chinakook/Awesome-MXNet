@@ -37,8 +37,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [DPN](https://github.com/cypw/DPNs)
 >> - [SENet](https://github.com/bruinxiong/SENet.mxnet)
 >> - [SENet(from Caffe)](https://github.com/IIMarch/SENet-mxnet)
->> - [CapsNet(Gluon:star:)](https://github.com/AaronLeong/CapsNet_Mxnet)
->> - [capsules(Gluon:star:)](https://github.com/mssmkmr/capsules)
+>> - [CapsNet](https://github.com/Soonhwan-Kwon/capsnet.mxnet)
 >> - [NASNet-A(Gluon:star:)](https://github.com/qingzhouzhen/incubator-mxnet/blob/nasnet/python/mxnet/gluon/model_zoo/vision/nasnet.py)
 >> - [CRU-Net](https://github.com/cypw/CRU-Net)
 >> - [MobileNet](https://github.com/KeyKy/mobilenet-mxnet)
@@ -117,6 +116,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [DCGAN face generation(Gluon:star:)](https://github.com/dbsheta/dcgan_face_generation)
 >> - [P3D](https://github.com/IIMarch/pseudo-3d-residual-networks-mxnet)
 >> - [InsightFace](https://github.com/deepinsight/insightface)
+>> - [rl-multishot-reid](https://github.com/TuSimple/rl-multishot-reid)
 
 >> ### 2.6 Image Super-resolution
 >> - [SRCNN](https://github.com/Codersadis/SRCNN-MXNET)
@@ -171,6 +171,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Yelp Restaurant Photo Classifacation](https://github.com/u1234x1234/kaggle-yelp-restaurant-photo-classification)
 >> - [siamese_network_on_omniglot(Gluon:star:)](https://github.com/muchuanyun/siamese_network_on_omniglot)
 >> - [StrassenNets](https://github.com/mitscha/strassennets)
+>> - [Image Embedding Learning(Gluon:star:)](https://github.com/chaoyuaw/incubator-mxnet)
 
 ## <a name="NLP"></a>3. NLP
 >> - [sockeye](https://github.com/awslabs/sockeye)
@@ -221,6 +222,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [MMdnn](https://github.com/Microsoft/MMdnn)
 >> - [onnx-mxnet](https://github.com/onnx/onnx-mxnet)
 >> - [mxnet_to_onnx](https://github.com/NVIDIA/mxnet_to_onnx)
+>> - [R-Convert-json-to-symbol](https://github.com/Imshepherd/MxNetR-Convert-json-to-symbol)
 
 >> ### 8.2 Language Bindings
 >> - [mxnet.rb](https://github.com/mrkn/mxnet.rb)
@@ -241,6 +243,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [MXNetOnYARN](https://github.com/Intel-bigdata/MXNetOnYARN)
 >> - [mxnet-operator](https://github.com/deepinsight/mxnet-operator)
 >> - [mxnet_on_kubernetes](https://github.com/WorldAITime/mxnet_on_kubernetes)
+>> - [speculative-synchronization](https://github.com/All-less/mxnet-speculative-synchronization)
 
 >> ### 8.5 Productivity
 >> - [Email Monitor MxnetTrain](https://github.com/fierceX/Email_Monitor_MxnetTrain)
