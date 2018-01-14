@@ -148,6 +148,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 
 >> ### 2.11 MRI & DTI
 >> - [Chest-XRay](https://github.com/kperkins411/MXNet-Chest-XRay-Evaluation)
+>> - [LUCAD](https://github.com/HPI-DeepLearning/LUCAD)
 
 >> ### 2.12 Misc
 >> - [VisualBackProp](https://github.com/Bartzi/visual-backprop-mxnet)
@@ -172,6 +173,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [siamese_network_on_omniglot(Gluon:star:)](https://github.com/muchuanyun/siamese_network_on_omniglot)
 >> - [StrassenNets](https://github.com/mitscha/strassennets)
 >> - [Image Embedding Learning(Gluon:star:)](https://github.com/chaoyuaw/incubator-mxnet)
+>> - [DIRNet](https://github.com/HPI-DeepLearning/DIRNet/tree/master/DIRNet-mxnet)
 
 ## <a name="NLP"></a>3. NLP
 >> - [sockeye](https://github.com/awslabs/sockeye)
