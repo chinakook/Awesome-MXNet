@@ -50,6 +50,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [fusenet](https://github.com/zlmzju/fusenet)
 >> - [Self-Norm Nets](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/SelfNormNets)
 >> - [Factorized-Bilinear-Network](https://github.com/lyttonhao/Factorized-Bilinear-Network)
+>> - [AOGNet](https://github.com/xilaili/AOGNet)
 >> - [mixup](https://github.com/unsky/mixup)
 >> - [mxnet-model](https://github.com/soeaver/mxnet-model)
 
@@ -117,6 +118,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [P3D](https://github.com/IIMarch/pseudo-3d-residual-networks-mxnet)
 >> - [InsightFace](https://github.com/deepinsight/insightface)
 >> - [rl-multishot-reid](https://github.com/TuSimple/rl-multishot-reid)
+>> - [LightCNN](https://github.com/ly-atdawn/LightCNN-mxnet)
 
 >> ### 2.6 Image Super-resolution
 >> - [SRCNN](https://github.com/Codersadis/SRCNN-MXNET)
