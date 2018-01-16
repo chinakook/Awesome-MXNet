@@ -239,6 +239,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [mixboard](https://github.com/DrSensor/mixboard)
 >> - [mxflows](https://github.com/aidan-plenert-macdonald/mxflows)
 >> - [mxboard](https://github.com/Harmonicahappy/mxboard)
+>> - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
 
 >> ### 8.4 Parallel and Distributed computing
 >> - [mxnet-rdma](https://github.com/liuchang1437/mxnet-rdma)
