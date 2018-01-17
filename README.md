@@ -275,3 +275,4 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [MXNet to MiniFi](https://github.com/tspannhw/nvidiajetsontx1-mxnet)
 >> - [MXNet Model Serving ](https://github.com/yuruofeifei/mms)
 >> - [mxnet-model-server](https://github.com/awslabs/mxnet-model-server)
+>> - [tvm-mali](https://github.com/merrymercy/tvm-mali)
