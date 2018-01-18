@@ -57,6 +57,8 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> ### 2.2 Object Detection
 >> - [PVANet](https://github.com/apache/incubator-mxnet/pull/7786)
 >> - [SSD](https://github.com/zhreshold/mxnet-ssd)
+>> - [SSD+Focal Loss](https://github.com/eldercrow/focal_loss_mxnet_ssd)
+>> - [DSSD+TDM](https://github.com/MTCloudVision/mxnet-dssd)
 >> - [YOLO](https://github.com/zhreshold/mxnet-yolo)
 >> - [YOLO(Gluon:star:)](https://github.com/MashiMaroLjc/YOLO)
 >> - [YOLO/dark2mxnet](https://github.com/bowenc0221/MXNet-YOLO)
@@ -65,7 +67,6 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Faster RCNN+Deeplab+R-FCN+Deformable-ConvNets+FPN+SoftNMS](https://github.com/msracver/Deformable-ConvNets)
 >> - [FCIS](https://github.com/msracver/FCIS)
 >> - [Mask R-CNN](https://github.com/TuSimple/mx-maskrcnn)
->> - [SSD+Focal Loss](https://github.com/eldercrow/focal_loss_mxnet_ssd)
 >> - [Faster RCNN+Focal Loss](https://github.com/unsky/focal-loss)
 >> - [RetinaNet](https://github.com/unsky/RetinaNet)
 >> - [SqueezeDet](https://github.com/alvinwan/squeezeDetMX)
