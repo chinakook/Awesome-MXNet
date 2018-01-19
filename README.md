@@ -41,6 +41,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [NASNet-A(Gluon:star:)](https://github.com/qingzhouzhen/incubator-mxnet/blob/nasnet/python/mxnet/gluon/model_zoo/vision/nasnet.py)
 >> - [CRU-Net](https://github.com/cypw/CRU-Net)
 >> - [MobileNet](https://github.com/KeyKy/mobilenet-mxnet)
+>> - [MobileNetV2(Gluon:star:)](https://github.com/chinakook/MobileNetV2.mxnet)
 >> - [ShuffleNet](https://github.com/ZiyueHuang/MXShuffleNet)
 >> - [Xception](https://github.com/bruinxiong/xception.mxnet)
 >> - [Xception+Keras2MXNet](https://github.com/u1234x1234/mxnet-xception)
