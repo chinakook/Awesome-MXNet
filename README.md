@@ -116,6 +116,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [DeepHumanPrediction](https://github.com/JONGGON/DeepHumanPrediction)
 >> - [SphereFace/FocalLoss/CenterLoss/KNNLoss(CUDA)](https://github.com/deepearthgo/Cuda-Mxnet)
 >> - [SphereFace/KNNLoss(Python)](https://github.com/deepearthgo/Python-Mxnet)
+>> - [SphereFace(Gluon:star:)](https://github.com/HaoLiuHust/sphereface_mxnet_gluon)
 >> - [DCGAN face generation(Gluon:star:)](https://github.com/dbsheta/dcgan_face_generation)
 >> - [P3D](https://github.com/IIMarch/pseudo-3d-residual-networks-mxnet)
 >> - [InsightFace](https://github.com/deepinsight/insightface)
