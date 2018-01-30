@@ -52,6 +52,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Self-Norm Nets](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/SelfNormNets)
 >> - [Factorized-Bilinear-Network](https://github.com/lyttonhao/Factorized-Bilinear-Network)
 >> - [AOGNet](https://github.com/xilaili/AOGNet)
+>> - [NonLocal+SENet](https://github.com/WillSuen/NonLocalandSEnet)
 >> - [mixup](https://github.com/unsky/mixup)
 >> - [mxnet-model](https://github.com/soeaver/mxnet-model)
 
@@ -59,6 +60,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [PVANet](https://github.com/apache/incubator-mxnet/pull/7786)
 >> - [SSD](https://github.com/zhreshold/mxnet-ssd)
 >> - [SSD+Focal Loss](https://github.com/eldercrow/focal_loss_mxnet_ssd)
+>> - [SSD+FPN](https://github.com/zunzhumu/ssd)
 >> - [DSSD+TDM](https://github.com/MTCloudVision/mxnet-dssd)
 >> - [YOLO](https://github.com/zhreshold/mxnet-yolo)
 >> - [YOLO(Gluon:star:)](https://github.com/MashiMaroLjc/YOLO)
@@ -122,6 +124,8 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [InsightFace](https://github.com/deepinsight/insightface)
 >> - [rl-multishot-reid](https://github.com/TuSimple/rl-multishot-reid)
 >> - [LightCNN](https://github.com/ly-atdawn/LightCNN-mxnet)
+>> - [Reinspect](https://github.com/NoListen/mxnet-reinspect)
+>> - [E2FAR](https://github.com/ShownX/mxnet-E2FAR)
 
 >> ### 2.6 Image Super-resolution
 >> - [SRCNN](https://github.com/Codersadis/SRCNN-MXNET)
@@ -135,6 +139,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [crnn (with Chinese Support)](https://github.com/novioleo/crnn.mxnet)
 >> - [CNN-LSTM-CTC](https://github.com/oyxhust/CNN-LSTM-CTC-text-recognition)
 >> - [SSD Text Detection](https://github.com/oyxhust/ssd-text_detection)
+>> - [EAST](https://github.com/wangpan8154/east-text-detection-with-mxnet/tree/1a63083d69954e7c1c7ac277cf6b8ed5af4ec770)
 >> - [cnnbilstm](https://github.com/deepinsight/cnnbilstm-mxnet)
 
 >> ### 2.8 Point cloud & 3D
@@ -159,6 +164,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [VisualBackProp](https://github.com/Bartzi/visual-backprop-mxnet)
 >> - [VQA](https://github.com/shiyangdaisy23/mxnet-vqa)
 >> - [VQA(Gluon:star:)](https://github.com/shiyangdaisy23/vqa-mxnet-gluon)
+>> - [Hierarchical Question-Imagee Co-Attention](https://github.com/WillSuen/VQA)
 >> - [text2image(Gluon:star:)](https://github.com/dbsheta/text2image)
 >> - [Traffic sign classification](https://github.com/sookinoby/mxnet-ccn-samples)
 >> - [cicada classification](https://github.com/dokechin/cicada_shell)
@@ -198,8 +204,10 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Neural Variational Document Model(Gluon:star:)](https://github.com/dingran/nvdm-mxnet)
 >> - [NER with  Bidirectional LSTM-CNNs](https://github.com/opringle/named_entity_recognition)
 >> - [Sequential Matching Network(Gluon:star:)](https://github.com/NonvolatileMemory/MXNET-SMN)
+>> - [ko_en_NMT(Gluon:star:)](https://github.com/haven-jeon/ko_en_neural_machine_translation)
 
 ## <a name="Speech"></a>4. Speech
+>> - [mxnet_kaldi](https://github.com/vsooda/mxnet_kaldi)
 >> - [deepspeech](https://github.com/samsungsds-rnd/deepspeech.mxnet)
 >> - [wavenet](https://github.com/shuokay/mxnet-wavenet)
 >> - [openspeech(Gluon:star:)](https://github.com/awslabs/openspeech)
@@ -223,7 +231,6 @@ If you want to contribute to this list and the examples, please open a new pull 
 
 ## <a name="Tools"></a>8. Tools
 >> ### 8.1 Converter
->> - [CaffeTranslator](https://github.com/indhub/CaffeTranslator)
 >> - [mxnet2tf](https://github.com/vuvko/mxnet2tf)
 >> - [MXNetToMXNet](https://github.com/IIMarch/MXNetToMXNet)
 >> - [MMdnn](https://github.com/Microsoft/MMdnn)
@@ -244,6 +251,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [mxboard](https://github.com/Harmonicahappy/mxboard)
 >> - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
 >> - [mxProfileParser](https://github.com/TaoLv/mxProfileParser)
+>> - [polyaxon](https://github.com/polyaxon/polyaxon)
 
 >> ### 8.4 Parallel and Distributed computing
 >> - [mxnet-rdma](https://github.com/liuchang1437/mxnet-rdma)
