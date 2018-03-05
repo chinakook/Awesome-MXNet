@@ -206,6 +206,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [NER with  Bidirectional LSTM-CNNs](https://github.com/opringle/named_entity_recognition)
 >> - [Sequential Matching Network(Gluon:star:)](https://github.com/NonvolatileMemory/MXNET-SMN)
 >> - [ko_en_NMT(Gluon:star:)](https://github.com/haven-jeon/ko_en_neural_machine_translation)
+>> - [Gluon Dynamic-batching(Gluon:star:)](https://github.com/szha/mxnet-fold)
 
 ## <a name="Speech"></a>4. Speech
 >> - [mxnet_kaldi](https://github.com/vsooda/mxnet_kaldi)
