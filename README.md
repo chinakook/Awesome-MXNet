@@ -145,6 +145,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 
 >> ### 2.8 Point cloud & 3D
 >> - [mx-pointnet](https://github.com/Zehaos/mx-pointnet)
+>> - [PointCNN.MX](https://github.com/chinakook/PointCNN.MX)
 
 >> ### 2.9 Images Generation
 >> - [pix2pix](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/Pix2Pix)
