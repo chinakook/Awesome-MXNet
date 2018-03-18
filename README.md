@@ -279,6 +279,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 
 >> ### 8.7 Deployment
 >> - [Turi Create](https://github.com/apple/turicreate)
+>> - [ngraph-mxnet](https://github.com/NervanaSystems/ngraph-mxnet)
 >> - [MXNetOnACL](https://github.com/OAID/MXNetOnACL)
 >> - [Collective Knowledge](https://github.com/ctuning/ck-mxnet)
 >> - [flask-app-for-mxnet-img-classifier](https://github.com/XD-DENG/flask-app-for-mxnet-img-classifier)
