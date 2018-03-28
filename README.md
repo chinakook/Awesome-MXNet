@@ -29,6 +29,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [NNVM Documentation](http://nnvm.tvmlang.org/)
 - [Linalg examples](https://github.com/ARCambridge/MXNet_linalg_examples)
 - [NNVM Vison Demo](https://github.com/masahi/nnvm-vision-demo)
+- [im2rec_tutorial](https://github.com/leocvml/mxnet-im2rec_tutorial)
 
 ## <a name="Vision"></a>2. Vision
 >> ### 2.1 Image Classification
