@@ -30,6 +30,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [Linalg examples](https://github.com/ARCambridge/MXNet_linalg_examples)
 - [NNVM Vison Demo](https://github.com/masahi/nnvm-vision-demo)
 - [im2rec_tutorial](https://github.com/leocvml/mxnet-im2rec_tutorial)
+- [MXNet Blog (zh)](https://zh.mxnet.io/blog/)
 
 ## <a name="Vision"></a>2. Vision
 >> ### 2.1 Image Classification
@@ -140,6 +141,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [SSD Text Detection](https://github.com/oyxhust/ssd-text_detection)
 >> - [EAST](https://github.com/wangpan8154/east-text-detection-with-mxnet/tree/1a63083d69954e7c1c7ac277cf6b8ed5af4ec770)
 >> - [cnnbilstm](https://github.com/deepinsight/cnnbilstm-mxnet)
+>> - [Gluon_OCR_LSTM_CTC(Gluon:star:)](https://github.com/ThomasDelteil/Gluon_OCR_LSTM_CTC)
 
 >> ### 2.9 Point cloud & 3D
 >> - [mx-pointnet](https://github.com/Zehaos/mx-pointnet)
@@ -186,6 +188,8 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [StrassenNets](https://github.com/mitscha/strassennets)
 >> - [Image Embedding Learning(Gluon:star:)](https://github.com/chaoyuaw/incubator-mxnet)
 >> - [DIRNet](https://github.com/HPI-DeepLearning/DIRNet/tree/master/DIRNet-mxnet)
+>> - [Receptive Field Tool](https://github.com/chinakook/mxnet/blob/kkmaster/python/kktools/rf.py)
+>> - [mxnet-videoio](https://github.com/MTCloudVision/mxnet-videoio)
 
 ## <a name="NLP"></a>3. NLP
 >> - [**sockeye**](https://github.com/awslabs/sockeye)
@@ -207,7 +211,8 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [NER with  Bidirectional LSTM-CNNs](https://github.com/opringle/named_entity_recognition)
 >> - [Sequential Matching Network(Gluon:star:)](https://github.com/NonvolatileMemory/MXNET-SMN)
 >> - [ko_en_NMT(Gluon:star:)](https://github.com/haven-jeon/ko_en_neural_machine_translation)
->> - [Gluon Dynamic-batching(Gluon:star:)](https://github.com/szha/mxnet-fold)
+>> - [**Gluon Dynamic-batching**(Gluon:star:)](https://github.com/szha/mxnet-fold)
+>> - [translatR](https://github.com/jeremiedb/translatR)
 
 ## <a name="Speech"></a>4. Speech
 >> - [mxnet_kaldi](https://github.com/vsooda/mxnet_kaldi)
@@ -253,11 +258,12 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [mxbox](https://github.com/Lyken17/mxbox)
 >> - [mixboard](https://github.com/DrSensor/mixboard)
 >> - [mxflows](https://github.com/aidan-plenert-macdonald/mxflows)
->> - [mxboard](https://github.com/Harmonicahappy/mxboard)
+>> - [mxserver](https://github.com/Harmonicahappy/mxserver)
 >> - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
 >> - [mxProfileParser](https://github.com/TaoLv/mxProfileParser)
 >> - [polyaxon](https://github.com/polyaxon/polyaxon)
 >> - [Netron](https://github.com/lutzroeder/Netron)
+>> - [**mxboard**](https://github.com/awslabs/mxboard)
 
 >> ### 9.4 Parallel and Distributed computing
 >> - [mxnet-rdma](https://github.com/liuchang1437/mxnet-rdma)
@@ -267,6 +273,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [mxnet-operator](https://github.com/deepinsight/mxnet-operator)
 >> - [mxnet_on_kubernetes](https://github.com/WorldAITime/mxnet_on_kubernetes)
 >> - [speculative-synchronization](https://github.com/All-less/mxnet-speculative-synchronization)
+>> - [**MXNet-Gluon-SyncBN**(Gluon:star:)](https://github.com/zhanghang1989/MXNet-Gluon-SyncBN)
 
 >> ### 9.5 Productivity
 >> - [Email Monitor MxnetTrain](https://github.com/fierceX/Email_Monitor_MxnetTrain)
