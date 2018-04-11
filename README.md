@@ -7,7 +7,7 @@ A curated list of MXNet examples, tutorials and blogs. It is inspired by awesome
 If you want to contribute to this list and the examples, please open a new pull request.
 
 ## Table of Contents
-- [1. Tutorials](#Tutorials)
+- [1. Tutorials and Resources](#Tutorials)
 - [2. Vision](#Vision)
 - [3. NLP](#NLP)
 - [4. Speech](#Speech)
@@ -17,7 +17,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [8. Tools](#Tools)
 
 ============================================================================================================
-## <a name="Tutorials"></a>1. Tutorials
+## <a name="Tutorials and Resources"></a>1. Tutorials and Resources
 - [incubator-mxnet-site](https://github.com/apache/incubator-mxnet-site)
 - [Tutorial Documentation](https://mxnet.incubator.apache.org/tutorials/)
 - [Gluon Tutorial Documentation](http://gluon.mxnet.io/)
@@ -31,6 +31,10 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [NNVM Vison Demo](https://github.com/masahi/nnvm-vision-demo)
 - [im2rec_tutorial](https://github.com/leocvml/mxnet-im2rec_tutorial)
 - [MXNet Blog (zh)](https://zh.mxnet.io/blog/)
+- [MXNet Discuss Forum](https://discuss.mxnet.io/)
+- [r/mxnet subreddit](https://www.reddit.com/r/mxnet/)
+- [Apache MXNet youtube channel](https://www.youtube.com/channel/UCQua2ZAkbr_Shsgfk1LCy6A)
+- [Apache MXNet youtube channel (chinese)](https://www.youtube.com/channel/UCjeLwTKPMlDt2segkZzw2ZQ)
 
 ## <a name="Vision"></a>2. Vision
 >> ### 2.1 Image Classification
