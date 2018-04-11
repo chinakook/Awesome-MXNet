@@ -36,6 +36,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> ### 2.1 Image Classification
 >> - [ResNet](https://github.com/tornadomeet/ResNet)
 >> - [DenseNet](https://github.com/bruinxiong/densenet.mxnet)
+>> - [Multi-GPU Multi-Label DenseNet (Gluon:star:)](https://github.com/ilkarman/DeepLearningFrameworks/blob/master/notebooks/Gluon_MultiGPU.ipynb)
 >> - [efficient_densenet(Gluon:star:)](https://github.com/kevinid/efficient_densenet_mxnet)
 >> - [DPN](https://github.com/cypw/DPNs)
 >> - [SENet](https://github.com/bruinxiong/SENet.mxnet)
@@ -138,10 +139,10 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [crnn](https://github.com/xinghedyc/mxnet-cnn-lstm-ctc-ocr)
 >> - [crnn (with Chinese Support)](https://github.com/novioleo/crnn.mxnet)
 >> - [CNN-LSTM-CTC](https://github.com/oyxhust/CNN-LSTM-CTC-text-recognition)
+>> - [CNN-LSTM-CTC(Gluon:star:)](https://github.com/ThomasDelteil/Gluon_OCR_LSTM_CTC)
 >> - [SSD Text Detection](https://github.com/oyxhust/ssd-text_detection)
 >> - [EAST](https://github.com/wangpan8154/east-text-detection-with-mxnet/tree/1a63083d69954e7c1c7ac277cf6b8ed5af4ec770)
 >> - [cnnbilstm](https://github.com/deepinsight/cnnbilstm-mxnet)
->> - [Gluon_OCR_LSTM_CTC(Gluon:star:)](https://github.com/ThomasDelteil/Gluon_OCR_LSTM_CTC)
 
 >> ### 2.9 Point cloud & 3D
 >> - [mx-pointnet](https://github.com/Zehaos/mx-pointnet)
@@ -195,6 +196,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [**sockeye**](https://github.com/awslabs/sockeye)
 >> - [MXNMT](https://github.com/magic282/MXNMT)
 >> - [Char-RNN(Gluon:star:)](https://github.com/SherlockLiao/Char-RNN-Gluon)
+>> - [Character-level CNN Text Classification (Gluon:star:)](https://github.com/ThomasDelteil/CNN_NLP_MXNet)
 >> - [AC-BLSTM](https://github.com/Ldpe2G/AC-BLSTM)
 >> - [mxnet-seq2seq](https://github.com/yoosan/mxnet-seq2seq)
 >> - [MXSeq2Seq(Gluon:star:)](https://github.com/ZiyueHuang/MXSeq2Seq)
