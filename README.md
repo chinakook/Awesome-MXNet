@@ -14,7 +14,8 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [5. Time series forecasting](#Time_series_forecasting)
 - [6. CTR](#CTR)
 - [7. DRL](#DRL)
-- [8. Tools](#Tools)
+- [8. Neuro Evolution](#Neuro_evolution)
+- [9. Tools](#Tools)
 
 ============================================================================================================
 ## <a name="Tutorials and Resources"></a>1. Tutorials and Resources
@@ -242,7 +243,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [openai-mxnet](https://github.com/boddmg/openai-mxnet)
 >> - [PPO(Gluon:star:)](https://github.com/dai-dao/PPO-Gluon)
 
-## <a name="Tools"></a>8. Neuro Evolution
+## <a name="Neuro_evolution"></a>8. Neuro Evolution
 >> - [galapagos_nao](https://github.com/jeffreyksmithjr/galapagos_nao)
 
 ## <a name="Tools"></a>9. Tools
