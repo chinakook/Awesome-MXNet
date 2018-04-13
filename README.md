@@ -51,6 +51,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [CRU-Net](https://github.com/cypw/CRU-Net)
 >> - [MobileNet](https://github.com/KeyKy/mobilenet-mxnet)
 >> - [MobileNetV2(Gluon:star:)](https://github.com/chinakook/MobileNetV2.mxnet)
+>> - [**MobileNetV2**(TVM Supported)](https://github.com/liangfu/mxnet-mobilenet-v2)
 >> - [ShuffleNet](https://github.com/ZiyueHuang/MXShuffleNet)
 >> - [Xception](https://github.com/bruinxiong/xception.mxnet)
 >> - [Xception+Keras2MXNet](https://github.com/u1234x1234/mxnet-xception)
@@ -143,6 +144,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [STN OCR](https://github.com/Bartzi/stn-ocr)
 >> - [crnn](https://github.com/xinghedyc/mxnet-cnn-lstm-ctc-ocr)
 >> - [crnn (with Chinese Support)](https://github.com/novioleo/crnn.mxnet)
+>> - [crnn-mxnet-chinese-text-recognition](https://github.com/diaomin/crnn-mxnet-chinese-text-recognition)
 >> - [CNN-LSTM-CTC](https://github.com/oyxhust/CNN-LSTM-CTC-text-recognition)
 >> - [CNN-LSTM-CTC(Gluon:star:)](https://github.com/ThomasDelteil/Gluon_OCR_LSTM_CTC)
 >> - [SSD Text Detection](https://github.com/oyxhust/ssd-text_detection)
@@ -196,6 +198,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [DIRNet](https://github.com/HPI-DeepLearning/DIRNet/tree/master/DIRNet-mxnet)
 >> - [Receptive Field Tool](https://github.com/chinakook/mxnet/blob/kkmaster/python/kktools/rf.py)
 >> - [mxnet-videoio](https://github.com/MTCloudVision/mxnet-videoio)
+>> - [mxnet_tetris](https://github.com/sunkwei/mxnet_tetris)
 
 ## <a name="NLP"></a>3. NLP
 >> - [**sockeye**](https://github.com/awslabs/sockeye)
@@ -220,12 +223,14 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [ko_en_NMT(Gluon:star:)](https://github.com/haven-jeon/ko_en_neural_machine_translation)
 >> - [**Gluon Dynamic-batching**(Gluon:star:)](https://github.com/szha/mxnet-fold)
 >> - [translatR](https://github.com/jeremiedb/translatR)
+>> - [RNN-Transducer](https://github.com/HawkAaron/RNN-Transducer)
 
 ## <a name="Speech"></a>4. Speech
 >> - [mxnet_kaldi](https://github.com/vsooda/mxnet_kaldi)
 >> - [**deepspeech**](https://github.com/samsungsds-rnd/deepspeech.mxnet)
 >> - [wavenet](https://github.com/shuokay/mxnet-wavenet)
 >> - [Tacotron](https://github.com/PiSchool/mxnet-tacotron)
+>> - [mxnet-audio](https://github.com/chen0040/mxnet-audio)
 
 ## <a name="Time_series_forecasting"></a>5. Time series forecasting
 >> - [LSTNet](https://github.com/opringle/multivariate_time_series_forecasting)
@@ -269,6 +274,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
 >> - [mxProfileParser](https://github.com/TaoLv/mxProfileParser)
 >> - [polyaxon](https://github.com/polyaxon/polyaxon)
+>> - [polyaxon-mxnet-examples](https://github.com/polyaxon/polyaxon-examples/tree/master/mxnet/cifar10)
 >> - [Netron](https://github.com/lutzroeder/Netron)
 >> - [**mxboard**](https://github.com/awslabs/mxboard)
 
