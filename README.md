@@ -65,6 +65,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [NonLocal+SENet](https://github.com/WillSuen/NonLocalandSEnet)
 >> - [mixup](https://github.com/unsky/mixup)
 >> - [mxnet-model](https://github.com/soeaver/mxnet-model)
+>> - [kaggle_CIFAR10](https://github.com/yinglang/CIFAR10_mxnet)
 
 >> ### 2.2 Object Detection
 >> - [PVANet](https://github.com/apache/incubator-mxnet/pull/7786)
@@ -315,6 +316,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [MXNet Model Serving ](https://github.com/yuruofeifei/mms)
 >> - [mxnet-model-server](https://github.com/awslabs/mxnet-model-server)
 >> - [tvm-mali](https://github.com/merrymercy/tvm-mali)
+>> - [mxnet-and-sagemaker](https://github.com/cosmincatalin/object-counting-with-mxnet-and-sagemaker)
 
 >> ### 9.8 Compiler
 >> - [ngraph-mxnet](https://github.com/NervanaSystems/ngraph-mxnet)
