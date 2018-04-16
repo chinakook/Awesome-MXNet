@@ -241,6 +241,8 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [CDL](https://github.com/js05212/MXNet-for-CDL)
 >> - [SpectralLDA](https://github.com/Mega-DatA-Lab/SpectralLDA-MXNet)
 >> - [DEF(Gluon:star:)](https://github.com/altosaar/deep-exponential-families-gluon)
+>> - [mxnet-recommender(Gluon:star:)](https://github.com/chen0040/mxnet-recommender)
+>> - [collaborative_filtering](https://github.com/opringle/collaborative_filtering)
 
 ## <a name="DRL"></a>7. DRL
 >> - [DRL](https://github.com/qyxqyx/DRL)
@@ -288,6 +290,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [mxnet_on_kubernetes](https://github.com/WorldAITime/mxnet_on_kubernetes)
 >> - [speculative-synchronization](https://github.com/All-less/mxnet-speculative-synchronization)
 >> - [**MXNet-Gluon-SyncBN**(Gluon:star:)](https://github.com/zhanghang1989/MXNet-Gluon-SyncBN)
+>> - [XLearning](https://github.com/Qihoo360/XLearning)
 
 >> ### 9.5 Productivity
 >> - [Email Monitor MxnetTrain](https://github.com/fierceX/Email_Monitor_MxnetTrain)
