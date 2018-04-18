@@ -87,6 +87,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [IOULoss](https://github.com/wcj-Ford/IOULoss)
 >> - [FocalLoss(CUDA)](https://github.com/yuantangliang/softmaxfocalloss)
 >> - [Light-Head R-CNN](https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784)
+>> - [**dspnet**](https://github.com/liangfu/dspnet)
 
 >> ### 2.3 Image Segmentation
 >> - [DUC](https://github.com/TuSimple/TuSimple-DUC)
