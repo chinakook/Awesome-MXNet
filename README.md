@@ -36,6 +36,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [r/mxnet subreddit](https://www.reddit.com/r/mxnet/)
 - [Apache MXNet youtube channel](https://www.youtube.com/channel/UCQua2ZAkbr_Shsgfk1LCy6A)
 - [Apache MXNet youtube channel (chinese)](https://www.youtube.com/channel/UCjeLwTKPMlDt2segkZzw2ZQ)
+- [GluonNLP](http://gluon-nlp.mxnet.io/)
 
 ## <a name="Vision"></a>2. Vision
 >> ### 2.1 Image Classification
@@ -66,6 +67,9 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [mixup](https://github.com/unsky/mixup)
 >> - [mxnet-model](https://github.com/soeaver/mxnet-model)
 >> - [kaggle_CIFAR10](https://github.com/yinglang/CIFAR10_mxnet)
+>> - [sparse-structure-selection](https://github.com/TuSimple/sparse-structure-selection)
+>> - [neuron-selectivity-transfer](https://github.com/TuSimple/neuron-selectivity-transfer)
+>> - [L-GM-Loss](https://github.com/LeeJuly30/L-GM-Loss-For-Gluon)
 
 >> ### 2.2 Object Detection
 >> - [PVANet](https://github.com/apache/incubator-mxnet/pull/7786)
@@ -116,16 +120,20 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [VanillaCNN](https://github.com/flyingzhao/mxnet_VanillaCNN)
 >> - [DeepID v1](https://github.com/AihahaFox/deepid-mxnet)
 >> - [Range Loss](https://github.com/ShownX/mxnet-rangeloss)
+>> - [RangeLoss(Gluon:star:)](https://github.com/LeeJuly30/RangeLoss-For-Gluno)
 >> - [Convolutional Sketch Inversion](https://github.com/VinniaKemala/sketch-inversion)
 >> - [Face68Pts](https://github.com/LaoDar/mxnet_cnn_face68pts)
 >> - [DCGAN face generation(Gluon:star:)](https://github.com/dbsheta/dcgan_face_generation)
 >> - [**InsightFace**](https://github.com/deepinsight/insightface)
->> - [rl-multishot-reid](https://github.com/TuSimple/rl-multishot-reid)
 >> - [LightCNN](https://github.com/ly-atdawn/LightCNN-mxnet)
 >> - [E2FAR](https://github.com/ShownX/mxnet-E2FAR)
 >> - [FacialLandmark](https://github.com/BobLiu20/FacialLandmark_MXNet)
 
->> ### 2.6 Human Pose Estimation and Activity Recognition
+>> ### 2.6 ReID
+>> - [rl-multishot-reid](https://github.com/TuSimple/rl-multishot-reid)
+>> - [DarkRank](https://github.com/TuSimple/DarkRank)
+
+>> ### 2.7 Human Pose Estimation and Activity Recognition
 >> - [Head Pose](https://github.com/LaoDar/cnn_head_pose_estimator)
 >> - [Convolutional Pose Machines](https://github.com/li-haoran/mxnet-convolutional_pose_machines_Testing)
 >> - [Realtime Multi-Person Pose Estimation](https://github.com/dragonfly90/mxnet_Realtime_Multi-Person_Pose_Estimation)
@@ -138,11 +146,11 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Reinspect](https://github.com/NoListen/mxnet-reinspect)
 >> - [COCO Human keypoint](https://github.com/wangsr126/mxnet-pose)
 
->> ### 2.7 Image Super-resolution
+>> ### 2.8 Image Super-resolution
 >> - [SRCNN](https://github.com/Codersadis/SRCNN-MXNET)
 >> - [SuperResolutionCNN](https://github.com/galad-loth/SuperResolutionCNN)
 
->> ### 2.8 OCR
+>> ### 2.9 OCR
 >> - [STN OCR](https://github.com/Bartzi/stn-ocr)
 >> - [crnn](https://github.com/xinghedyc/mxnet-cnn-lstm-ctc-ocr)
 >> - [crnn (with Chinese Support)](https://github.com/novioleo/crnn.mxnet)
@@ -153,12 +161,12 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [EAST](https://github.com/wangpan8154/east-text-detection-with-mxnet/tree/1a63083d69954e7c1c7ac277cf6b8ed5af4ec770)
 >> - [cnnbilstm](https://github.com/deepinsight/cnnbilstm-mxnet)
 
->> ### 2.9 Point cloud & 3D
+>> ### 2.10 Point cloud & 3D
 >> - [mx-pointnet](https://github.com/Zehaos/mx-pointnet)
 >> - [PointCNN.MX](https://github.com/chinakook/PointCNN.MX)
 >> - [RC3D](https://github.com/likelyzhao/MxNet-RC3D/blob/master/RC3D/symbols/RC3D.py)
 
->> ### 2.10 Images Generation
+>> ### 2.11 Images Generation
 >> - [pix2pix](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/Pix2Pix)
 >> - [Image colorization](https://github.com/skirdey/mxnet-pix2pix)
 >> - [Neural-Style-MMD](https://github.com/lyttonhao/Neural-Style-MMD)
@@ -166,14 +174,14 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [fast-style-transfer](https://github.com/SineYuan/mxnet-fast-neural-style)
 >> - [neural-art-mini](https://github.com/pavelgonchar/neural-art-mini)
 
->> ### 2.11 GAN
+>> ### 2.12 GAN
 >> - [DCGAN(Gluon:star:)](https://github.com/kazizzad/DCGAN-Gluon-MxNet)
 
->> ### 2.12 MRI & DTI
+>> ### 2.13 MRI & DTI
 >> - [Chest-XRay](https://github.com/kperkins411/MXNet-Chest-XRay-Evaluation)
 >> - [LUCAD](https://github.com/HPI-DeepLearning/LUCAD)
 
->> ### 2.13 Misc
+>> ### 2.14 Misc
 >> - [VisualBackProp](https://github.com/Bartzi/visual-backprop-mxnet)
 >> - [VQA](https://github.com/shiyangdaisy23/mxnet-vqa)
 >> - [VQA(Gluon:star:)](https://github.com/shiyangdaisy23/vqa-mxnet-gluon)
@@ -201,6 +209,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Receptive Field Tool](https://github.com/chinakook/mxnet/blob/kkmaster/python/kktools/rf.py)
 >> - [mxnet-videoio](https://github.com/MTCloudVision/mxnet-videoio)
 >> - [mxnet_tetris](https://github.com/sunkwei/mxnet_tetris)
+>> - [VisualSearch](https://github.com/ThomasDelteil/VisualSearch_MXNet)
 
 ## <a name="NLP"></a>3. NLP
 >> - [**sockeye**](https://github.com/awslabs/sockeye)
@@ -226,6 +235,8 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [**Gluon Dynamic-batching**(Gluon:star:)](https://github.com/szha/mxnet-fold)
 >> - [translatR](https://github.com/jeremiedb/translatR)
 >> - [RNN-Transducer](https://github.com/HawkAaron/RNN-Transducer)
+>> - [RNN-Transducer(RNNT loss using CPP)](https://github.com/HawkAaron/mxnet-transducer)
+>> - [**gluon-nlp**(Gluon:star:)](https://github.com/dmlc/gluon-nlp)
 
 ## <a name="Speech"></a>4. Speech
 >> - [mxnet_kaldi](https://github.com/vsooda/mxnet_kaldi)
@@ -269,6 +280,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [mxnet.csharp](https://github.com/yajiedesign/mxnet.csharp)
 >> - [go-mxnet-predictor](https://github.com/songtianyi/go-mxnet-predictor)
 >> - [dmxnet](https://github.com/sociomantic-tsunami/dmxnet)
+>> - [load_op](https://github.com/DuinoDu/load_op.mxnet)
 
 >> ### 9.3 Visualization
 >> - [mxbox](https://github.com/Lyken17/mxbox)
@@ -321,6 +333,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [mxnet-model-server](https://github.com/awslabs/mxnet-model-server)
 >> - [tvm-mali](https://github.com/merrymercy/tvm-mali)
 >> - [mxnet-and-sagemaker](https://github.com/cosmincatalin/object-counting-with-mxnet-and-sagemaker)
+>> - [example-of-nnvm-in-cpp](https://github.com/zhangxinqian/example-of-nnvm-in-cpp)
 
 >> ### 9.8 Compiler
 >> - [ngraph-mxnet](https://github.com/NervanaSystems/ngraph-mxnet)
