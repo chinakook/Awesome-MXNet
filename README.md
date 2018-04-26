@@ -36,6 +36,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [r/mxnet subreddit](https://www.reddit.com/r/mxnet/)
 - [Apache MXNet youtube channel](https://www.youtube.com/channel/UCQua2ZAkbr_Shsgfk1LCy6A)
 - [Apache MXNet youtube channel (chinese)](https://www.youtube.com/channel/UCjeLwTKPMlDt2segkZzw2ZQ)
+- [GluonCV](http://gluon-cv.mxnet.io/)
 - [GluonNLP](http://gluon-nlp.mxnet.io/)
 
 ## <a name="Vision"></a>2. Vision
