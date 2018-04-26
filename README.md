@@ -17,7 +17,9 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [8. Neuro Evolution](#Neuro_evolution)
 - [9. Tools](#Tools)
 
-============================================================================================================
+________________
+
+
 ## <a name="Tutorials and Resources"></a>1. Tutorials and Resources
 - [incubator-mxnet-site](https://github.com/apache/incubator-mxnet-site)
 - [Tutorial Documentation](https://mxnet.incubator.apache.org/tutorials/)
@@ -205,12 +207,12 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Yelp Restaurant Photo Classifacation](https://github.com/u1234x1234/kaggle-yelp-restaurant-photo-classification)
 >> - [siamese_network_on_omniglot(Gluon:star:)](https://github.com/muchuanyun/siamese_network_on_omniglot)
 >> - [StrassenNets](https://github.com/mitscha/strassennets)
->> - [Image Embedding Learning(Gluon:star:)](https://github.com/chaoyuaw/incubator-mxnet)
+>> - [Image Embedding Learning (Gluon:star:)](https://github.com/chaoyuaw/incubator-mxnet)
 >> - [DIRNet](https://github.com/HPI-DeepLearning/DIRNet/tree/master/DIRNet-mxnet)
 >> - [Receptive Field Tool](https://github.com/chinakook/mxnet/blob/kkmaster/python/kktools/rf.py)
 >> - [mxnet-videoio](https://github.com/MTCloudVision/mxnet-videoio)
 >> - [mxnet_tetris](https://github.com/sunkwei/mxnet_tetris)
->> - [VisualSearch](https://github.com/ThomasDelteil/VisualSearch_MXNet)
+>> - [Visual Search (Gluon:star:)](https://github.com/ThomasDelteil/VisualSearch_MXNet)
 
 ## <a name="NLP"></a>3. NLP
 >> - [**sockeye**](https://github.com/awslabs/sockeye)
