@@ -307,6 +307,7 @@ ________________
 >> - [speculative-synchronization](https://github.com/All-less/mxnet-speculative-synchronization)
 >> - [**MXNet-Gluon-SyncBN**(Gluon:star:)](https://github.com/zhanghang1989/MXNet-Gluon-SyncBN)
 >> - [XLearning](https://github.com/Qihoo360/XLearning)
+>> - [Gluon Distributed Training (Gluon:star:)](https://mxnet.indu.ai/tutorials/distributed-training-using-mxnet)
 
 >> ### 9.5 Productivity
 >> - [Email Monitor MxnetTrain](https://github.com/fierceX/Email_Monitor_MxnetTrain)
