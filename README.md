@@ -95,6 +95,7 @@ ________________
 >> - [FocalLoss(CUDA)](https://github.com/yuantangliang/softmaxfocalloss)
 >> - [Light-Head R-CNN](https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784)
 >> - [**dspnet**](https://github.com/liangfu/dspnet)
+>> - [**Faster_RCNN_for_DOTA**](https://github.com/jessemelpolio/Faster_RCNN_for_DOTA)
 
 >> ### 2.3 Image Segmentation
 >> - [DUC](https://github.com/TuSimple/TuSimple-DUC)
