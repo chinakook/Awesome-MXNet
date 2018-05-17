@@ -96,6 +96,7 @@ ________________
 >> - [Light-Head R-CNN](https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784)
 >> - [**dspnet**](https://github.com/liangfu/dspnet)
 >> - [**Faster_RCNN_for_DOTA**](https://github.com/jessemelpolio/Faster_RCNN_for_DOTA)
+>> - [cascade-rcnn-gluon(Gluon:star:)](https://github.com/lizhenbang56/cascade-rcnn-gluon)
 
 >> ### 2.3 Image Segmentation
 >> - [DUC](https://github.com/TuSimple/TuSimple-DUC)
