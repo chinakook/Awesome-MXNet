@@ -157,6 +157,7 @@ ________________
 
 >> ### 2.9 OCR
 >> - [STN OCR](https://github.com/Bartzi/stn-ocr)
+>> - [**CTPN.mxnet**](https://github.com/chinakook/CTPN.mxnet)
 >> - [crnn](https://github.com/xinghedyc/mxnet-cnn-lstm-ctc-ocr)
 >> - [crnn (with Chinese Support)](https://github.com/novioleo/crnn.mxnet)
 >> - [crnn-mxnet-chinese-text-recognition](https://github.com/diaomin/crnn-mxnet-chinese-text-recognition)
