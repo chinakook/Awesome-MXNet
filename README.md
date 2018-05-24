@@ -287,6 +287,7 @@ ________________
 >> - [go-mxnet-predictor](https://github.com/songtianyi/go-mxnet-predictor)
 >> - [dmxnet](https://github.com/sociomantic-tsunami/dmxnet)
 >> - [load_op](https://github.com/DuinoDu/load_op.mxnet)
+>> - [MobulaOP](https://github.com/wkcn/MobulaOP)
 
 >> ### 9.3 Visualization
 >> - [mxbox](https://github.com/Lyken17/mxbox)
