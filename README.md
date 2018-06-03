@@ -59,6 +59,7 @@ ________________
 >> - [ShuffleNet](https://github.com/ZiyueHuang/MXShuffleNet)
 >> - [Xception](https://github.com/bruinxiong/xception.mxnet)
 >> - [Xception+Keras2MXNet](https://github.com/u1234x1234/mxnet-xception)
+>> - [**IGCV3**](https://github.com/homles11/IGCV3)
 >> - [SqeezeNet](https://github.com/miaow1988/SqueezeNet_v1.2)
 >> - [FractalNet](https://github.com/newuser-16824/mxnet-fractalnet)
 >> - [BMXNet](https://github.com/hpi-xnor/BMXNet)
