@@ -122,6 +122,7 @@ ________________
 >> - [MXNet Face](https://github.com/tornadomeet/mxnet-face)
 >> - [Tiny Face (w/ training)](https://github.com/IIMarch/tiny-face-mxnet)
 >> - [Tiny Face (original detector)](https://github.com/chinakook/hr101_mxnet)
+>> - [S3FD](https://github.com/zunzhumu/S3FD)
 >> - [FaceDetection-ConvNet-3D](https://github.com/tfwu/FaceDetection-ConvNet-3D)
 >> - [VanillaCNN](https://github.com/flyingzhao/mxnet_VanillaCNN)
 >> - [DeepID v1](https://github.com/AihahaFox/deepid-mxnet)
