@@ -99,6 +99,7 @@ ________________
 >> - [dspnet](https://github.com/liangfu/dspnet)
 >> - [**Faster_RCNN_for_DOTA**](https://github.com/jessemelpolio/Faster_RCNN_for_DOTA)
 >> - [cascade-rcnn-gluon(Gluon:star:)](https://github.com/lizhenbang56/cascade-rcnn-gluon)
+>> - [**SNIPER+R-FCN-3K+SSH**](https://github.com/mahyarnajibi/SNIPER)
 
 >> ### 2.3 Image Segmentation
 >> - [DUC](https://github.com/TuSimple/TuSimple-DUC)
