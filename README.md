@@ -220,6 +220,7 @@ ________________
 >> - [mxnet-videoio](https://github.com/MTCloudVision/mxnet-videoio)
 >> - [mxnet_tetris](https://github.com/sunkwei/mxnet_tetris)
 >> - [Visual Search (Gluon:star:)](https://github.com/ThomasDelteil/VisualSearch_MXNet)
+>> - [**DALI**](https://github.com/NVIDIA/DALI)
 
 ## <a name="NLP"></a>3. NLP
 >> - [**sockeye**](https://github.com/awslabs/sockeye)
