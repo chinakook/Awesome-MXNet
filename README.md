@@ -81,6 +81,7 @@ ________________
 >> - [SSD+Focal Loss](https://github.com/eldercrow/focal_loss_mxnet_ssd)
 >> - [SSD+FPN](https://github.com/zunzhumu/ssd)
 >> - [DSSD+TDM](https://github.com/MTCloudVision/mxnet-dssd)
+>> - [YOLOv3](https://github.com/Fermes/yolov3-mxnet)
 >> - [YOLO/YOLOv2](https://github.com/zhreshold/mxnet-yolo)
 >> - [YOLO(Gluon:star:)](https://github.com/MashiMaroLjc/YOLO)
 >> - [YOLO/dark2mxnet](https://github.com/bowenc0221/MXNet-YOLO)
