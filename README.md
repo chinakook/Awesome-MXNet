@@ -22,7 +22,7 @@ ________________
 
 ## <a name="Tutorials and Resources"></a>1. Tutorials and Resources
 - [Documents](https://mxnet.incubator.apache.org/) [[site]](https://github.com/apache/incubator-mxnet-site)
-- [Tutorial Documentation](https://mxnet.incubator.apache.org/tutorials/)
+- Tutorial Documentation [[English]](https://mxnet.incubator.apache.org/tutorials/) [[Chinese]](https://github.com/wangx404/symbol_coding_tutorials_of_MXNet)
 - Gluon Tutorial Documentation [[English]](http://gluon.mxnet.io/) [[Chinese]](https://zh.gluon.ai/)
 - [Gluon Api](https://github.com/gluon-api/gluon-api)
 - [CheatSheet](https://github.com/chinakook/Awesome-MXNet/blob/master/apache-mxnet-cheat.pdf)
@@ -64,6 +64,7 @@ ________________
 >> - [sparse-structure-selection](https://github.com/TuSimple/sparse-structure-selection)
 >> - [neuron-selectivity-transfer](https://github.com/TuSimple/neuron-selectivity-transfer)
 >> - [L-GM-Loss](https://github.com/LeeJuly30/L-GM-Loss-For-Gluon)
+>> - [**CoordConv**](https://github.com/ZwX1616/mxnet-CoordConv)
 >> - 3rdparty Resnet/Resnext/Inception/Xception/Air/DPN/SENet [pretrained models](https://github.com/soeaver/mxnet-model) 
 
 >> ### 2.2 Object Detection
@@ -85,7 +86,7 @@ ________________
 
 >> ### 2.3 Image Segmentation
 >> - [FCN](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/fcn.py)
->> - Deeplab [[v2]](https://github.com/buptweixin/mxnet-deeplab) [[gluon]](https://github.com/zehaochen19/segmentation_gluon)
+>> - Deeplab [[v2]](https://github.com/buptweixin/mxnet-deeplab) [[gluon]](https://github.com/zehaochen19/segmentation_gluon) [[v3+]](https://github.com/duducheng/deeplabv3p_gluon)
 >> - U-Net [[gluon]](https://github.com/chinakook/U-Net) [[kaggle dstl]](https://github.com/u1234x1234/kaggle-dstl-satellite-imagery-feature-detection)
 >> - [SegNet](https://github.com/solin319/incubator-mxnet/tree/solin-patch-segnet)
 >> - [PSPNet](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/pspnet.py) with [SyncBN](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/syncbn.py)
@@ -113,12 +114,13 @@ ________________
 >> - [LightCNN](https://github.com/ly-atdawn/LightCNN-mxnet)
 >> - [E2FAR](https://github.com/ShownX/mxnet-E2FAR)
 >> - [FacialLandmark](https://github.com/BobLiu20/FacialLandmark_MXNet)
+>> - [batch_hard_triplet_loss](https://github.com/IcewineChen/mxnet-batch_hard_triplet_loss)
 
 >> ### 2.6 ReID
 >> - [rl-multishot-reid](https://github.com/TuSimple/rl-multishot-reid)
 >> - [DarkRank](https://github.com/TuSimple/DarkRank)
 
->> ### 2.7 Human Pose Estimation and Activity Recognition
+>> ### 2.7 Human Analyzation and Activity Recognition
 >> - [Head Pose](https://github.com/LaoDar/cnn_head_pose_estimator)
 >> - [Convolutional Pose Machines](https://github.com/li-haoran/mxnet-convolutional_pose_machines_Testing)
 >> - [Realtime Multi-Person Pose Estimation](https://github.com/dragonfly90/mxnet_Realtime_Multi-Person_Pose_Estimation)
@@ -130,9 +132,12 @@ ________________
 >> - [DeepHumanPrediction](https://github.com/JONGGON/DeepHumanPrediction)
 >> - [Reinspect](https://github.com/NoListen/mxnet-reinspect)
 >> - [COCO Human keypoint](https://github.com/wangsr126/mxnet-pose)
+>> - [**R2Plus1D**](https://github.com/starsdeep/R2Plus1D-MXNet)
+>> - [**CSRNet**](https://github.com/wkcn/CSRNet-mx)
 
 >> ### 2.8 Image Super-resolution
 >> - SRCNN [[1]](https://github.com/Codersadis/SRCNN-MXNET) [[2]](https://github.com/galad-loth/SuperResolutionCNN)
+>> - [**Super-Resolution-Zoo**](https://github.com/WolframRhodium/Super-Resolution-Zoo) MXNet pretrained models for super resolution, denoising and deblocking
 
 >> ### 2.9 OCR
 >> - [STN OCR](https://github.com/Bartzi/stn-ocr)
@@ -282,6 +287,7 @@ ________________
 >> - [speculative-synchronization](https://github.com/All-less/mxnet-speculative-synchronization)
 >> - [XLearning](https://github.com/Qihoo360/XLearning)
 >> - [Gluon Distributed Training (Gluon:star:)](https://mxnet.indu.ai/tutorials/distributed-training-using-mxnet)
+>> - [gpurelperf](https://github.com/andylamp/gpurelperf)
 
 >> ### 9.5 Productivity
 >> - [Email Monitor MxnetTrain](https://github.com/fierceX/Email_Monitor_MxnetTrain)
@@ -312,5 +318,6 @@ ________________
 >> - [mxnet-and-sagemaker](https://github.com/cosmincatalin/object-counting-with-mxnet-and-sagemaker)
 >> - [example-of-nnvm-in-cpp](https://github.com/zhangxinqian/example-of-nnvm-in-cpp)
 
->> ### 9.8 Compiler
+>> ### 9.8 Other Branches
 >> - [ngraph-mxnet](https://github.com/NervanaSystems/ngraph-mxnet)
+>> - [distributedMXNet](https://github.com/TuSimple/distributedMXNet)
