@@ -65,6 +65,7 @@ ________________
 >> - [neuron-selectivity-transfer](https://github.com/TuSimple/neuron-selectivity-transfer)
 >> - [L-GM-Loss](https://github.com/LeeJuly30/L-GM-Loss-For-Gluon)
 >> - [**CoordConv**](https://github.com/ZwX1616/mxnet-CoordConv)
+>> - [IBN-Net](https://github.com/bruinxiong/IBN-Net.mxnet)
 >> - 3rdparty Resnet/Resnext/Inception/Xception/Air/DPN/SENet [pretrained models](https://github.com/soeaver/mxnet-model) 
 
 >> ### 2.2 Object Detection
