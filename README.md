@@ -105,6 +105,7 @@ ________________
 >> - MTCNN [[w/ train]](https://github.com/Seanlinx/mtcnn) [[caffe]](https://github.com/pangyupo/mxnet_mtcnn_face_detection)
 >> - Tiny Face [[w/ train]](https://github.com/IIMarch/tiny-face-mxnet) [[matconvnet]](https://github.com/chinakook/hr101_mxnet)
 >> - [S3FD](https://github.com/zunzhumu/S3FD)
+>> - [SSH](https://github.com/deepinsight/mxnet-SSH)
 >> - [FaceDetection-ConvNet-3D](https://github.com/tfwu/FaceDetection-ConvNet-3D)
 >> - [DeepID v1](https://github.com/AihahaFox/deepid-mxnet)
 >> - Range Loss [[CustomOp]](https://github.com/ShownX/mxnet-rangeloss) [[gluon]](https://github.com/LeeJuly30/RangeLoss-For-Gluno)
