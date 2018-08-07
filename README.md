@@ -122,6 +122,7 @@ ________________
 >> ### 2.6 ReID
 >> - [rl-multishot-reid](https://github.com/TuSimple/rl-multishot-reid)
 >> - [DarkRank](https://github.com/TuSimple/DarkRank)
+>> - [reid_baseline_gluon](https://github.com/L1aoXingyu/reid_baseline_gluon)
 
 >> ### 2.7 Human Analyzation and Activity Recognition
 >> - [Head Pose](https://github.com/LaoDar/cnn_head_pose_estimator)
