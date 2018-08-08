@@ -72,6 +72,7 @@ ________________
 >> ### 2.2 Object Detection
 >> - [PVANet](https://github.com/apache/incubator-mxnet/pull/7786)
 >> - SSD [[Origin]](https://github.com/zhreshold/mxnet-ssd) [[Focal Loss]](https://github.com/eldercrow/focal_loss_mxnet_ssd) [[FPN]](https://github.com/zunzhumu/ssd) [[DSSD/TDM]](https://github.com/MTCloudVision/mxnet-dssd) [[RetinaNet]](https://github.com/jkznst/RetinaNet-mxnet) [[RefineDet]](https://github.com/MTCloudVision/RefineDet-Mxnet)
+>> - DSOD(https://github.com/leocvml/DSOD-gluon-mxnet)
 >> - YOLO [[sym v1/v2]](https://github.com/zhreshold/mxnet-yolo) [[darknet]](https://github.com/bowenc0221/MXNet-YOLO) [[gluon]](https://github.com/MashiMaroLjc/YOLO) [[v3]](https://github.com/Fermes/yolov3-mxnet)
 >> - Faster RCNN [[Origin]](https://github.com/precedenceguo/mx-rcnn) [[gluon]](https://github.com/dmlc/gluon-cv/tree/master/gluoncv/model_zoo/faster_rcnn) [[ya_mxdet]](https://github.com/linmx0130/ya_mxdet) [[Focal Loss]](https://github.com/unsky/focal-loss) [[Light-Head]](https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784)
 >> - [**Deformable-ConvNets**](https://github.com/msracver/Deformable-ConvNets) with Faster RCNN/R-FCN/FPN/SoftNMS and Deeplab
@@ -88,7 +89,7 @@ ________________
 
 >> ### 2.3 Image Segmentation
 >> - [FCN](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/fcn.py)
->> - Deeplab [[v2]](https://github.com/buptweixin/mxnet-deeplab) [[gluon]](https://github.com/zehaochen19/segmentation_gluon) [[v3+]](https://github.com/duducheng/deeplabv3p_gluon)
+>> - Deeplab [[v2]](https://github.com/buptweixin/mxnet-deeplab) [[gluon]](https://github.com/zehaochen19/segmentation_gluon) [[v3+]](https://github.com/duducheng/deeplabv3p_gluon) [[v3+densenet]](https://github.com/leocvml/deeplabv3plus-gluon-mxnet)
 >> - U-Net [[gluon]](https://github.com/chinakook/U-Net) [[kaggle dstl]](https://github.com/u1234x1234/kaggle-dstl-satellite-imagery-feature-detection)
 >> - [SegNet](https://github.com/solin319/incubator-mxnet/tree/solin-patch-segnet)
 >> - [PSPNet](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/pspnet.py) with [SyncBN](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/syncbn.py)
