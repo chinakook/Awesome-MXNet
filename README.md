@@ -67,6 +67,8 @@ ________________
 >> - [**CoordConv**](https://github.com/ZwX1616/mxnet-CoordConv)
 >> - [IBN-Net](https://github.com/bruinxiong/IBN-Net.mxnet)
 >> - [Mnasnet](https://github.com/chinakook/Mnasnet.MXNet)
+>> - [**CompetitiveSENet**](https://github.com/scut-aitcm/CompetitiveSENet)
+>> - [SNAIL](https://github.com/seujung/SNAIL-gluon)
 >> - 3rdparty Resnet/Resnext/Inception/Xception/Air/DPN/SENet [pretrained models](https://github.com/soeaver/mxnet-model) 
 
 >> ### 2.2 Object Detection
@@ -119,11 +121,14 @@ ________________
 >> - [E2FAR](https://github.com/ShownX/mxnet-E2FAR)
 >> - [FacialLandmark](https://github.com/BobLiu20/FacialLandmark_MXNet)
 >> - [batch_hard_triplet_loss](https://github.com/IcewineChen/mxnet-batch_hard_triplet_loss)
+>> - [facial-emotion-recognition](https://github.com/TalkAI/facial-emotion-recognition-gluon)
 
 >> ### 2.6 ReID
 >> - [rl-multishot-reid](https://github.com/TuSimple/rl-multishot-reid)
 >> - [DarkRank](https://github.com/TuSimple/DarkRank)
 >> - [reid_baseline_gluon](https://github.com/L1aoXingyu/reid_baseline_gluon)
+>> - [beyond-part-models](https://github.com/Tyhye/beyond-part-models-gluon)
+>> - [**gluon-reid**](https://github.com/xiaolai-sqlai/gluon-reid)
 
 >> ### 2.7 Human Analyzation and Activity Recognition
 >> - [Head Pose](https://github.com/LaoDar/cnn_head_pose_estimator)
@@ -201,6 +206,9 @@ ________________
 >> - [mxnet_tetris](https://github.com/sunkwei/mxnet_tetris)
 >> - [Visual Search (Gluon:star:)](https://github.com/ThomasDelteil/VisualSearch_MXNet)
 >> - [**DALI**](https://github.com/NVIDIA/DALI)
+>> - [relational-network-gluon](https://github.com/seujung/relational-network-gluon)
+>> - [HKO-7](https://github.com/sxjscience/HKO-7) [[weather-forecasting]](https://github.com/igloooo/weather-forecasting-mxnet)
+>> - [siamfc](https://github.com/forschumi/siamfc-mxnet)
 
 ## <a name="NLP"></a>3. NLP
 >> - [**sockeye**](https://github.com/awslabs/sockeye)
@@ -229,7 +237,7 @@ ________________
 ## <a name="Speech"></a>4. Speech
 >> - [mxnet_kaldi](https://github.com/vsooda/mxnet_kaldi)
 >> - [**deepspeech**](https://github.com/samsungsds-rnd/deepspeech.mxnet)
->> - [wavenet](https://github.com/shuokay/mxnet-wavenet)
+>> - [wavenet](https://github.com/shuokay/mxnet-wavenet) [[WaveNet-gluon]](https://github.com/seujung/WaveNet-gluon)
 >> - [Tacotron](https://github.com/PiSchool/mxnet-tacotron)
 >> - [mxnet-audio](https://github.com/chen0040/mxnet-audio)
 
