@@ -1,6 +1,6 @@
-# Awesome MXNet(Beta) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
+# Awesome MXNet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
 
-A curated list of MXNet examples, tutorials and blogs. It is inspired by awesome-caffe.
+A curated list of MXNet examples, tutorials and blogs.
 
 ## <a name="Contributing"></a>Contributing
 
