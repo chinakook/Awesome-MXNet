@@ -173,6 +173,7 @@ ________________
 
 >> ### 2.12 GAN
 >> - [DCGAN(Gluon:star:)](https://github.com/kazizzad/DCGAN-Gluon-MxNet)
+>> - [**CycleGAN**](https://github.com/leocvml/CycleGAN-gluon-mxnet)
 
 >> ### 2.13 MRI & DTI
 >> - [Chest-XRay](https://github.com/kperkins411/MXNet-Chest-XRay-Evaluation)
