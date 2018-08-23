@@ -337,6 +337,7 @@ ________________
 >> - [tvm-mali](https://github.com/merrymercy/tvm-mali)
 >> - [mxnet-and-sagemaker](https://github.com/cosmincatalin/object-counting-with-mxnet-and-sagemaker)
 >> - [example-of-nnvm-in-cpp](https://github.com/zhangxinqian/example-of-nnvm-in-cpp)
+>> - [tensorly](https://github.com/tensorly/tensorly)
 
 >> ### 10.8 Other Branches
 >> - [ngraph-mxnet](https://github.com/NervanaSystems/ngraph-mxnet)
