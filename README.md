@@ -118,6 +118,7 @@ ________________
 >> - [Face68Pts](https://github.com/LaoDar/mxnet_cnn_face68pts)
 >> - [DCGAN face generation(Gluon:star:)](https://github.com/dbsheta/dcgan_face_generation)
 >> - [**InsightFace**](https://github.com/deepinsight/insightface)
+>> - [Modified-CRUNet+Residual-Attention-Network](https://github.com/bruinxiong/Modified-CRUNet-and-Residual-Attention-Network.mxnet)
 >> - [LightCNN](https://github.com/ly-atdawn/LightCNN-mxnet)
 >> - [E2FAR](https://github.com/ShownX/mxnet-E2FAR)
 >> - [FacialLandmark](https://github.com/BobLiu20/FacialLandmark_MXNet)
