@@ -92,7 +92,7 @@ ________________
 
 >> ### 2.3 Image Segmentation
 >> - [FCN](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/fcn.py)
->> - Deeplab [[v2]](https://github.com/buptweixin/mxnet-deeplab) [[gluon]](https://github.com/zehaochen19/segmentation_gluon) [[v3+]](https://github.com/duducheng/deeplabv3p_gluon) [[v3+densenet]](https://github.com/leocvml/deeplabv3plus-gluon-mxnet)
+>> - Deeplab [[v2]](https://github.com/buptweixin/mxnet-deeplab) [[gluon]](https://github.com/zehaochen19/segmentation_gluon) [[v3+Vortex Pooling]](https://github.com/MTCloudVision/deeplabv3-mxnet_gluon) [[v3plus]](https://github.com/duducheng/deeplabv3p_gluon) [[v3plus+densenet]](https://github.com/leocvml/deeplabv3plus-gluon-mxnet)
 >> - U-Net [[gluon]](https://github.com/chinakook/U-Net) [[kaggle dstl]](https://github.com/u1234x1234/kaggle-dstl-satellite-imagery-feature-detection)
 >> - [SegNet](https://github.com/solin319/incubator-mxnet/tree/solin-patch-segnet)
 >> - [PSPNet](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/pspnet.py) with [SyncBN](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/syncbn.py)
@@ -124,6 +124,7 @@ ________________
 >> - [FacialLandmark](https://github.com/BobLiu20/FacialLandmark_MXNet)
 >> - [batch_hard_triplet_loss](https://github.com/IcewineChen/mxnet-batch_hard_triplet_loss)
 >> - [facial-emotion-recognition](https://github.com/TalkAI/facial-emotion-recognition-gluon)
+>> - [RSA(prediction only)](https://github.com/ElegantGod/RSA-for-object-detection-mxnet-version)
 
 >> ### 2.6 ReID
 >> - [rl-multishot-reid](https://github.com/TuSimple/rl-multishot-reid)
@@ -152,15 +153,14 @@ ________________
 >> - [**Super-Resolution-Zoo**](https://github.com/WolframRhodium/Super-Resolution-Zoo) MXNet pretrained models for super resolution, denoising and deblocking
 
 >> ### 2.9 OCR
->> - [STN OCR](https://github.com/Bartzi/stn-ocr)
 >> - [SSD Text Detection](https://github.com/oyxhust/ssd-text_detection)
 >> - [EAST](https://github.com/wangpan8154/east-text-detection-with-mxnet/tree/1a63083d69954e7c1c7ac277cf6b8ed5af4ec770)
 >> - [**CTPN.mxnet**](https://github.com/chinakook/CTPN.mxnet)
->> - crnn [[Chinese]](https://github.com/diaomin/crnn-mxnet-chinese-text-recognition) [[gluon]](https://github.com/ThomasDelteil/Gluon_OCR_LSTM_CTC) [[insightocr]](https://github.com/deepinsight/insightocr)
+>> - CRNN [[Chinese]](https://github.com/diaomin/crnn-mxnet-chinese-text-recognition) [[gluon]](https://github.com/ThomasDelteil/Gluon_OCR_LSTM_CTC) [[insightocr]](https://github.com/deepinsight/insightocr) [[A full version]](https://github.com/WenmuZhou/crnn.gluon)
 
 
 >> ### 2.10 Point cloud & 3D
->> - [mx-pointnet](https://github.com/Zehaos/mx-pointnet)
+>> - [mx-pointnet](https://github.com/Zehaos/mx-pointnet) [[gluon version]](https://github.com/hnVfly/pointnet.mxnet)
 >> - [PointCNN.MX](https://github.com/chinakook/PointCNN.MX)
 >> - [RC3D](https://github.com/likelyzhao/MxNet-RC3D/blob/master/RC3D/symbols/RC3D.py)
 
@@ -216,6 +216,7 @@ ________________
 
 ## <a name="NLP"></a>3. NLP
 >> - [**sockeye**](https://github.com/awslabs/sockeye)
+>> - [**gluon-nlp**(Gluon:star:)](https://github.com/dmlc/gluon-nlp)
 >> - [MXNMT](https://github.com/magic282/MXNMT)
 >> - [Char-RNN(Gluon:star:)](https://github.com/SherlockLiao/Char-RNN-Gluon)
 >> - [Character-level CNN Text Classification (Gluon:star:)](https://github.com/ThomasDelteil/CNN_NLP_MXNet)
@@ -236,7 +237,8 @@ ________________
 >> - [**Gluon Dynamic-batching**(Gluon:star:)](https://github.com/szha/mxnet-fold)
 >> - [translatR](https://github.com/jeremiedb/translatR)
 >> - [RNN-Transducer](https://github.com/HawkAaron/mxnet-transducer)
->> - [**gluon-nlp**(Gluon:star:)](https://github.com/dmlc/gluon-nlp)
+>> - [Deep Biaffine Parser](https://github.com/hankcs/DeepBiaffineParserMXNet)
+>> - [Crepe model](https://github.com/ThomasDelteil/CNN_NLP_MXNet)
 
 ## <a name="Speech"></a>4. Speech
 >> - [mxnet_kaldi](https://github.com/vsooda/mxnet_kaldi)
