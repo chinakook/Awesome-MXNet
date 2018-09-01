@@ -16,7 +16,9 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [7. DRL](#DRL)
 - [8. Neuro Evolution](#Neuro_evolution)
 - [9. One Class Learning](#One_class_learning)
-- [10. Tools](#Tools)
+- [10. Probabilistic Programming](#PPL)
+- [11. Transfer Learning](#TL)
+- [12. Tools](#Tools)
 
 ________________
 
@@ -69,6 +71,7 @@ ________________
 >> - [IBN-Net](https://github.com/bruinxiong/IBN-Net.mxnet)
 >> - [Mnasnet](https://github.com/chinakook/Mnasnet.MXNet)
 >> - [**CompetitiveSENet**](https://github.com/scut-aitcm/CompetitiveSENet)
+>> - [Residual-Attention-Network](https://github.com/haoxintong/Residual-Attention-Network-Gluon)
 >> - [SNAIL](https://github.com/seujung/SNAIL-gluon)
 >> - 3rdparty Resnet/Resnext/Inception/Xception/Air/DPN/SENet [pretrained models](https://github.com/soeaver/mxnet-model) 
 
@@ -149,7 +152,8 @@ ________________
 >> - [R2Plus1D](https://github.com/starsdeep/R2Plus1D-MXNet)
 >> - [CSRNet](https://github.com/wkcn/CSRNet-mx)
 
->> ### 2.8 Image Super-resolution
+>> ### 2.8 Image Enhancement
+>> - [**learning-to-see-in-the-dark**](https://github.com/anzhao0503/learning-to-see-in-the-dark.mxnet)
 >> - SRCNN [[1]](https://github.com/Codersadis/SRCNN-MXNET) [[2]](https://github.com/galad-loth/SuperResolutionCNN)
 >> - [**Super-Resolution-Zoo**](https://github.com/WolframRhodium/Super-Resolution-Zoo) MXNet pretrained models for super resolution, denoising and deblocking
 
@@ -213,7 +217,7 @@ ________________
 >> - [relational-network-gluon](https://github.com/seujung/relational-network-gluon)
 >> - [HKO-7](https://github.com/sxjscience/HKO-7) [[weather-forecasting]](https://github.com/igloooo/weather-forecasting-mxnet)
 >> - [siamfc](https://github.com/forschumi/siamfc-mxnet)
->> - [**learning-to-see-in-the-dark**](https://github.com/anzhao0503/learning-to-see-in-the-dark.mxnet)
+
 
 ## <a name="NLP"></a>3. NLP
 >> - [**sockeye**](https://github.com/awslabs/sockeye)
@@ -273,8 +277,14 @@ ________________
 ## <a name="One_class_learning"></a>9. One Class Learning
 >> - [anomaly_detection](https://github.com/malykhin/anomaly_detection/blob/master/anomaly_AWS.ipynb)
 
-## <a name="Tools"></a>10. Tools
->> ### 10.1 Converter
+## <a name="PPL"></a>10. Probabilistic Programming
+>> - [**MXFusion**](https://github.com/amzn/MXFusion)
+
+## <a name="TL"></a>11. Transfer Learning
+>> - [**xfer**](https://github.com/amzn/xfer)
+
+## <a name="Tools"></a>12. Tools
+>> ### 12.1 Converter
 >> - [mxnet2tf](https://github.com/vuvko/mxnet2tf)
 >> - [MXNetToMXNet](https://github.com/IIMarch/MXNetToMXNet)
 >> - [MMdnn](https://github.com/Microsoft/MMdnn)
@@ -283,7 +293,7 @@ ________________
 >> - [R-Convert-json-to-symbol](https://github.com/Imshepherd/MxNetR-Convert-json-to-symbol)
 >> - [**mxnet2ncnn**](https://github.com/Tencent/ncnn/blob/28b35b8c4f3d58feaaaeaa58273b763751827aab/tools/mxnet/mxnet2ncnn.cpp)
 
->> ### 10.2 Language Bindings
+>> ### 12.2 Language Bindings
 >> - [mxnet.rb](https://github.com/mrkn/mxnet.rb)
 >> - [mxnet.csharp](https://github.com/yajiedesign/mxnet.csharp)
 >> - [go-mxnet-predictor](https://github.com/songtianyi/go-mxnet-predictor)
@@ -291,7 +301,7 @@ ________________
 >> - [load_op](https://github.com/DuinoDu/load_op.mxnet)
 >> - [MobulaOP](https://github.com/wkcn/MobulaOP)
 
->> ### 10.3 Visualization
+>> ### 12.3 Visualization
 >> - [mxbox](https://github.com/Lyken17/mxbox)
 >> - [mixboard](https://github.com/DrSensor/mixboard)
 >> - [mxflows](https://github.com/aidan-plenert-macdonald/mxflows)
@@ -302,7 +312,7 @@ ________________
 >> - [Netron](https://github.com/lutzroeder/Netron)
 >> - [**mxboard**](https://github.com/awslabs/mxboard)
 
->> ### 10.4 Parallel and Distributed computing
+>> ### 12.4 Parallel and Distributed computing
 >> - [mxnet-rdma](https://github.com/liuchang1437/mxnet-rdma)
 >> - [RDMA-MXNet-ps-lite](https://github.com/ralzq01/RDMA-MXNet-ps-lite)
 >> - [MPIZ-MXNet](https://github.com/Shenggan/MPIZ-MXNet)
@@ -314,7 +324,7 @@ ________________
 >> - [Gluon Distributed Training (Gluon:star:)](https://mxnet.indu.ai/tutorials/distributed-training-using-mxnet)
 >> - [gpurelperf](https://github.com/andylamp/gpurelperf)
 
->> ### 10.5 Productivity
+>> ### 12.5 Productivity
 >> - [Email Monitor MxnetTrain](https://github.com/fierceX/Email_Monitor_MxnetTrain)
 >> - [mxnet-oneclick](https://github.com/imistyrain/mxnet-oneclick)
 >> - [mxnet-finetuner](https://github.com/knjcode/mxnet-finetuner)
@@ -322,10 +332,10 @@ ________________
 >> - [MXNet_Video_Trainer](https://github.com/likelyzhao/MXNet_Video_Trainer)
 >> - [rs_mxnet_reader](https://github.com/ChenKQ/rs_mxnet_reader)
 
->> ### 10.6 Parameter optimizer
+>> ### 12.6 Parameter optimizer
 >> - [YellowFin](https://github.com/StargazerZhu/YellowFin_MXNet)
 
->> ### 10.7 Deployment
+>> ### 12.7 Deployment
 >> - [Turi Create](https://github.com/apple/turicreate)
 >> - [MXNet-HRT](https://github.com/OAID/MXNet-HRT)
 >> - [Tengine](https://github.com/OAID/Tengine)
@@ -344,6 +354,6 @@ ________________
 >> - [example-of-nnvm-in-cpp](https://github.com/zhangxinqian/example-of-nnvm-in-cpp)
 >> - [tensorly](https://github.com/tensorly/tensorly)
 
->> ### 10.8 Other Branches
+>> ### 12.8 Other Branches
 >> - [ngraph-mxnet](https://github.com/NervanaSystems/ngraph-mxnet)
 >> - [distributedMXNet](https://github.com/TuSimple/distributedMXNet)
