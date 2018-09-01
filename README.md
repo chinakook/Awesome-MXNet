@@ -89,6 +89,7 @@ ________________
 >> - [Faster_RCNN_for_DOTA](https://github.com/jessemelpolio/Faster_RCNN_for_DOTA)
 >> - [cascade-rcnn-gluon(Gluon:star:)](https://github.com/lizhenbang56/cascade-rcnn-gluon)
 >> - [**SNIPER**](https://github.com/mahyarnajibi/SNIPER) with R-FCN-3K and SSH Face Detector
+>> - [Car-Detector-and-Tracker](https://github.com/YvesHarrison/Car-Detector-and-Tracker-Using-MXNet-and-KCF)
 
 >> ### 2.3 Image Segmentation
 >> - [FCN](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/fcn.py)
@@ -239,6 +240,7 @@ ________________
 >> - [RNN-Transducer](https://github.com/HawkAaron/mxnet-transducer)
 >> - [Deep Biaffine Parser](https://github.com/hankcs/DeepBiaffineParserMXNet)
 >> - [Crepe model](https://github.com/ThomasDelteil/CNN_NLP_MXNet)
+>> - [RegionEmbedding](https://github.com/zhaozhengChen/RegionEmbedding)
 
 ## <a name="Speech"></a>4. Speech
 >> - [mxnet_kaldi](https://github.com/vsooda/mxnet_kaldi)
