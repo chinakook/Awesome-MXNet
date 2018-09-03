@@ -96,7 +96,7 @@ ________________
 
 >> ### 2.3 Image Segmentation
 >> - [FCN](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/fcn.py)
->> - Deeplab [[v2]](https://github.com/buptweixin/mxnet-deeplab) [[gluon]](https://github.com/zehaochen19/segmentation_gluon) [[v3+Vortex Pooling]](https://github.com/MTCloudVision/deeplabv3-mxnet_gluon) [[v3plus]](https://github.com/duducheng/deeplabv3p_gluon) [[v3plus+densenet]](https://github.com/leocvml/deeplabv3plus-gluon-mxnet)
+>> - Deeplab [[v2]](https://github.com/buptweixin/mxnet-deeplab)  [[v3+Vortex Pooling]](https://github.com/MTCloudVision/deeplabv3-mxnet_gluon) [[v3plus]](https://github.com/duducheng/deeplabv3p_gluon) [[v3plus+densenet]](https://github.com/leocvml/deeplabv3plus-gluon-mxnet)
 >> - U-Net [[gluon]](https://github.com/chinakook/U-Net) [[kaggle dstl]](https://github.com/u1234x1234/kaggle-dstl-satellite-imagery-feature-detection)
 >> - [SegNet](https://github.com/solin319/incubator-mxnet/tree/solin-patch-segnet)
 >> - [PSPNet](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/pspnet.py) with [SyncBN](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/syncbn.py)
