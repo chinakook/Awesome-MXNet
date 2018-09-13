@@ -245,6 +245,7 @@ ________________
 >> - [Deep Biaffine Parser](https://github.com/hankcs/DeepBiaffineParserMXNet)
 >> - [Crepe model](https://github.com/ThomasDelteil/CNN_NLP_MXNet)
 >> - [RegionEmbedding](https://github.com/zhaozhengChen/RegionEmbedding)
+>> - [Structured-Self-Attentive-Sentence-Embedding](https://github.com/kenjewu/Structured-Self-Attentive-Sentence-Embedding)
 
 ## <a name="Speech"></a>4. Speech
 >> - [mxnet_kaldi](https://github.com/vsooda/mxnet_kaldi)
