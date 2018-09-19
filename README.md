@@ -168,6 +168,7 @@ ________________
 >> - [mx-pointnet](https://github.com/Zehaos/mx-pointnet) [[gluon version]](https://github.com/hnVfly/pointnet.mxnet)
 >> - [PointCNN.MX](https://github.com/chinakook/PointCNN.MX)
 >> - [RC3D](https://github.com/likelyzhao/MxNet-RC3D/blob/master/RC3D/symbols/RC3D.py)
+>> - [DeepIM](https://github.com/liyi14/mx-DeepIM)
 
 >> ### 2.11 Images Generation
 >> - [pix2pix](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/Pix2Pix)
