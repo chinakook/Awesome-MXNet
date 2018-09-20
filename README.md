@@ -103,6 +103,7 @@ ________________
 >> - [DUC](https://github.com/TuSimple/TuSimple-DUC)
 >> - [ResNet-38](https://github.com/itijyou/ademxapp)
 >> - [SEC](https://github.com/ascust/SEC-MXNet)
+>> - [**DRN**](https://github.com/zhuangyqin/DRN)
 
 >> ### 2.4 Video Recognition and Object Detection
 >> - [Deep Feature Flow](https://github.com/msracver/Deep-Feature-Flow)
