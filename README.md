@@ -73,6 +73,7 @@ ________________
 >> - [**CompetitiveSENet**](https://github.com/scut-aitcm/CompetitiveSENet)
 >> - [Residual-Attention-Network](https://github.com/haoxintong/Residual-Attention-Network-Gluon)
 >> - [SNAIL](https://github.com/seujung/SNAIL-gluon)
+>> - [Modified-CBAMnet](https://github.com/bruinxiong/Modified-CBAMnet.mxnet)
 >> - 3rdparty Resnet/Resnext/Inception/Xception/Air/DPN/SENet [pretrained models](https://github.com/soeaver/mxnet-model) 
 
 >> ### 2.2 Object Detection
