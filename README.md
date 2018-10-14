@@ -131,6 +131,7 @@ ________________
 >> - [batch_hard_triplet_loss](https://github.com/IcewineChen/mxnet-batch_hard_triplet_loss)
 >> - [facial-emotion-recognition](https://github.com/TalkAI/facial-emotion-recognition-gluon)
 >> - [RSA(prediction only)](https://github.com/ElegantGod/RSA-for-object-detection-mxnet-version)
+>> - [gender_age_estimation_mxnet](https://github.com/wayen820/gender_age_estimation_mxnet)
 
 >> ### 2.6 ReID
 >> - [rl-multishot-reid](https://github.com/TuSimple/rl-multishot-reid)
@@ -220,7 +221,7 @@ ________________
 >> - [relational-network-gluon](https://github.com/seujung/relational-network-gluon)
 >> - [HKO-7](https://github.com/sxjscience/HKO-7) [[weather-forecasting]](https://github.com/igloooo/weather-forecasting-mxnet)
 >> - [siamfc](https://github.com/forschumi/siamfc-mxnet)
-
+>> - [AdvBox](https://github.com/baidu/AdvBox)
 
 ## <a name="NLP"></a>3. NLP
 >> - [**sockeye**](https://github.com/awslabs/sockeye)
@@ -247,7 +248,7 @@ ________________
 >> - [RNN-Transducer](https://github.com/HawkAaron/mxnet-transducer)
 >> - [Deep Biaffine Parser](https://github.com/hankcs/DeepBiaffineParserMXNet)
 >> - [Crepe model](https://github.com/ThomasDelteil/CNN_NLP_MXNet)
->> - [RegionEmbedding](https://github.com/zhaozhengChen/RegionEmbedding)
+>> - [**RegionEmbedding**](https://github.com/zhaozhengChen/RegionEmbedding)
 >> - [Structured-Self-Attentive-Sentence-Embedding](https://github.com/kenjewu/Structured-Self-Attentive-Sentence-Embedding)
 
 ## <a name="Speech"></a>4. Speech
