@@ -291,7 +291,6 @@ ________________
 ## <a name="Tools"></a>12. Tools
 >> ### 12.1 Converter
 >> - [mxnet2tf](https://github.com/vuvko/mxnet2tf)
->> - [MXNetToMXNet](https://github.com/IIMarch/MXNetToMXNet)
 >> - [MMdnn](https://github.com/Microsoft/MMdnn)
 >> - [onnx-mxnet](https://github.com/onnx/onnx-mxnet)
 >> - [mxnet_to_onnx](https://github.com/NVIDIA/mxnet_to_onnx)
