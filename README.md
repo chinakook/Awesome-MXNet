@@ -236,7 +236,6 @@ ________________
 >> - [Neural Programmer-Interpreters](https://github.com/Cloudyrie/npi)
 >> - [sequence-sampling](https://github.com/doetsch/sequence-sampling-mxnet)
 >> - [retrieval chatbot](https://github.com/NonvolatileMemory/baseline_for_chatbot-mxnet)
->> - [multi-attention(Gluon:star:)](https://github.com/danache/multi-attention-in-mxnet)
 >> - [cnn+Highway Net](https://github.com/wut0n9/cnn_chinese_text_classification)
 >> - [sentiment-analysis(Gluon:star:)](https://github.com/aws-samples/aws-sentiment-analysis-mxnet-gluon)
 >> - [parserChiang(Gluon:star:)](https://github.com/linmx0130/parserChiang)
