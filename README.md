@@ -1,6 +1,6 @@
-# Awesome MXNet(Beta) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
+# Awesome MXNet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
 
-A curated list of MXNet examples, tutorials and blogs. It is inspired by awesome-caffe.
+A curated list of MXNet examples, tutorials and blogs.
 
 ## <a name="Contributing"></a>Contributing
 
@@ -16,7 +16,9 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [7. DRL](#DRL)
 - [8. Neuro Evolution](#Neuro_evolution)
 - [9. One Class Learning](#One_class_learning)
-- [10. Tools](#Tools)
+- [10. Probabilistic Programming](#PPL)
+- [11. Transfer Learning](#TL)
+- [12. Tools](#Tools)
 
 ________________
 
@@ -69,7 +71,9 @@ ________________
 >> - [IBN-Net](https://github.com/bruinxiong/IBN-Net.mxnet)
 >> - [Mnasnet](https://github.com/chinakook/Mnasnet.MXNet)
 >> - [**CompetitiveSENet**](https://github.com/scut-aitcm/CompetitiveSENet)
+>> - [Residual-Attention-Network](https://github.com/haoxintong/Residual-Attention-Network-Gluon)
 >> - [SNAIL](https://github.com/seujung/SNAIL-gluon)
+>> - [Modified-CBAMnet](https://github.com/bruinxiong/Modified-CBAMnet.mxnet)
 >> - 3rdparty Resnet/Resnext/Inception/Xception/Air/DPN/SENet [pretrained models](https://github.com/soeaver/mxnet-model) 
 
 >> ### 2.2 Object Detection
@@ -89,16 +93,19 @@ ________________
 >> - [Faster_RCNN_for_DOTA](https://github.com/jessemelpolio/Faster_RCNN_for_DOTA)
 >> - [cascade-rcnn-gluon(Gluon:star:)](https://github.com/lizhenbang56/cascade-rcnn-gluon)
 >> - [**SNIPER**](https://github.com/mahyarnajibi/SNIPER) with R-FCN-3K and SSH Face Detector
+>> - [Car-Detector-and-Tracker](https://github.com/YvesHarrison/Car-Detector-and-Tracker-Using-MXNet-and-KCF)
+>> - [detnet](https://github.com/BigDeviltjj/mxnet-detnet)
 
 >> ### 2.3 Image Segmentation
 >> - [FCN](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/fcn.py)
->> - Deeplab [[v2]](https://github.com/buptweixin/mxnet-deeplab) [[gluon]](https://github.com/zehaochen19/segmentation_gluon) [[v3+]](https://github.com/duducheng/deeplabv3p_gluon) [[v3+densenet]](https://github.com/leocvml/deeplabv3plus-gluon-mxnet)
+>> - Deeplab [[v2]](https://github.com/buptweixin/mxnet-deeplab)  [[v3+Vortex Pooling]](https://github.com/MTCloudVision/deeplabv3-mxnet_gluon) [[v3plus]](https://github.com/duducheng/deeplabv3p_gluon) [[v3plus+densenet]](https://github.com/leocvml/deeplabv3plus-gluon-mxnet)
 >> - U-Net [[gluon]](https://github.com/chinakook/U-Net) [[kaggle dstl]](https://github.com/u1234x1234/kaggle-dstl-satellite-imagery-feature-detection)
 >> - [SegNet](https://github.com/solin319/incubator-mxnet/tree/solin-patch-segnet)
 >> - [PSPNet](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/pspnet.py) with [SyncBN](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/syncbn.py)
 >> - [DUC](https://github.com/TuSimple/TuSimple-DUC)
 >> - [ResNet-38](https://github.com/itijyou/ademxapp)
 >> - [SEC](https://github.com/ascust/SEC-MXNet)
+>> - [**DRN**](https://github.com/zhuangyqin/DRN)
 
 >> ### 2.4 Video Recognition and Object Detection
 >> - [Deep Feature Flow](https://github.com/msracver/Deep-Feature-Flow)
@@ -118,11 +125,14 @@ ________________
 >> - [Face68Pts](https://github.com/LaoDar/mxnet_cnn_face68pts)
 >> - [DCGAN face generation(Gluon:star:)](https://github.com/dbsheta/dcgan_face_generation)
 >> - [**InsightFace**](https://github.com/deepinsight/insightface)
+>> - [Modified-CRUNet+Residual-Attention-Network](https://github.com/bruinxiong/Modified-CRUNet-and-Residual-Attention-Network.mxnet)
 >> - [LightCNN](https://github.com/ly-atdawn/LightCNN-mxnet)
 >> - [E2FAR](https://github.com/ShownX/mxnet-E2FAR)
 >> - [FacialLandmark](https://github.com/BobLiu20/FacialLandmark_MXNet)
 >> - [batch_hard_triplet_loss](https://github.com/IcewineChen/mxnet-batch_hard_triplet_loss)
 >> - [facial-emotion-recognition](https://github.com/TalkAI/facial-emotion-recognition-gluon)
+>> - [RSA(prediction only)](https://github.com/ElegantGod/RSA-for-object-detection-mxnet-version)
+>> - [gender_age_estimation_mxnet](https://github.com/wayen820/gender_age_estimation_mxnet)
 
 >> ### 2.6 ReID
 >> - [rl-multishot-reid](https://github.com/TuSimple/rl-multishot-reid)
@@ -146,22 +156,23 @@ ________________
 >> - [R2Plus1D](https://github.com/starsdeep/R2Plus1D-MXNet)
 >> - [CSRNet](https://github.com/wkcn/CSRNet-mx)
 
->> ### 2.8 Image Super-resolution
+>> ### 2.8 Image Enhancement
+>> - [**learning-to-see-in-the-dark**](https://github.com/anzhao0503/learning-to-see-in-the-dark.mxnet)
 >> - SRCNN [[1]](https://github.com/Codersadis/SRCNN-MXNET) [[2]](https://github.com/galad-loth/SuperResolutionCNN)
 >> - [**Super-Resolution-Zoo**](https://github.com/WolframRhodium/Super-Resolution-Zoo) MXNet pretrained models for super resolution, denoising and deblocking
 
 >> ### 2.9 OCR
->> - [STN OCR](https://github.com/Bartzi/stn-ocr)
 >> - [SSD Text Detection](https://github.com/oyxhust/ssd-text_detection)
 >> - [EAST](https://github.com/wangpan8154/east-text-detection-with-mxnet/tree/1a63083d69954e7c1c7ac277cf6b8ed5af4ec770)
 >> - [**CTPN.mxnet**](https://github.com/chinakook/CTPN.mxnet)
->> - crnn [[Chinese]](https://github.com/diaomin/crnn-mxnet-chinese-text-recognition) [[gluon]](https://github.com/ThomasDelteil/Gluon_OCR_LSTM_CTC) [[insightocr]](https://github.com/deepinsight/insightocr)
+>> - CRNN [[Chinese]](https://github.com/diaomin/crnn-mxnet-chinese-text-recognition) [[gluon]](https://github.com/ThomasDelteil/Gluon_OCR_LSTM_CTC) [[insightocr]](https://github.com/deepinsight/insightocr) [[A full version]](https://github.com/WenmuZhou/crnn.gluon)
 
 
 >> ### 2.10 Point cloud & 3D
->> - [mx-pointnet](https://github.com/Zehaos/mx-pointnet)
+>> - [mx-pointnet](https://github.com/Zehaos/mx-pointnet) [[gluon version]](https://github.com/hnVfly/pointnet.mxnet)
 >> - [PointCNN.MX](https://github.com/chinakook/PointCNN.MX)
 >> - [RC3D](https://github.com/likelyzhao/MxNet-RC3D/blob/master/RC3D/symbols/RC3D.py)
+>> - [DeepIM](https://github.com/liyi14/mx-DeepIM)
 
 >> ### 2.11 Images Generation
 >> - [pix2pix](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/Pix2Pix)
@@ -211,10 +222,11 @@ ________________
 >> - [relational-network-gluon](https://github.com/seujung/relational-network-gluon)
 >> - [HKO-7](https://github.com/sxjscience/HKO-7) [[weather-forecasting]](https://github.com/igloooo/weather-forecasting-mxnet)
 >> - [siamfc](https://github.com/forschumi/siamfc-mxnet)
->> - [**learning-to-see-in-the-dark**](https://github.com/anzhao0503/learning-to-see-in-the-dark.mxnet)
+>> - [AdvBox](https://github.com/baidu/AdvBox)
 
 ## <a name="NLP"></a>3. NLP
 >> - [**sockeye**](https://github.com/awslabs/sockeye)
+>> - [**gluon-nlp**(Gluon:star:)](https://github.com/dmlc/gluon-nlp)
 >> - [MXNMT](https://github.com/magic282/MXNMT)
 >> - [Char-RNN(Gluon:star:)](https://github.com/SherlockLiao/Char-RNN-Gluon)
 >> - [Character-level CNN Text Classification (Gluon:star:)](https://github.com/ThomasDelteil/CNN_NLP_MXNet)
@@ -235,7 +247,10 @@ ________________
 >> - [**Gluon Dynamic-batching**(Gluon:star:)](https://github.com/szha/mxnet-fold)
 >> - [translatR](https://github.com/jeremiedb/translatR)
 >> - [RNN-Transducer](https://github.com/HawkAaron/mxnet-transducer)
->> - [**gluon-nlp**(Gluon:star:)](https://github.com/dmlc/gluon-nlp)
+>> - [Deep Biaffine Parser](https://github.com/hankcs/DeepBiaffineParserMXNet)
+>> - [Crepe model](https://github.com/ThomasDelteil/CNN_NLP_MXNet)
+>> - [**RegionEmbedding**](https://github.com/zhaozhengChen/RegionEmbedding)
+>> - [Structured-Self-Attentive-Sentence-Embedding](https://github.com/kenjewu/Structured-Self-Attentive-Sentence-Embedding)
 
 ## <a name="Speech"></a>4. Speech
 >> - [mxnet_kaldi](https://github.com/vsooda/mxnet_kaldi)
@@ -268,17 +283,22 @@ ________________
 ## <a name="One_class_learning"></a>9. One Class Learning
 >> - [anomaly_detection](https://github.com/malykhin/anomaly_detection/blob/master/anomaly_AWS.ipynb)
 
-## <a name="Tools"></a>10. Tools
->> ### 10.1 Converter
+## <a name="PPL"></a>10. Probabilistic Programming
+>> - [**MXFusion**](https://github.com/amzn/MXFusion)
+
+## <a name="TL"></a>11. Transfer Learning
+>> - [**xfer**](https://github.com/amzn/xfer)
+
+## <a name="Tools"></a>12. Tools
+>> ### 12.1 Converter
 >> - [mxnet2tf](https://github.com/vuvko/mxnet2tf)
->> - [MXNetToMXNet](https://github.com/IIMarch/MXNetToMXNet)
 >> - [MMdnn](https://github.com/Microsoft/MMdnn)
 >> - [onnx-mxnet](https://github.com/onnx/onnx-mxnet)
 >> - [mxnet_to_onnx](https://github.com/NVIDIA/mxnet_to_onnx)
 >> - [R-Convert-json-to-symbol](https://github.com/Imshepherd/MxNetR-Convert-json-to-symbol)
 >> - [**mxnet2ncnn**](https://github.com/Tencent/ncnn/blob/28b35b8c4f3d58feaaaeaa58273b763751827aab/tools/mxnet/mxnet2ncnn.cpp)
 
->> ### 10.2 Language Bindings
+>> ### 12.2 Language Bindings
 >> - [mxnet.rb](https://github.com/mrkn/mxnet.rb)
 >> - [mxnet.csharp](https://github.com/yajiedesign/mxnet.csharp)
 >> - [go-mxnet-predictor](https://github.com/songtianyi/go-mxnet-predictor)
@@ -286,7 +306,7 @@ ________________
 >> - [load_op](https://github.com/DuinoDu/load_op.mxnet)
 >> - [MobulaOP](https://github.com/wkcn/MobulaOP)
 
->> ### 10.3 Visualization
+>> ### 12.3 Visualization
 >> - [mxbox](https://github.com/Lyken17/mxbox)
 >> - [mixboard](https://github.com/DrSensor/mixboard)
 >> - [mxflows](https://github.com/aidan-plenert-macdonald/mxflows)
@@ -297,7 +317,7 @@ ________________
 >> - [Netron](https://github.com/lutzroeder/Netron)
 >> - [**mxboard**](https://github.com/awslabs/mxboard)
 
->> ### 10.4 Parallel and Distributed computing
+>> ### 12.4 Parallel and Distributed computing
 >> - [mxnet-rdma](https://github.com/liuchang1437/mxnet-rdma)
 >> - [RDMA-MXNet-ps-lite](https://github.com/ralzq01/RDMA-MXNet-ps-lite)
 >> - [MPIZ-MXNet](https://github.com/Shenggan/MPIZ-MXNet)
@@ -309,7 +329,7 @@ ________________
 >> - [Gluon Distributed Training (Gluon:star:)](https://mxnet.indu.ai/tutorials/distributed-training-using-mxnet)
 >> - [gpurelperf](https://github.com/andylamp/gpurelperf)
 
->> ### 10.5 Productivity
+>> ### 12.5 Productivity
 >> - [Email Monitor MxnetTrain](https://github.com/fierceX/Email_Monitor_MxnetTrain)
 >> - [mxnet-oneclick](https://github.com/imistyrain/mxnet-oneclick)
 >> - [mxnet-finetuner](https://github.com/knjcode/mxnet-finetuner)
@@ -317,10 +337,10 @@ ________________
 >> - [MXNet_Video_Trainer](https://github.com/likelyzhao/MXNet_Video_Trainer)
 >> - [rs_mxnet_reader](https://github.com/ChenKQ/rs_mxnet_reader)
 
->> ### 10.6 Parameter optimizer
+>> ### 12.6 Parameter optimizer
 >> - [YellowFin](https://github.com/StargazerZhu/YellowFin_MXNet)
 
->> ### 10.7 Deployment
+>> ### 12.7 Deployment
 >> - [Turi Create](https://github.com/apple/turicreate)
 >> - [MXNet-HRT](https://github.com/OAID/MXNet-HRT)
 >> - [Tengine](https://github.com/OAID/Tengine)
@@ -337,7 +357,8 @@ ________________
 >> - [tvm-mali](https://github.com/merrymercy/tvm-mali)
 >> - [mxnet-and-sagemaker](https://github.com/cosmincatalin/object-counting-with-mxnet-and-sagemaker)
 >> - [example-of-nnvm-in-cpp](https://github.com/zhangxinqian/example-of-nnvm-in-cpp)
+>> - [tensorly](https://github.com/tensorly/tensorly)
 
->> ### 10.8 Other Branches
+>> ### 12.8 Other Branches
 >> - [ngraph-mxnet](https://github.com/NervanaSystems/ngraph-mxnet)
 >> - [distributedMXNet](https://github.com/TuSimple/distributedMXNet)
