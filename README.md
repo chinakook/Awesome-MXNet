@@ -95,6 +95,7 @@ ________________
 >> - [**SNIPER**](https://github.com/mahyarnajibi/SNIPER) with R-FCN-3K and SSH Face Detector
 >> - [Car-Detector-and-Tracker](https://github.com/YvesHarrison/Car-Detector-and-Tracker-Using-MXNet-and-KCF)
 >> - [detnet](https://github.com/BigDeviltjj/mxnet-detnet)
+>> - [CornerNet](https://github.com/BigDeviltjj/mxnet-cornernet)
 
 >> ### 2.3 Image Segmentation
 >> - [FCN](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/fcn.py)
@@ -133,6 +134,7 @@ ________________
 >> - [facial-emotion-recognition](https://github.com/TalkAI/facial-emotion-recognition-gluon)
 >> - [RSA(prediction only)](https://github.com/ElegantGod/RSA-for-object-detection-mxnet-version)
 >> - [gender_age_estimation_mxnet](https://github.com/wayen820/gender_age_estimation_mxnet)
+>> - [Ringloss](https://github.com/haoxintong/Ringloss-Gluon)
 
 >> ### 2.6 ReID
 >> - [rl-multishot-reid](https://github.com/TuSimple/rl-multishot-reid)
@@ -357,6 +359,7 @@ ________________
 >> - [mxnet-and-sagemaker](https://github.com/cosmincatalin/object-counting-with-mxnet-and-sagemaker)
 >> - [example-of-nnvm-in-cpp](https://github.com/zhangxinqian/example-of-nnvm-in-cpp)
 >> - [tensorly](https://github.com/tensorly/tensorly)
+>> - [OpenVINO](https://software.intel.com/en-us/openvino-toolkit/documentation/featured)
 
 >> ### 12.8 Other Branches
 >> - [ngraph-mxnet](https://github.com/NervanaSystems/ngraph-mxnet)
