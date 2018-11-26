@@ -298,6 +298,8 @@ ________________
 >> - [mxnet_to_onnx](https://github.com/NVIDIA/mxnet_to_onnx)
 >> - [R-Convert-json-to-symbol](https://github.com/Imshepherd/MxNetR-Convert-json-to-symbol)
 >> - [**mxnet2ncnn**](https://github.com/Tencent/ncnn/blob/28b35b8c4f3d58feaaaeaa58273b763751827aab/tools/mxnet/mxnet2ncnn.cpp)
+>> - [Gluon2PyTorch](https://github.com/nerox8664/gluon2pytorch)
+>> - [Gluon2Keras](https://github.com/nerox8664/gluon2keras)
 
 >> ### 12.2 Language Bindings
 >> - [mxnet.rb](https://github.com/mrkn/mxnet.rb)
