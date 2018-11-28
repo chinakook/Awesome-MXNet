@@ -48,7 +48,7 @@ ________________
 >> - DenseNet [[sym]](https://github.com/bruinxiong/densenet.mxnet) [[gluon]](https://github.com/apache/incubator-mxnet/blob/master/python/mxnet/gluon/model_zoo/vision/densenet.py)
 >> - SENet [[sym]](https://github.com/bruinxiong/SENet.mxnet) [[gluon]](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/se_resnet.py) [[caffe]](https://github.com/IIMarch/SENet-mxnet)
 >> - MobileNet [[gluon v1/v2]](/home/dingkou/dev/mx/python/mxnet/gluon/model_zoo/vision/mobilenet.py) [[sym v2]](https://github.com/liangfu/mxnet-mobilenet-v2)
->> - Xception [[sym]](https://github.com/bruinxiong/xception.mxnet) [[Keras]](https://github.com/u1234x1234/mxnet-xception)
+>> - Xception [[sym]](https://github.com/bruinxiong/xception.mxnet) [[gluon]](https://github.com/osmr/imgclsmob/blob/master/gluon/gluoncv2/models/xception.py) [[Keras]](https://github.com/u1234x1234/mxnet-xception)
 >> - [DPN](https://github.com/cypw/DPNs)
 >> - [CapsNet](https://github.com/Soonhwan-Kwon/capsnet.mxnet)
 >> - [NASNet-A(Gluon:star:)](https://github.com/qingzhouzhen/incubator-mxnet/blob/nasnet/python/mxnet/gluon/model_zoo/vision/nasnet.py)
@@ -74,7 +74,8 @@ ________________
 >> - [Residual-Attention-Network](https://github.com/haoxintong/Residual-Attention-Network-Gluon)
 >> - [SNAIL](https://github.com/seujung/SNAIL-gluon)
 >> - [Modified-CBAMnet](https://github.com/bruinxiong/Modified-CBAMnet.mxnet)
->> - 3rdparty Resnet/Resnext/Inception/Xception/Air/DPN/SENet [pretrained models](https://github.com/soeaver/mxnet-model) 
+>> - 3rdparty Resnet/Resnext/Inception/Xception/Air/DPN/SENet [pretrained models](https://github.com/soeaver/mxnet-model)
+>> - Collection of [pretrained models (Gluon:star:)](https://github.com/osmr/imgclsmob)
 
 >> ### 2.2 Object Detection
 >> - [PVANet](https://github.com/apache/incubator-mxnet/pull/7786)
