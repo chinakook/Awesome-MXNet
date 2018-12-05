@@ -26,7 +26,8 @@ ________________
 ## <a name="Tutorials and Resources"></a>1. Tutorials and Resources
 - [Documents](https://mxnet.incubator.apache.org/) [[site]](https://github.com/apache/incubator-mxnet-site)
 - Tutorial Documentation [[English]](https://mxnet.incubator.apache.org/tutorials/) [[Chinese]](https://github.com/wangx404/symbol_coding_tutorials_of_MXNet)
-- Gluon Tutorial Documentation [[English]](http://gluon.mxnet.io/) [[Chinese]](https://zh.gluon.ai/)
+- [New version of Documentation](https://github.com/mli/new-docs)
+- Gluon Tutorial Documentation [[English]](http://gluon.mxnet.io/) [[Chinese]](https://zh.gluon.ai/) [[Japanese]](https://github.com/harusametime/mxnet-the-straight-dope-ja)
 - [Gluon Api](https://github.com/gluon-api/gluon-api)
 - [CheatSheet](https://github.com/chinakook/Awesome-MXNet/blob/master/apache-mxnet-cheat.pdf)
 - [Using MXNet](https://github.com/JONGGON/Mxnet_Tutorial)
@@ -53,7 +54,7 @@ ________________
 >> - [CapsNet](https://github.com/Soonhwan-Kwon/capsnet.mxnet)
 >> - [NASNet-A(Gluon:star:)](https://github.com/qingzhouzhen/incubator-mxnet/blob/nasnet/python/mxnet/gluon/model_zoo/vision/nasnet.py)
 >> - [CRU-Net](https://github.com/cypw/CRU-Net)
->> - [ShuffleNet](https://github.com/ZiyueHuang/MXShuffleNet)
+>> - [ShuffleNet v1/v2](https://github.com/Tveek/mxnet-shufflenet)
 >> - [**IGCV3**](https://github.com/homles11/IGCV3)
 >> - [SqeezeNet](https://github.com/miaow1988/SqueezeNet_v1.2)
 >> - [FractalNet](https://github.com/newuser-16824/mxnet-fractalnet)
@@ -69,10 +70,11 @@ ________________
 >> - [L-GM-Loss](https://github.com/LeeJuly30/L-GM-Loss-For-Gluon)
 >> - [**CoordConv**](https://github.com/ZwX1616/mxnet-CoordConv)
 >> - [IBN-Net](https://github.com/bruinxiong/IBN-Net.mxnet)
->> - [Mnasnet](https://github.com/chinakook/Mnasnet.MXNet)
+>> - [Mnasnet](https://github.com/chinakook/Mnasnet.MXNet) [[pretrained model]](https://github.com/zeusees/Mnasnet-Pretrained-Model)
 >> - [**CompetitiveSENet**](https://github.com/scut-aitcm/CompetitiveSENet)
 >> - [Residual-Attention-Network](https://github.com/haoxintong/Residual-Attention-Network-Gluon)
 >> - [SNAIL](https://github.com/seujung/SNAIL-gluon)
+>> - [**DropBlock**](https://github.com/chenzx921020/DropBlock-mxnet)
 >> - [Modified-CBAMnet](https://github.com/bruinxiong/Modified-CBAMnet.mxnet)
 >> - 3rdparty Resnet/Resnext/Inception/Xception/Air/DPN/SENet [pretrained models](https://github.com/soeaver/mxnet-model)
 >> - Collection of [pretrained models (Gluon:star:)](https://github.com/osmr/imgclsmob)
@@ -84,6 +86,7 @@ ________________
 >> - YOLO [[sym v1/v2]](https://github.com/zhreshold/mxnet-yolo) [[darknet]](https://github.com/bowenc0221/MXNet-YOLO) [[gluon]](https://github.com/MashiMaroLjc/YOLO) [[v3]](https://github.com/Fermes/yolov3-mxnet)
 >> - Faster RCNN [[Origin]](https://github.com/precedenceguo/mx-rcnn) [[gluon]](https://github.com/dmlc/gluon-cv/tree/master/gluoncv/model_zoo/faster_rcnn) [[ya_mxdet]](https://github.com/linmx0130/ya_mxdet) [[Focal Loss]](https://github.com/unsky/focal-loss) [[Light-Head]](https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784)
 >> - [**Deformable-ConvNets**](https://github.com/msracver/Deformable-ConvNets) with Faster RCNN/R-FCN/FPN/SoftNMS and Deeplab
+>> - [**Deformable-ConvNets v2**](https://github.com/msracver/Deformable-ConvNets/tree/master/DCNv2_op)
 >> - [**Relation-Networks**](https://github.com/msracver/Relation-Networks-for-Object-Detection) with FPN
 >> - [FCIS](https://github.com/msracver/FCIS)
 >> - [Mask R-CNN](https://github.com/TuSimple/mx-maskrcnn)
@@ -97,6 +100,7 @@ ________________
 >> - [Car-Detector-and-Tracker](https://github.com/YvesHarrison/Car-Detector-and-Tracker-Using-MXNet-and-KCF)
 >> - [detnet](https://github.com/BigDeviltjj/mxnet-detnet)
 >> - [CornerNet](https://github.com/BigDeviltjj/mxnet-cornernet)
+>> - [faster-rcnn-rotate](https://github.com/shihan19911126/mxnet-faster-rcnn-rotate)
 
 >> ### 2.3 Image Segmentation
 >> - [FCN](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/fcn.py)
@@ -219,6 +223,7 @@ ________________
 >> - [DIRNet](https://github.com/HPI-DeepLearning/DIRNet/tree/master/DIRNet-mxnet)
 >> - [Receptive Field Tool](https://github.com/chinakook/mxnet/blob/kkmaster/python/kktools/rf.py)
 >> - [mxnet-videoio](https://github.com/MTCloudVision/mxnet-videoio)
+>> - [AudioDataLoader](https://github.com/gaurav-gireesh/AudioDataLoader)
 >> - [mxnet_tetris](https://github.com/sunkwei/mxnet_tetris)
 >> - [Visual Search (Gluon:star:)](https://github.com/ThomasDelteil/VisualSearch_MXNet)
 >> - [DALI](https://github.com/NVIDIA/DALI)
@@ -226,6 +231,7 @@ ________________
 >> - [HKO-7](https://github.com/sxjscience/HKO-7) [[weather-forecasting]](https://github.com/igloooo/weather-forecasting-mxnet)
 >> - [siamfc](https://github.com/forschumi/siamfc-mxnet)
 >> - [AdvBox](https://github.com/baidu/AdvBox)
+>> - [SAGE-GRAPH](https://github.com/diyang/SAGE-GRAPH-R)
 
 ## <a name="NLP"></a>3. NLP
 >> - [**sockeye**](https://github.com/awslabs/sockeye)
@@ -278,6 +284,7 @@ ________________
 >> - [Double DQN(Gluon:star:)](https://github.com/kazizzad/Double-DQN-MxNet-Gluon)
 >> - [openai-mxnet](https://github.com/boddmg/openai-mxnet)
 >> - [PPO(Gluon:star:)](https://github.com/dai-dao/PPO-Gluon)
+>> - [CrazyAra](https://github.com/QueensGambit/CrazyAra)
 
 ## <a name="Neuro_evolution"></a>8. Neuro Evolution
 >> - [galapagos_nao](https://github.com/jeffreyksmithjr/galapagos_nao)
@@ -320,6 +327,7 @@ ________________
 >> - [polyaxon](https://github.com/polyaxon/polyaxon) with [examples](https://github.com/polyaxon/polyaxon-examples/tree/master/mxnet/cifar10)
 >> - [Netron](https://github.com/lutzroeder/Netron)
 >> - [**mxboard**](https://github.com/awslabs/mxboard)
+>> - [CalFLOPS](https://github.com/likelyzhao/CalFLOPS-Mxnet)
 
 >> ### 12.4 Parallel and Distributed computing
 >> - [mxnet-rdma](https://github.com/liuchang1437/mxnet-rdma)
