@@ -27,7 +27,7 @@ ________________
 - [Documents](https://mxnet.incubator.apache.org/) [[site]](https://github.com/apache/incubator-mxnet-site)
 - Tutorial Documentation [[English]](https://mxnet.incubator.apache.org/tutorials/) [[Chinese]](https://github.com/wangx404/symbol_coding_tutorials_of_MXNet)
 - [New version of Documentation](https://github.com/mli/new-docs)
-- Gluon Tutorial Documentation [[English]](http://gluon.mxnet.io/) [[Chinese]](https://zh.gluon.ai/) [[Japanese]](https://github.com/harusametime/mxnet-the-straight-dope-ja)
+- Gluon Tutorial Documentation [[English]](http://en.diveintodeeplearning.org//) [[Chinese]](https://zh.diveintodeeplearning.org/) [[Japanese]](https://github.com/harusametime/mxnet-the-straight-dope-ja)
 - [Gluon Api](https://github.com/gluon-api/gluon-api)
 - [CheatSheet](https://github.com/chinakook/Awesome-MXNet/blob/master/apache-mxnet-cheat.pdf)
 - [Using MXNet](https://github.com/JONGGON/Mxnet_Tutorial)
@@ -59,6 +59,7 @@ ________________
 >> - [SqeezeNet](https://github.com/miaow1988/SqueezeNet_v1.2)
 >> - [FractalNet](https://github.com/newuser-16824/mxnet-fractalnet)
 >> - [BMXNet](https://github.com/hpi-xnor/BMXNet)
+>> - [**BMXNet v2**](https://github.com/hpi-xnor/BMXNet-v2)
 >> - [fusenet](https://github.com/zlmzju/fusenet)
 >> - [Self-Norm Nets](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/SelfNormNets)
 >> - [Factorized-Bilinear-Network](https://github.com/lyttonhao/Factorized-Bilinear-Network)
@@ -277,6 +278,7 @@ ________________
 >> - [DEF(Gluon:star:)](https://github.com/altosaar/deep-exponential-families-gluon)
 >> - [mxnet-recommender(Gluon:star:)](https://github.com/chen0040/mxnet-recommender)
 >> - [collaborative_filtering](https://github.com/opringle/collaborative_filtering)
+>> - [gluon-rank](https://github.com/opringle/gluon-rank)
 
 ## <a name="DRL"></a>7. DRL
 >> - [DRL](https://github.com/qyxqyx/DRL)
@@ -312,6 +314,7 @@ ________________
 >> ### 12.2 Language Bindings
 >> - [mxnet.rb](https://github.com/mrkn/mxnet.rb)
 >> - [mxnet.csharp](https://github.com/yajiedesign/mxnet.csharp)
+>> - [SiaNet(csharp)](https://github.com/deepakkumar1984/SiaNet)
 >> - [go-mxnet-predictor](https://github.com/songtianyi/go-mxnet-predictor)
 >> - [dmxnet](https://github.com/sociomantic-tsunami/dmxnet)
 >> - [load_op](https://github.com/DuinoDu/load_op.mxnet)
