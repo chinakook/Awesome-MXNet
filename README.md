@@ -141,6 +141,7 @@ ________________
 >> - [RSA(prediction only)](https://github.com/ElegantGod/RSA-for-object-detection-mxnet-version)
 >> - [gender_age_estimation_mxnet](https://github.com/wayen820/gender_age_estimation_mxnet)
 >> - [Ringloss](https://github.com/haoxintong/Ringloss-Gluon)
+>> - [gluon-face](https://github.com/THUFutureLab/gluon-face)
 
 >> ### 2.6 ReID
 >> - [rl-multishot-reid](https://github.com/TuSimple/rl-multishot-reid)
