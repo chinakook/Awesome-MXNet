@@ -89,6 +89,7 @@ ________________
 >> - [**Deformable-ConvNets**](https://github.com/msracver/Deformable-ConvNets) with Faster RCNN/R-FCN/FPN/SoftNMS and Deeplab
 >> - [**Deformable-ConvNets v2**](https://github.com/msracver/Deformable-ConvNets/tree/master/DCNv2_op)
 >> - [**Relation-Networks**](https://github.com/msracver/Relation-Networks-for-Object-Detection) with FPN
+>> - [FPN-gluon-cv](https://github.com/Angzz/fpn-gluon-cv)
 >> - [FCIS](https://github.com/msracver/FCIS)
 >> - [Mask R-CNN](https://github.com/TuSimple/mx-maskrcnn)
 >> - [SqueezeDet](https://github.com/alvinwan/squeezeDetMX)
@@ -101,6 +102,7 @@ ________________
 >> - [Car-Detector-and-Tracker](https://github.com/YvesHarrison/Car-Detector-and-Tracker-Using-MXNet-and-KCF)
 >> - [detnet](https://github.com/BigDeviltjj/mxnet-detnet)
 >> - [CornerNet](https://github.com/BigDeviltjj/mxnet-cornernet)
+>> - [GroupNormalization](https://github.com/JaggerYoung/mxnet-GroupNormalization)
 >> - [faster-rcnn-rotate](https://github.com/shihan19911126/mxnet-faster-rcnn-rotate)
 
 >> ### 2.3 Image Segmentation
@@ -259,6 +261,7 @@ ________________
 >> - [RNN-Transducer](https://github.com/HawkAaron/mxnet-transducer)
 >> - [Deep Biaffine Parser](https://github.com/hankcs/DeepBiaffineParserMXNet)
 >> - [Crepe model](https://github.com/ThomasDelteil/CNN_NLP_MXNet)
+>> - [EXAM](https://github.com/bcol23/EXAM-MXNet)
 >> - [**RegionEmbedding**](https://github.com/zhaozhengChen/RegionEmbedding)
 >> - [Structured-Self-Attentive-Sentence-Embedding](https://github.com/kenjewu/Structured-Self-Attentive-Sentence-Embedding)
 
