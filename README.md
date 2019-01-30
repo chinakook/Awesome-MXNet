@@ -104,7 +104,7 @@ ________________
 >> - [CornerNet](https://github.com/BigDeviltjj/mxnet-cornernet)
 >> - [GroupNormalization](https://github.com/JaggerYoung/mxnet-GroupNormalization)
 >> - [faster-rcnn-rotate](https://github.com/shihan19911126/mxnet-faster-rcnn-rotate)
->> - [simpledet](https://github.com/TuSimple/simpledet)
+>> - [**simpledet**](https://github.com/TuSimple/simpledet) with FP16 and distributed training
 
 >> ### 2.3 Image Segmentation
 >> - [FCN](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/fcn.py)
