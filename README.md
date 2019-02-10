@@ -179,7 +179,7 @@ ________________
 >> - [EAST](https://github.com/wangpan8154/east-text-detection-with-mxnet/tree/1a63083d69954e7c1c7ac277cf6b8ed5af4ec770)
 >> - [**CTPN.mxnet**](https://github.com/chinakook/CTPN.mxnet)
 >> - CRNN [[Chinese]](https://github.com/diaomin/crnn-mxnet-chinese-text-recognition) [ [[insightocr]](https://github.com/deepinsight/insightocr) [[A full version]](https://github.com/WenmuZhou/crnn.gluon)
->> - [Handwritten OCR CRNN (Gluon :star:)](https://github.com/ThomasDelteil/https://github.com/ThomasDelteil/HandwrittenTextRecognition_MXNet)
+>> - [Handwritten OCR CRNN (Gluon :star:)](https://github.com/ThomasDelteil/HandwrittenTextRecognition_MXNet)
 
 
 >> ### 2.10 Point cloud & 3D
