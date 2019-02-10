@@ -157,6 +157,7 @@ ________________
 >> - [Head Pose](https://github.com/LaoDar/cnn_head_pose_estimator)
 >> - [Convolutional Pose Machines](https://github.com/li-haoran/mxnet-convolutional_pose_machines_Testing)
 >> - [Realtime Multi-Person Pose Estimation](https://github.com/dragonfly90/mxnet_Realtime_Multi-Person_Pose_Estimation)
+>> - [Realtime Multi-Person Pose Estimation (Gluon :star:)](https://github.com/ThomasDelteil/MultiPoseEstimation_MXNet)
 >> - [OpenPose](https://github.com/kohillyang/mx-openpose)
 >> - [Dynamic pose estimation](https://github.com/gengshan-y/dyn_pose)
 >> - [LSTM for HAR](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/HumanActivityRecognition)
@@ -177,7 +178,8 @@ ________________
 >> - [SSD Text Detection](https://github.com/oyxhust/ssd-text_detection)
 >> - [EAST](https://github.com/wangpan8154/east-text-detection-with-mxnet/tree/1a63083d69954e7c1c7ac277cf6b8ed5af4ec770)
 >> - [**CTPN.mxnet**](https://github.com/chinakook/CTPN.mxnet)
->> - CRNN [[Chinese]](https://github.com/diaomin/crnn-mxnet-chinese-text-recognition) [[gluon]](https://github.com/ThomasDelteil/Gluon_OCR_LSTM_CTC) [[insightocr]](https://github.com/deepinsight/insightocr) [[A full version]](https://github.com/WenmuZhou/crnn.gluon)
+>> - CRNN [[Chinese]](https://github.com/diaomin/crnn-mxnet-chinese-text-recognition) [ [[insightocr]](https://github.com/deepinsight/insightocr) [[A full version]](https://github.com/WenmuZhou/crnn.gluon)
+>> - [Handwritten OCR CRNN (Gluon :star:)](https://github.com/ThomasDelteil/https://github.com/ThomasDelteil/HandwrittenTextRecognition_MXNet)
 
 
 >> ### 2.10 Point cloud & 3D
