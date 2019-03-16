@@ -75,7 +75,8 @@ ________________
 >> - [**CompetitiveSENet**](https://github.com/scut-aitcm/CompetitiveSENet)
 >> - [Residual-Attention-Network](https://github.com/haoxintong/Residual-Attention-Network-Gluon)
 >> - [SNAIL](https://github.com/seujung/SNAIL-gluon)
->> - [**DropBlock**](https://github.com/chenzx921020/DropBlock-mxnet)
+>> - [DropBlock](https://github.com/chenzx921020/DropBlock-mxnet)
+>> - [DropBlock(c++ implementaion)](https://github.com/yuyijie1995/dropblock_mxnet_bottom_implemention)
 >> - [Modified-CBAMnet](https://github.com/bruinxiong/Modified-CBAMnet.mxnet)
 >> - 3rdparty Resnet/Resnext/Inception/Xception/Air/DPN/SENet [pretrained models](https://github.com/soeaver/mxnet-model)
 >> - Collection of [pretrained models (Gluon:star:)](https://github.com/osmr/imgclsmob)
@@ -145,6 +146,9 @@ ________________
 >> - [gender_age_estimation_mxnet](https://github.com/wayen820/gender_age_estimation_mxnet)
 >> - [Ringloss](https://github.com/haoxintong/Ringloss-Gluon)
 >> - [gluon-face](https://github.com/THUFutureLab/gluon-face)
+>> - [age-gender-estimation](https://github.com/deepinx/age-gender-estimation)
+>> - [iqiyi-vid-challenge 1st code](https://github.com/deepinx/iqiyi-vid-challenge)
+>> - [sdu-face-alignment](https://github.com/deepinx/sdu-face-alignment)
 
 >> ### 2.6 ReID
 >> - [rl-multishot-reid](https://github.com/TuSimple/rl-multishot-reid)
@@ -239,6 +243,7 @@ ________________
 >> - [siamfc](https://github.com/forschumi/siamfc-mxnet)
 >> - [AdvBox](https://github.com/baidu/AdvBox)
 >> - [SAGE-GRAPH](https://github.com/diyang/SAGE-GRAPH-R)
+>> - [Memory-Aware-Synapses](https://github.com/rahafaljundi/MAS-Memory-Aware-Synapses)
 
 ## <a name="NLP"></a>3. NLP
 >> - [**sockeye**](https://github.com/awslabs/sockeye)
@@ -267,6 +272,8 @@ ________________
 >> - [EXAM](https://github.com/bcol23/EXAM-MXNet)
 >> - [**RegionEmbedding**](https://github.com/zhaozhengChen/RegionEmbedding)
 >> - [Structured-Self-Attentive-Sentence-Embedding](https://github.com/kenjewu/Structured-Self-Attentive-Sentence-Embedding)
+>> - [translatR](https://github.com/jeremiedb/translatR)
+>> - [**BERT-embedding**](https://github.com/imgarylai/bert-embedding)
 
 ## <a name="Speech"></a>4. Speech
 >> - [mxnet_kaldi](https://github.com/vsooda/mxnet_kaldi)
