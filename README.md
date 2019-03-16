@@ -243,7 +243,7 @@ ________________
 >> - [siamfc](https://github.com/forschumi/siamfc-mxnet)
 >> - [AdvBox](https://github.com/baidu/AdvBox)
 >> - [SAGE-GRAPH](https://github.com/diyang/SAGE-GRAPH-R)
->> - [Memory-Aware-Synapses](https://github.com/rahafaljundi/MAS-Memory-Aware-Synapses)
+>> - [Memory-Aware-Synapses](https://github.com/mingzhang96/MAS-mxnet)
 
 ## <a name="NLP"></a>3. NLP
 >> - [**sockeye**](https://github.com/awslabs/sockeye)
