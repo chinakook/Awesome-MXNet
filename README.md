@@ -78,6 +78,7 @@ ________________
 >> - [DropBlock](https://github.com/chenzx921020/DropBlock-mxnet)
 >> - [DropBlock(c++ implementaion)](https://github.com/yuyijie1995/dropblock_mxnet_bottom_implemention)
 >> - [Modified-CBAMnet](https://github.com/bruinxiong/Modified-CBAMnet.mxnet)
+>> - [**OctConv**](https://github.com/facebookresearch/OctConv)
 >> - 3rdparty Resnet/Resnext/Inception/Xception/Air/DPN/SENet [pretrained models](https://github.com/soeaver/mxnet-model)
 >> - Collection of [pretrained models (Gluon:star:)](https://github.com/osmr/imgclsmob)
 
