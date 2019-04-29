@@ -107,6 +107,7 @@ ________________
 >> - [GroupNormalization](https://github.com/JaggerYoung/mxnet-GroupNormalization)
 >> - [faster-rcnn-rotate](https://github.com/shihan19911126/mxnet-faster-rcnn-rotate)
 >> - [**simpledet**](https://github.com/TuSimple/simpledet) with FP16 and distributed training
+>> - [**FCOS**](https://github.com/Angzz/fcos-gluon-cv)
 
 >> ### 2.3 Image Segmentation
 >> - [FCN](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/fcn.py)
@@ -129,6 +130,7 @@ ________________
 >> - MTCNN [[w/ train]](https://github.com/Seanlinx/mtcnn) [[caffe]](https://github.com/pangyupo/mxnet_mtcnn_face_detection)
 >> - Tiny Face [[w/ train]](https://github.com/IIMarch/tiny-face-mxnet) [[matconvnet]](https://github.com/chinakook/hr101_mxnet)
 >> - [S3FD](https://github.com/zunzhumu/S3FD)
+>> - [S3FD-gluoncv](https://github.com/yangfly/sfd.gluoncv)
 >> - [SSH](https://github.com/deepinsight/mxnet-SSH)
 >> - [FaceDetection-ConvNet-3D](https://github.com/tfwu/FaceDetection-ConvNet-3D)
 >> - [DeepID v1](https://github.com/AihahaFox/deepid-mxnet)
@@ -150,6 +152,7 @@ ________________
 >> - [age-gender-estimation](https://github.com/deepinx/age-gender-estimation)
 >> - [iqiyi-vid-challenge 1st code](https://github.com/deepinx/iqiyi-vid-challenge)
 >> - [sdu-face-alignment](https://github.com/deepinx/sdu-face-alignment)
+
 
 >> ### 2.6 ReID
 >> - [rl-multishot-reid](https://github.com/TuSimple/rl-multishot-reid)
