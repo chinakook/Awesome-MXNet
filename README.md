@@ -106,6 +106,7 @@ ________________
 >> - [CornerNet](https://github.com/BigDeviltjj/mxnet-cornernet)
 >> - [GroupNormalization](https://github.com/JaggerYoung/mxnet-GroupNormalization)
 >> - [faster-rcnn-rotate](https://github.com/shihan19911126/mxnet-faster-rcnn-rotate)
+>> - [Detection and Recognition in Remote Sensing Image](https://github.com/whywhs/Detection_and_Recognition_in_Remote_Sensing_Image)
 >> - [**simpledet**](https://github.com/TuSimple/simpledet) with FP16 and distributed training
 >> - [**FCOS**](https://github.com/Angzz/fcos-gluon-cv)
 
