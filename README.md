@@ -48,7 +48,7 @@ ________________
 >> - ResNet [[sym]](https://github.com/tornadomeet/ResNet) [[gluon]](https://github.com/apache/incubator-mxnet/blob/master/python/mxnet/gluon/model_zoo/vision/resnet.py) [[v1b]](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/resnetv1b.py)
 >> - DenseNet [[sym]](https://github.com/bruinxiong/densenet.mxnet) [[gluon]](https://github.com/apache/incubator-mxnet/blob/master/python/mxnet/gluon/model_zoo/vision/densenet.py)
 >> - SENet [[sym]](https://github.com/bruinxiong/SENet.mxnet) [[gluon]](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/se_resnet.py) [[caffe]](https://github.com/IIMarch/SENet-mxnet)
->> - MobileNet [[gluon v1/v2]](/home/dingkou/dev/mx/python/mxnet/gluon/model_zoo/vision/mobilenet.py) [[sym v2]](https://github.com/liangfu/mxnet-mobilenet-v2)
+>> - [MobileNet V3](https://github.com/AmigoCDT/MXNet-MobileNetV3)
 >> - Xception [[sym]](https://github.com/bruinxiong/xception.mxnet) [[gluon]](https://github.com/osmr/imgclsmob/blob/master/gluon/gluoncv2/models/xception.py) [[Keras]](https://github.com/u1234x1234/mxnet-xception)
 >> - [DPN](https://github.com/cypw/DPNs)
 >> - [CapsNet](https://github.com/Soonhwan-Kwon/capsnet.mxnet)
@@ -120,6 +120,7 @@ ________________
 >> - [ResNet-38](https://github.com/itijyou/ademxapp)
 >> - [SEC](https://github.com/ascust/SEC-MXNet)
 >> - [**DRN**](https://github.com/zhuangyqin/DRN)
+>> - [panoptic-fpn](https://github.com/Angzz/panoptic-fpn-gluon)
 
 >> ### 2.4 Video Recognition and Object Detection
 >> - [Deep Feature Flow](https://github.com/msracver/Deep-Feature-Flow)
@@ -153,6 +154,7 @@ ________________
 >> - [age-gender-estimation](https://github.com/deepinx/age-gender-estimation)
 >> - [iqiyi-vid-challenge 1st code](https://github.com/deepinx/iqiyi-vid-challenge)
 >> - [sdu-face-alignment](https://github.com/deepinx/sdu-face-alignment)
+>> - [PyramidBox](https://github.com/JJXiangJiaoJun/gluon_PyramidBox)
 
 
 >> ### 2.6 ReID
@@ -189,6 +191,7 @@ ________________
 >> - [**CTPN.mxnet**](https://github.com/chinakook/CTPN.mxnet)
 >> - CRNN [[Chinese]](https://github.com/diaomin/crnn-mxnet-chinese-text-recognition) [ [[insightocr]](https://github.com/deepinsight/insightocr) [[A full version]](https://github.com/WenmuZhou/crnn.gluon)
 >> - [Handwritten OCR CRNN (Gluon :star:)](https://github.com/ThomasDelteil/HandwrittenTextRecognition_MXNet)
+>> - [PSENet](https://github.com/saicoco/Gluon-PSENet)
 
 
 >> ### 2.10 Point cloud & 3D
