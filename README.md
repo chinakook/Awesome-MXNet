@@ -12,13 +12,14 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [3. NLP](#NLP)
 - [4. Speech](#Speech)
 - [5. Time series forecasting](#Time_series_forecasting)
-- [6. CTR](#CTR)
-- [7. DRL](#DRL)
-- [8. Neuro Evolution](#Neuro_evolution)
-- [9. One Class Learning](#One_class_learning)
-- [10. Probabilistic Programming](#PPL)
-- [11. Transfer Learning](#TL)
-- [12. Tools](#Tools)
+- [6. Spatiotemporal](#Spatiotemporal )
+- [7. CTR](#CTR)
+- [8. DRL](#DRL)
+- [9. Neuro Evolution](#Neuro_evolution)
+- [10. One Class Learning](#One_class_learning)
+- [11. Probabilistic Programming](#PPL)
+- [12. Transfer Learning](#TL)
+- [13. Tools](#Tools)
 
 ________________
 
@@ -79,6 +80,7 @@ ________________
 >> - [DropBlock(c++ implementaion)](https://github.com/yuyijie1995/dropblock_mxnet_bottom_implemention)
 >> - [Modified-CBAMnet](https://github.com/bruinxiong/Modified-CBAMnet.mxnet)
 >> - [**OctConv**](https://github.com/facebookresearch/OctConv)
+>> - [tasn](https://github.com/researchmm/tasn)
 >> - 3rdparty Resnet/Resnext/Inception/Xception/Air/DPN/SENet [pretrained models](https://github.com/soeaver/mxnet-model)
 >> - Collection of [pretrained models (Gluon:star:)](https://github.com/osmr/imgclsmob)
 
@@ -126,6 +128,7 @@ ________________
 >> - [Deep Feature Flow](https://github.com/msracver/Deep-Feature-Flow)
 >> - [Flow-Guided Feature Aggregation](https://github.com/msracver/Flow-Guided-Feature-Aggregation)
 >> - [st-resnet](https://github.com/jay1204/st-resnet)
+>> - [ncf](https://github.com/xinyu-intel/ncf_mxnet)
 
 >> ### 2.5 Face Detection and Recognition
 >> - [MXNet Face](https://github.com/tornadomeet/mxnet-face)
@@ -293,7 +296,10 @@ ________________
 ## <a name="Time_series_forecasting"></a>5. Time series forecasting
 >> - [LSTNet](https://github.com/opringle/multivariate_time_series_forecasting)
 
-## <a name="CTR"></a>6. CTR
+## <a name="Spatiotemporal"></a>6. Spatiotemporal
+>> - [gluon-spaceTime](https://github.com/D-Roberts/gluon-spaceTime)
+
+## <a name="CTR"></a>7. CTR
 >> - [MXNet for CTR ](https://github.com/CNevd/DeepLearning-MXNet)
 >> - [CDL](https://github.com/js05212/MXNet-for-CDL)
 >> - [SpectralLDA](https://github.com/Mega-DatA-Lab/SpectralLDA-MXNet)
@@ -302,7 +308,7 @@ ________________
 >> - [collaborative_filtering](https://github.com/opringle/collaborative_filtering)
 >> - [gluon-rank](https://github.com/opringle/gluon-rank)
 
-## <a name="DRL"></a>7. DRL
+## <a name="DRL"></a>8. DRL
 >> - [DRL](https://github.com/qyxqyx/DRL)
 >> - [DQN(Gluon:star:)](https://github.com/kazizzad/DQN-MxNet-Gluon)
 >> - [Double DQN(Gluon:star:)](https://github.com/kazizzad/Double-DQN-MxNet-Gluon)
@@ -310,20 +316,20 @@ ________________
 >> - [PPO(Gluon:star:)](https://github.com/dai-dao/PPO-Gluon)
 >> - [CrazyAra](https://github.com/QueensGambit/CrazyAra)
 
-## <a name="Neuro_evolution"></a>8. Neuro Evolution
+## <a name="Neuro_evolution"></a>9. Neuro Evolution
 >> - [galapagos_nao](https://github.com/jeffreyksmithjr/galapagos_nao)
 
-## <a name="One_class_learning"></a>9. One Class Learning
+## <a name="One_class_learning"></a>10. One Class Learning
 >> - [anomaly_detection](https://github.com/malykhin/anomaly_detection/blob/master/anomaly_AWS.ipynb)
 
-## <a name="PPL"></a>10. Probabilistic Programming
+## <a name="PPL"></a>11. Probabilistic Programming
 >> - [**MXFusion**](https://github.com/amzn/MXFusion)
 
-## <a name="TL"></a>11. Transfer Learning
+## <a name="TL"></a>12. Transfer Learning
 >> - [**xfer**](https://github.com/amzn/xfer)
 
-## <a name="Tools"></a>12. Tools
->> ### 12.1 Converter
+## <a name="Tools"></a>13. Tools
+>> ### 13.1 Converter
 >> - [mxnet2tf](https://github.com/vuvko/mxnet2tf)
 >> - [MMdnn](https://github.com/Microsoft/MMdnn)
 >> - [onnx-mxnet](https://github.com/onnx/onnx-mxnet)
@@ -333,7 +339,7 @@ ________________
 >> - [Gluon2PyTorch](https://github.com/nerox8664/gluon2pytorch)
 >> - [Gluon2Keras](https://github.com/nerox8664/gluon2keras)
 
->> ### 12.2 Language Bindings
+>> ### 13.2 Language Bindings
 >> - [mxnet.rb](https://github.com/mrkn/mxnet.rb)
 >> - [mxnet.csharp](https://github.com/yajiedesign/mxnet.csharp)
 >> - [SiaNet(csharp)](https://github.com/deepakkumar1984/SiaNet)
@@ -342,7 +348,7 @@ ________________
 >> - [load_op](https://github.com/DuinoDu/load_op.mxnet)
 >> - [MobulaOP](https://github.com/wkcn/MobulaOP)
 
->> ### 12.3 Visualization
+>> ### 13.3 Visualization
 >> - [mxbox](https://github.com/Lyken17/mxbox)
 >> - [mixboard](https://github.com/DrSensor/mixboard)
 >> - [mxflows](https://github.com/aidan-plenert-macdonald/mxflows)
@@ -354,7 +360,7 @@ ________________
 >> - [**mxboard**](https://github.com/awslabs/mxboard)
 >> - [CalFLOPS](https://github.com/likelyzhao/CalFLOPS-Mxnet)
 
->> ### 12.4 Parallel and Distributed computing
+>> ### 13.4 Parallel and Distributed computing
 >> - [mxnet-rdma](https://github.com/liuchang1437/mxnet-rdma)
 >> - [RDMA-MXNet-ps-lite](https://github.com/ralzq01/RDMA-MXNet-ps-lite)
 >> - [MPIZ-MXNet](https://github.com/Shenggan/MPIZ-MXNet)
@@ -365,8 +371,10 @@ ________________
 >> - [XLearning](https://github.com/Qihoo360/XLearning)
 >> - [Gluon Distributed Training (Gluon:star:)](https://mxnet.indu.ai/tutorials/distributed-training-using-mxnet)
 >> - [gpurelperf](https://github.com/andylamp/gpurelperf)
+>> - [horovod](https://github.com/horovod/horovod)
+>> - [**byteps**](https://github.com/bytedance/byteps)
 
->> ### 12.5 Productivity
+>> ### 13.5 Productivity
 >> - [Email Monitor MxnetTrain](https://github.com/fierceX/Email_Monitor_MxnetTrain)
 >> - [mxnet-oneclick](https://github.com/imistyrain/mxnet-oneclick)
 >> - [mxnet-finetuner](https://github.com/knjcode/mxnet-finetuner)
@@ -374,10 +382,10 @@ ________________
 >> - [MXNet_Video_Trainer](https://github.com/likelyzhao/MXNet_Video_Trainer)
 >> - [rs_mxnet_reader](https://github.com/ChenKQ/rs_mxnet_reader)
 
->> ### 12.6 Parameter optimizer
+>> ### 13.6 Parameter optimizer
 >> - [YellowFin](https://github.com/StargazerZhu/YellowFin_MXNet)
 
->> ### 12.7 Deployment
+>> ### 13.7 Deployment
 >> - [Turi Create](https://github.com/apple/turicreate)
 >> - [MXNet-HRT](https://github.com/OAID/MXNet-HRT)
 >> - [Tengine](https://github.com/OAID/Tengine)
@@ -397,6 +405,6 @@ ________________
 >> - [tensorly](https://github.com/tensorly/tensorly)
 >> - [OpenVINO](https://software.intel.com/en-us/openvino-toolkit/documentation/featured)
 
->> ### 12.8 Other Branches
+>> ### 13.8 Other Branches
 >> - [ngraph-mxnet](https://github.com/NervanaSystems/ngraph-mxnet)
 >> - [distributedMXNet](https://github.com/TuSimple/distributedMXNet)
