@@ -384,6 +384,7 @@ ________________
 
 >> ### 13.6 Parameter optimizer
 >> - [YellowFin](https://github.com/StargazerZhu/YellowFin_MXNet)
+>> - [**LookaheadOptimizer**](https://github.com/wkcn/LookaheadOptimizer-mx)
 
 >> ### 13.7 Deployment
 >> - [Turi Create](https://github.com/apple/turicreate)
