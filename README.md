@@ -101,6 +101,7 @@ ________________
 >> - [FocalLoss(CUDA)](https://github.com/yuantangliang/softmaxfocalloss)
 >> - [dspnet](https://github.com/liangfu/dspnet)
 >> - [Faster_RCNN_for_DOTA](https://github.com/jessemelpolio/Faster_RCNN_for_DOTA)
+>> - [RoITransformer](https://github.com/dingjiansw101/RoITransformer_DOTA)
 >> - [cascade-rcnn-gluon(Gluon:star:)](https://github.com/lizhenbang56/cascade-rcnn-gluon)
 >> - [**SNIPER**](https://github.com/mahyarnajibi/SNIPER) with R-FCN-3K and SSH Face Detector
 >> - [Car-Detector-and-Tracker](https://github.com/YvesHarrison/Car-Detector-and-Tracker-Using-MXNet-and-KCF)
