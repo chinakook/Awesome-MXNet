@@ -124,6 +124,7 @@ ________________
 >> - [SEC](https://github.com/ascust/SEC-MXNet)
 >> - [**DRN**](https://github.com/zhuangyqin/DRN)
 >> - [panoptic-fpn](https://github.com/Angzz/panoptic-fpn-gluon)
+>> - [AdaptIS](https://github.com/saic-vul/adaptis)
 
 >> ### 2.4 Video Recognition and Object Detection
 >> - [Deep Feature Flow](https://github.com/msracver/Deep-Feature-Flow)
