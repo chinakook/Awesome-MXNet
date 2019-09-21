@@ -160,6 +160,7 @@ ________________
 >> - [iqiyi-vid-challenge 1st code](https://github.com/deepinx/iqiyi-vid-challenge)
 >> - [sdu-face-alignment](https://github.com/deepinx/sdu-face-alignment)
 >> - [PyramidBox](https://github.com/JJXiangJiaoJun/gluon_PyramidBox)
+>> - [A-Light-and-Fast-Face-Detector-for-Edge-Devices](https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices)
 
 
 >> ### 2.6 ReID
