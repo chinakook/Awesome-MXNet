@@ -136,7 +136,6 @@ ________________
  - [Deep Feature Flow](https://github.com/msracver/Deep-Feature-Flow)
  - [Flow-Guided Feature Aggregation](https://github.com/msracver/Flow-Guided-Feature-Aggregation)
  - [st-resnet](https://github.com/jay1204/st-resnet)
- - [ncf](https://github.com/xinyu-intel/ncf_mxnet)
 
  ### 2.5 Face Detection and Recognition
  - [MXNet Face](https://github.com/tornadomeet/mxnet-face)
@@ -316,6 +315,7 @@ ________________
  - [mxnet-recommender(Gluon:star:)](https://github.com/chen0040/mxnet-recommender)
  - [collaborative_filtering](https://github.com/opringle/collaborative_filtering)
  - [gluon-rank](https://github.com/opringle/gluon-rank)
+ - [ncf](https://github.com/xinyu-intel/ncf_mxnet)
 
 ## <a name="DRL"></a>8. DRL
  - [DRL](https://github.com/qyxqyx/DRL)
