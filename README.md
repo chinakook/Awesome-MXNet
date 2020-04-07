@@ -118,6 +118,7 @@ ________________
  - [Detection and Recognition in Remote Sensing Image](https://github.com/whywhs/Detection_and_Recognition_in_Remote_Sensing_Image)
  - [**simpledet**](https://github.com/TuSimple/simpledet) with FP16 and distributed training
  - [**FCOS**](https://github.com/Angzz/fcos-gluon-cv)
+ - [Cascade RCNN](https://github.com/zzdang/cascade_rcnn_gluon)
 
  ### 2.3 Image Segmentation
  - [FCN](https://github.com/dmlc/gluon-cv/blob/master/gluoncv/model_zoo/fcn.py)
