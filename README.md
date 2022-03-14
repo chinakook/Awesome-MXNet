@@ -89,6 +89,7 @@ ________________
  - [tasn](https://github.com/researchmm/tasn)
  - 3rdparty Resnet/Resnext/Inception/Xception/Air/DPN/SENet [pretrained models](https://github.com/soeaver/mxnet-model)
  - Collection of [pretrained models (Gluon:star:)](https://github.com/osmr/imgclsmob)
+ - [Run Image Classification with MXNet federated](https://github.com/adap/flower/tree/main/examples/mxnet_from_centralized_to_federated)
 
  ### 2.2 Object Detection
  - [PVANet](https://github.com/apache/incubator-mxnet/pull/7786)
@@ -384,7 +385,10 @@ ________________
  - [horovod](https://github.com/horovod/horovod)
  - [**byteps**](https://github.com/bytedance/byteps)
 
- ### 13.5 Productivity
+ ### 13.5 Federated Learning
+ - [Flower](https://flower.dev/)
+
+ ### 13.6 Productivity
  - [Email Monitor MxnetTrain](https://github.com/fierceX/Email_Monitor_MxnetTrain)
  - [mxnet-oneclick](https://github.com/imistyrain/mxnet-oneclick)
  - [mxnet-finetuner](https://github.com/knjcode/mxnet-finetuner)
@@ -392,11 +396,11 @@ ________________
  - [MXNet_Video_Trainer](https://github.com/likelyzhao/MXNet_Video_Trainer)
  - [rs_mxnet_reader](https://github.com/ChenKQ/rs_mxnet_reader)
 
- ### 13.6 Parameter optimizer
+ ### 13.7 Parameter optimizer
  - [YellowFin](https://github.com/StargazerZhu/YellowFin_MXNet)
  - [**LookaheadOptimizer**](https://github.com/wkcn/LookaheadOptimizer-mx)
 
- ### 13.7 Deployment
+ ### 13.8 Deployment
  - [Turi Create](https://github.com/apple/turicreate)
  - [MXNet-HRT](https://github.com/OAID/MXNet-HRT)
  - [Tengine](https://github.com/OAID/Tengine)
@@ -416,6 +420,6 @@ ________________
  - [tensorly](https://github.com/tensorly/tensorly)
  - [OpenVINO](https://software.intel.com/en-us/openvino-toolkit/documentation/featured)
 
- ### 13.8 Other Branches
+ ### 13.9 Other Branches
  - [ngraph-mxnet](https://github.com/NervanaSystems/ngraph-mxnet)
  - [distributedMXNet](https://github.com/TuSimple/distributedMXNet)
